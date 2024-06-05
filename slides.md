@@ -59,7 +59,8 @@ About us
 
 # Mariagrazia Giannella
 
-Presentazione di Mariagrazia
+- études sur le Japon
+- publications sur la culture japonaise
 
 ::right::
 
@@ -81,7 +82,11 @@ transition: fade-out
 
 Le Japon peut surprendre pour ce qui nous montre au dela de son visage plus connu.
 
-Et ce qu'on veut vous montrer est ce visage moins connu en nous appuyant sur notre experience
+Et ce qu'on veut vous montrer est ce visage moins connu en nous appuyant sur notre experience.
+Comme par exemple :
+Cohabitation de l' antiquité et la modernité (temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono)
+Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
+& trovare qualche foto
 
 ---
 transition: fade-out
