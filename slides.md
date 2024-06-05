@@ -1,7 +1,7 @@
 ---
 # try also 'default' to start simple
 theme: seriph
-background: ./mangasushi.jpeg 
+background: /images/mangasushi.jpeg
 # some information about your slides, markdown enabled
 title: Le Japon au dela des sushi et des mangas
 info: |
@@ -18,6 +18,7 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/guide/syntax#mdc-syntax
 mdc: true
+layout: cover
 ---
 
 # Le Japon au dela des sushi et des mangas
@@ -25,6 +26,62 @@ mdc: true
 Mariagrazia Giannella et Michele Caci
 
 Riviera DEV 2024
+
+---
+layout: image-left
+image: /images/stereo1.jpeg
+transition: fade-out
+---
+
+# Commencons par faire connaissance
+
+Quelle est votre experience avec le Japon?
+
+Par levee de main qui a ete au Japon pour au moins:
+
+- 1 semaine?
+- 2 semaines?
+- 1 mois?
+- 1 an?
+
+Vous auriez peut etre reconnu quelques symboles et objects
+
+---
+layout: two-cols-header
+transition: fade-out
+---
+
+# About us
+
+About us
+
+::left::
+
+# Mariagrazia Giannella
+
+Presentazione di Mariagrazia
+
+::right::
+
+# Michele Caci
+
+- Gopher
+- Conference Speaker
+- Japanese enthusiast
+
+![Michele](/images/michele.jpeg)
+
+---
+layout: image-left
+image: /images/robot3.jpeg
+transition: fade-out
+---
+
+# Le Japon
+
+Le Japon peut surprendre pour ce qui nous montre au dela de son visage plus connu.
+
+Et ce qu'on veut vous montrer est ce visage moins connu en nous appuyant sur notre experience
 
 ---
 transition: fade-out
@@ -38,17 +95,30 @@ Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non
 
 L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone 
 
+In the context of a talk for a conference, you might want to use phrases that are more specific to presentations and professional networking. Here are some French phrases tailored for such a setting:
+
+    “Bienvenue à tous.” - Welcome, everyone.
+    “Merci d’être venus.” - Thank you for coming.
+    “Nous allons commencer.” - We are going to start.
+    “Je vous présente…” - I present to you…
+    “Nous avons l’honneur d’accueillir…” - We have the honor of welcoming…
+    “Je suis ravi(e) de discuter de…” - I am delighted to discuss…
+    “Passons à la séance de questions-réponses.” - Let’s move on to the Q&A session.
+    “N’hésitez pas à poser des questions.” - Feel free to ask questions.
+    “Je vous remercie de votre attention.” - Thank you for your attention.
+    “Au plaisir de vous revoir.” - Looking forward to seeing you again.
+
+These phrases can help set a professional tone and facilitate smooth interactions during a conference talk. Remember to adjust the formality based on your audience and the setting of the event.
+
 ## Temi del talk
 
-Lingua
-Cibo
-Cultura Generale
-Manga
-Natura
-Lavoro
+- Lingua
+- Cibo
+- Cultura Generale
+- Manga
+- Natura
+- Lavoro
 
----
-transition: fade-out
 ---
 
 # Lingua
@@ -57,7 +127,7 @@ Nelle città più grandi/turistiche è più facile che si trovi chi parla ingles
 
 Parlare a gesti non è tabù.
 
-Se ci si sente coraggiosi: nihongo de daijoubu desu.
+Se ci si sente coraggiosi: nihongo de daijoubu desu. Aiuta a rompere le barriere linguistiche, i giapponesi sono molto simpatici.
 
 Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, ma se lo si parla anche minimamente i giapponesi saranno super felici.
 
