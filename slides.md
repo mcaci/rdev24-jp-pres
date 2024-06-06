@@ -83,48 +83,25 @@ transition: fade-out
 Le Japon peut surprendre pour ce qui nous montre au dela de son visage plus connu.
 
 Et ce qu'on veut vous montrer est ce visage moins connu en nous appuyant sur notre experience.
-Comme par exemple :
-Cohabitation de l' antiquité et la modernité (temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono)
-Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
-& trovare qualche foto
 
 ---
 transition: fade-out
 ---
 
-# Introduzione sul tipo di talk
+# Quelques exemples
 
-Interattivo (avere un discorso di backup in caso di poca interattivita')
-Per temi
-Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non ha un gran livello di cultura e lingua giapponese.
+- La langue
+- La nourriture
+- La culture generale
+- Les medias (Manga, Anime, Dorama, JPop)
+- La nature
+- La vie quotidienne (et le travail)
 
-L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone 
+Comme par exemple :
+Cohabitation de l' antiquité et la modernité (temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono)
+Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
+& trovare qualche foto
 
-In the context of a talk for a conference, you might want to use phrases that are more specific to presentations and professional networking. Here are some French phrases tailored for such a setting:
-
-    “Bienvenue à tous.” - Welcome, everyone.
-    “Merci d’être venus.” - Thank you for coming.
-    “Nous allons commencer.” - We are going to start.
-    “Je vous présente…” - I present to you…
-    “Nous avons l’honneur d’accueillir…” - We have the honor of welcoming…
-    “Je suis ravi(e) de discuter de…” - I am delighted to discuss…
-    “Passons à la séance de questions-réponses.” - Let’s move on to the Q&A session.
-    “N’hésitez pas à poser des questions.” - Feel free to ask questions.
-    “Je vous remercie de votre attention.” - Thank you for your attention.
-    “Au plaisir de vous revoir.” - Looking forward to seeing you again.
-
-These phrases can help set a professional tone and facilitate smooth interactions during a conference talk. Remember to adjust the formality based on your audience and the setting of the event.
-
-## Temi del talk
-
-- Lingua
-- Cibo
-- Cultura Generale
-- Manga
-- Natura
-- Lavoro
-
----
 
 # Lingua
 
@@ -199,9 +176,36 @@ vanno da soli in giro a prendere il bus (può andare nella questione sicurezza),
 rispetto per la natura, le 4 stagioni, i kami
 
 ---
-transition: fade-out
----
 
 # Lavoro
 
 ambiente, ore di lavoro, linguaggio, uscite serali 
+
+---
+transition: fade-out
+---
+
+# Introduzione sul tipo di talk
+
+Interattivo (avere un discorso di backup in caso di poca interattivita')
+Per temi
+Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non ha un gran livello di cultura e lingua giapponese.
+
+L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
+
+---
+
+In the context of a talk for a conference, you might want to use phrases that are more specific to presentations and professional networking. Here are some French phrases tailored for such a setting:
+
+    “Bienvenue à tous.” - Welcome, everyone.
+    “Merci d’être venus.” - Thank you for coming.
+    “Nous allons commencer.” - We are going to start.
+    “Je vous présente…” - I present to you…
+    “Nous avons l’honneur d’accueillir…” - We have the honor of welcoming…
+    “Je suis ravi(e) de discuter de…” - I am delighted to discuss…
+    “Passons à la séance de questions-réponses.” - Let’s move on to the Q&A session.
+    “N’hésitez pas à poser des questions.” - Feel free to ask questions.
+    “Je vous remercie de votre attention.” - Thank you for your attention.
+    “Au plaisir de vous revoir.” - Looking forward to seeing you again.
+
+These phrases can help set a professional tone and facilitate smooth interactions during a conference talk. Remember to adjust the formality based on your audience and the setting of the event.
