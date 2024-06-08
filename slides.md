@@ -37,14 +37,14 @@ transition: fade-out
 
 Quelle est votre experience avec le Japon?
 
-Par levee de main qui a ete au Japon pour au moins:
+Par levée de main qui a été au Japon pour au moins:
 
 - 1 semaine?
 - 2 semaines?
 - 1 mois?
 - 1 an?
 
-Vous auriez peut etre reconnu quelques symboles et objects
+Vous auriez peut-être reconnu quelques symboles et objects
 
 ---
 layout: two-cols-header
@@ -97,24 +97,45 @@ transition: fade-out
 - La nature
 - La vie quotidienne (et le travail)
 
-Comme par exemple :
+
 Cohabitation de l' antiquité et la modernité (temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono)
 Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
 & trovare qualche foto
 
 
-# Lingua
+# La Langue
+Dans les grandes villes est un peu plus facile pouvoir trouver une personne qui parle aussi Anglais.
 
-Nelle città più grandi/turistiche è più facile che si trovi chi parla inglese.
+Pour communiquer nous pouvons utiliser les gestes. Par exemple au restaurant nous pouvons indiquer un plat et nous pouvons dire en Japonais "Kore" que ca vais dire "ce".
 
-Parlare a gesti non è tabù.
+Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais pour t'aider car il comprend que la langue japonaise est un peu difficile.
 
+La langue japonaise a 3 alphabets: 
+
+今日、パンを食べます。
+
+Hiragana 
+46 syllabaires
+particules grammaticales
+suffixes
+morphèmes grammaticaux
+écrire la prononciation des 
+
+Katakana 
+46 syllabaires
+est utilisé pour écrire:
+mots d'origine étrangère パソコン pasokon : PC personal computer
+onomatopées フワフワ fuwafuwa: sensation agréable de ce qui est doux au toucher (pelucheux) ou fondant dans la bouche ; tendre et moelleux.
+
+Kanji 
+3000 pour avoir un bon niveau et arriver à lire et comprendre une page d'un journal
+caractères qui ont origine de la langue chinoise
+
+Nota simpatica:
+& mettere immagine dei 
 Se ci si sente coraggiosi: nihongo de daijoubu desu. Aiuta a rompere le barriere linguistiche, i giapponesi sono molto simpatici.
-
 Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, ma se lo si parla anche minimamente i giapponesi saranno super felici.
-
 Consigli per chi vuole imparare:
-
 - fare pratica ogni giorno
 - avere pazienza
 - vedere dorama, sentire canzoni. Anime ok ma è più il linguaggio informale tra giovani (potrebbe essere fatto a mo' di quiz)
@@ -124,22 +145,42 @@ Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera
 
 ---
 
-# Cibo
+# Les plats au Japon
 
-oltre il sushi, cosa conoscete?
+Est-ce que vous avez déjà mangé le sushi?
+Quel est votre plat préféré?
+au-delà du sushi, qu'est-ce que vous connaissez?
+
 
 ## Esperienza personale
 
-Piatti regionali 
-Frutta come oggetto prezioso
-Monjyayaki vs okonomiyaki
-Mochi preparazione a martellate
+Le nord et le sud du Japon ont des spécialités:
+ramen differentes recettes selon la région
+okonomiyaki , takoyaki Osaka
+monjayaki Tokyo alfabeti
+takoraisu à Okinawa
+gyoza
+yakisoba
+udon
+
+https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
+
+Les desserts
+dorayaki
+mochi
+
+Fruits
+c'est précieux
+c'est cher au Japon
+Tu n'achetes pas au kg mais à la pièce
+c'est un cadeau quand tu rends viste à quelqu'un
 
 ---
 
-# Cultura generale
+# La Culture japonaise
 
-Popolo rigoroso, con tante regole. Esempio del ritiro del diploma o del rientro al dormitorio al limite. Differenza tra giovani e anziani nel rigore.
+Peuple rigou
+popolo rigoroso, con tante regole. Esempio del ritiro del diploma o del rientro al dormitorio al limite. Differenza tra giovani e anziani nel rigore.
 Rispetto per la natura: esempio la spazzatura sempre a casa o nei konbini, mall etc. per non sporcare fuori
 Modernità e antichità che convivono oltre le apparenze architettoniche. Esempio della signora in kimono nella metro, bikkuri!
 Capodanno è più importante di natale. Natale per coppie, capodanno fila ai templi.
@@ -147,6 +188,9 @@ Capodanno è più importante di natale. Natale per coppie, capodanno fila ai tem
 Kimono: Lo yukata non è un kimono.
 
 I matsuri per parlare delle festività comunemente in estate. Quello di takayama (cosa vogliamo raccontare al riguardo?)
+
+la sicurezza e della cultura sul fatto che i bambini sono indipendenti fin da piccoli.
+vanno da soli in giro a prendere il bus (può andare nella questione sicurezza), imparano dalle elementari a fare le pulizie in classe. Il carrellino coi bambini a passeggio. Lavoro ambiente, ore di lavoro, linguaggio, uscite serali 
 
 ## Manga
 
@@ -160,14 +204,9 @@ Vari tipi per vari target (elencare i tipi e il target)
 <div class="p-1">
   <Tweet id="1791670422687383600" />
 </div>
+    
+mascotte sendai, himeji... & immagini viaggio
 
----
-
-# Bambini
-
-Penserei a cambiare questa sezione con la sicurezza e della cultura sul fatto che i bambini sono indipendenti fin da piccoli.
-
-vanno da soli in giro a prendere il bus (può andare nella questione sicurezza), imparano dalle elementari a fare le pulizie in classe. Il carrellino coi bambini a passeggio.
 
 ---
 
@@ -175,11 +214,7 @@ vanno da soli in giro a prendere il bus (può andare nella questione sicurezza),
 
 rispetto per la natura, le 4 stagioni, i kami
 
----
 
-# Lavoro
-
-ambiente, ore di lavoro, linguaggio, uscite serali 
 
 ---
 transition: fade-out
