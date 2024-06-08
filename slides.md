@@ -107,7 +107,7 @@ transition: fade-out
 - La culture generale
 - La nature
 - La vie quotidienne (et le travail)
-- - Les medias (Manga, Anime, Dorama, JPop)
+- Les medias (Manga, Anime, Dorama, JPop)
 
 ---
 
@@ -184,7 +184,9 @@ Fruits
 c'est précieux
 c'est un peu plus cher au Japon par rapport à la France
 Tu n'achetes pas au kg mais à la pièce
-c'est un cadeau quand tu rends viste à quelqu'un
+c'est un cadeau quand tu rends viste à quelqu'un.
+
+Fromage Kiri
 
 ---
 
@@ -203,21 +205,23 @@ reaction de l'agente de sécurité ancien et jeune
 - comment récupérer le diplôme
   la position des mains et les inclinations
 
-Les enfants prendent le metro tous seuls, à l'école ils apprennent à faire le ménage et à mantenir la classe propre
+Les enfants prendent le metro et le bus tous seuls car en général c'est un lieu sécurisé le Japon, à l'école ils apprennent à faire le ménage et à mantenir la classe propre.
 
-en général c'est un lieu sécurisé le Japon 
+Les japonais ont respect de la nature, car selon le shinto le kami est dans chaque élemént de la nature, les 4 saisons.
 
-respect dans la nature, car selon le shinto le kami est dans un élemént de la nature, les 4 saisons
+Il y a beaucoup de tremblement de terre, surtout à Tokyo, et les personnes sur interner peuvent règarder les informations en temps réel.
+Un jour le poteau électrique a commencé à bouger fort et des femmes m'ont aidé à comprendre la situation.
 
-tremblement de terre
-
-noël et nouvel an tradition
+Noël et nouvel an : tradition
 24 décembre gateau avec les fraises , fêter en couple
 31 décembre aller aux temples, sanctuaires et fêter en famille
 
 vêtements: uniforme à l'école, kimono vêtement en soie, yukata coton
 
 matsuri 
+Pendant l'année il y a beaucoup d'événements
+Hina matsuri doll festival - les filles 3 mars
+hina ningyo foto
 
 Cohabitation de l' antiquité et la modernité: temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono
 
@@ -241,7 +245,6 @@ vanno da soli in giro a prendere il bus (può andare nella questione sicurezza),
 
 Sara' importante
 Vari tipi per vari target (elencare i tipi e il target)
-
 ---
 
 # Mascottes
