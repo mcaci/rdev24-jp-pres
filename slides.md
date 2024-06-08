@@ -28,10 +28,6 @@ Mariagrazia Giannella et Michele Caci
 Riviera DEV 2024
 
 ---
-layout: image-left
-image: /images/stereo1.jpeg
-transition: fade-out
----
 
 # Introduzione sul tipo di talk
 
@@ -41,6 +37,10 @@ Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non
 
 L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
 
+---
+layout: image-left
+image: /images/stereo1.jpeg
+transition: fade-out
 ---
 
 # Commencons par faire connaissance
@@ -67,16 +67,17 @@ About us
 
 ::left::
 
-# Mariagrazia Giannella
+## Mariagrazia Giannella
 
-- études sur le Japon
-- publications sur la culture japonaise
+- A vecu et étudie le Japon
+- A ecrit des publications sur la culture japonaise
+- Nikkensei pour un an
 
 ![Mariagrazia](/images/mariagrazia.jpeg)
 
 ::right::
 
-# Michele Caci
+## Michele Caci
 
 - Gopher
 - Conference Speaker
@@ -111,44 +112,57 @@ transition: fade-out
 
 ---
 
-# La Langue
+# La Langue 1/3
+
 Dans les grandes villes est un peu plus facile pouvoir trouver une personne qui parle aussi Anglais.
 
 Pour communiquer nous pouvons utiliser les gestes. Par exemple au restaurant nous pouvons indiquer un plat et nous pouvons dire en Japonais "Kore" que ca vais dire "ce".
 
 Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais: c'est simplement pour t'aider car il comprend que la langue japonaise est un peu difficile.
 
-La langue japonaise a 3 alphabets: 
+---
+
+# La Langue 2/3
+
+La langue japonaise a 3 alphabets:
 
 今日、パンを食べます。
 
-Hiragana 
-46 syllabaires
-particules grammaticales
-suffixes
-morphèmes grammaticaux
-écrire la prononciation des 
+Hiragana
 
-Katakana 
-46 syllabaires
-est utilisé pour écrire:
-mots d'origine étrangère パソコン pasokon : PC personal computer
-onomatopées フワフワ fuwafuwa: sensation agréable de ce qui est doux au toucher (pelucheux) ou fondant dans la bouche ; tendre et moelleux.
+- 46 syllabaires
+- particules grammaticales
+- suffixes
+- morphèmes grammaticaux
+- écrire la prononciation des caractères
 
-Kanji 
-3000 pour avoir un bon niveau et arriver à lire et comprendre une page d'un journal
-caractères qui ont origine de la langue chinoise
+Katakana
+
+46 syllabaires
+est utilisé pour écrire: mots d'origine étrangère パソコン pasokon : PC personal computer; onomatopées フワフワ fuwafuwa: sensation agréable de ce qui est doux au toucher (pelucheux) ou fondant dans la bouche ; tendre et moelleux.
+
+Kanji
+
+caractères qui ont origine de la langue chinoise; 3000 pour avoir un bon niveau et arriver à lire et comprendre une page d'un journal
+
+---
+
+# La Langue 3/3
 
 Nota simpatica:
 & mettere immagine dei 3 alfabeti
 Se ci si sente coraggiosi: nihongo de daijoubu desu. Aiuta a rompere le barriere linguistiche, i giapponesi sono molto simpatici.
 Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, ma se lo si parla anche minimamente i giapponesi saranno super felici.
+
 Consigli per chi vuole imparare:
+
 - fare pratica ogni giorno
 - avere pazienza
 - vedere dorama, sentire canzoni. Anime ok ma è più il linguaggio informale tra giovani (potrebbe essere fatto a mo' di quiz)
-- vari livelli di formalità, di inchino: kenjyogo, sonkeigo, teinen, Japanese for business 
+- vari livelli di formalità, di inchino: kenjyogo, sonkeigo, teinen, Japanese for business
+
 Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera divertente)
+
 - non sono diretti nel parlare. esempio: amano parlare del tempo meteo, usano monosillabi invece di parlare (vedi Instagram)
 
 ---
@@ -161,7 +175,6 @@ Quel est votre plat préféré?
 
 au-delà du sushi, qu'est-ce que vous connaissez?
 
-
 ## Esperienza personale
 
 Le nord et le sud du Japon ont des spécialités:
@@ -172,6 +185,8 @@ takoraisu à Okinawa
 gyoza
 yakisoba
 udon
+gyutan (nota simpatica (chi la conosce?) - Sendai)
+kushikatsu (Osaka)
 
 https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
 
@@ -209,6 +224,10 @@ Les enfants prendent le metro et le bus tous seuls car en général c'est un lie
 
 Les japonais ont respect de la nature, car selon le shinto le kami est dans chaque élemént de la nature, les 4 saisons.
 
+---
+
+# Jishin / Namazu / Nuovo anno / Vestiti / Matsuri / Koen
+
 Il y a beaucoup de tremblement de terre, surtout à Tokyo, et les personnes sur interner peuvent règarder les informations en temps réel.
 Un jour le poteau électrique a commencé à bouger fort et des femmes m'ont aidé à comprendre la situation.
 
@@ -229,6 +248,10 @@ Grands jardins dans une grande ville où il y a uniquement les sons de la nature
 
 & trovare qualche foto
 
+---
+
+# Rigore / Natura / Kimono / Matsuri / Sicurezza
+
 popolo rigoroso, con tante regole. Esempio del ritiro del diploma o del rientro al dormitorio al limite. Differenza tra giovani e anziani nel rigore.
 Rispetto per la natura: esempio la spazzatura sempre a casa o nei konbini, mall etc. per non sporcare fuori
 Modernità e antichità che convivono oltre le apparenze architettoniche. Esempio della signora in kimono nella metro, bikkuri!
@@ -239,12 +262,15 @@ Kimono: Lo yukata non è un kimono.
 I matsuri per parlare delle festività comunemente in estate. Quello di takayama (cosa vogliamo raccontare al riguardo?)
 
 la sicurezza e della cultura sul fatto che i bambini sono indipendenti fin da piccoli.
-vanno da soli in giro a prendere il bus (può andare nella questione sicurezza), imparano dalle elementari a fare le pulizie in classe. Il carrellino coi bambini a passeggio. Lavoro ambiente, ore di lavoro, linguaggio, uscite serali 
+vanno da soli in giro a prendere il bus (può andare nella questione sicurezza), imparano dalle elementari a fare le pulizie in classe. Il carrellino coi bambini a passeggio. Lavoro ambiente, ore di lavoro, linguaggio, uscite serali.
 
-## Manga
+---
 
-Sara' importante
+# Manga (e altri strumenti culturali tipo Anime, Dorama, JPop e altra roba)
+
+Sara' importante andare al di la' del cliche.
 Vari tipi per vari target (elencare i tipi e il target)
+
 ---
 
 # Mascottes
