@@ -168,10 +168,11 @@ https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
 Les desserts
 dorayaki
 mochi
+meronpan
 
 Fruits
 c'est précieux
-c'est cher au Japon
+c'est un peu plus cher au Japon par rapport à la France
 Tu n'achetes pas au kg mais à la pièce
 c'est un cadeau quand tu rends viste à quelqu'un
 
@@ -179,7 +180,24 @@ c'est un cadeau quand tu rends viste à quelqu'un
 
 # La Culture japonaise
 
-Peuple rigou
+Peuple rigourex , précis, rispecteux vers les autres et la nature.
+Trains toujours à l'heure.
+Il y a des règles à suivre: escalier roulant, rentrer dans les transports en commun, à l' école
+
+Mon expérience dans le dortoir :
+heure de fermeture du portail
+reaction de l'agente de sécurité ancien et jeune
+
+Les enfants prendent le metro tous seuls
+
+en général c'est un lieu sécurisé le Japon 
+
+respect dans la nature, car selon le shinto les  kami saisons
+
+noël
+
+vêtements: uniforme à l'école, kimono, yukata
+
 popolo rigoroso, con tante regole. Esempio del ritiro del diploma o del rientro al dormitorio al limite. Differenza tra giovani e anziani nel rigore.
 Rispetto per la natura: esempio la spazzatura sempre a casa o nei konbini, mall etc. per non sporcare fuori
 Modernità e antichità che convivono oltre le apparenze architettoniche. Esempio della signora in kimono nella metro, bikkuri!
@@ -206,13 +224,6 @@ Vari tipi per vari target (elencare i tipi e il target)
 </div>
     
 mascotte sendai, himeji... & immagini viaggio
-
-
----
-
-# Natura
-
-rispetto per la natura, le 4 stagioni, i kami
 
 
 
