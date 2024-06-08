@@ -167,6 +167,15 @@ Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera
 
 ---
 
+# Ganbatte
+
+<div class="p-1">
+  <Youtube id="w4XqmNU_TOw"/>
+</div>
+
+
+---
+
 # Les plats au Japon
 
 Est-ce que vous avez déjà mangé le sushi?
