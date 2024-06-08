@@ -33,6 +33,16 @@ image: /images/stereo1.jpeg
 transition: fade-out
 ---
 
+# Introduzione sul tipo di talk
+
+Interattivo (avere un discorso di backup in caso di poca interattivita')
+Per temi
+Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non ha un gran livello di cultura e lingua giapponese.
+
+L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
+
+---
+
 # Commencons par faire connaissance
 
 Quelle est votre experience avec le Japon?
@@ -61,6 +71,8 @@ About us
 
 - études sur le Japon
 - publications sur la culture japonaise
+
+![Mariagrazia](/images/mariagrazia.jpeg)
 
 ::right::
 
@@ -93,22 +105,18 @@ transition: fade-out
 - La langue
 - La nourriture
 - La culture generale
-- Les medias (Manga, Anime, Dorama, JPop)
 - La nature
 - La vie quotidienne (et le travail)
+- - Les medias (Manga, Anime, Dorama, JPop)
 
-
-Cohabitation de l' antiquité et la modernité (temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono)
-Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
-& trovare qualche foto
-
+---
 
 # La Langue
 Dans les grandes villes est un peu plus facile pouvoir trouver une personne qui parle aussi Anglais.
 
 Pour communiquer nous pouvons utiliser les gestes. Par exemple au restaurant nous pouvons indiquer un plat et nous pouvons dire en Japonais "Kore" que ca vais dire "ce".
 
-Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais pour t'aider car il comprend que la langue japonaise est un peu difficile.
+Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais: c'est simplement pour t'aider car il comprend que la langue japonaise est un peu difficile.
 
 La langue japonaise a 3 alphabets: 
 
@@ -132,7 +140,7 @@ Kanji
 caractères qui ont origine de la langue chinoise
 
 Nota simpatica:
-& mettere immagine dei 
+& mettere immagine dei 3 alfabeti
 Se ci si sente coraggiosi: nihongo de daijoubu desu. Aiuta a rompere le barriere linguistiche, i giapponesi sono molto simpatici.
 Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, ma se lo si parla anche minimamente i giapponesi saranno super felici.
 Consigli per chi vuole imparare:
@@ -148,7 +156,9 @@ Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera
 # Les plats au Japon
 
 Est-ce que vous avez déjà mangé le sushi?
+
 Quel est votre plat préféré?
+
 au-delà du sushi, qu'est-ce que vous connaissez?
 
 
@@ -156,8 +166,8 @@ au-delà du sushi, qu'est-ce que vous connaissez?
 
 Le nord et le sud du Japon ont des spécialités:
 ramen differentes recettes selon la région
-okonomiyaki , takoyaki Osaka
-monjayaki Tokyo alfabeti
+okonomiyaki , takoyaki à Osaka
+monjayaki à Tokyo
 takoraisu à Okinawa
 gyoza
 yakisoba
@@ -180,23 +190,40 @@ c'est un cadeau quand tu rends viste à quelqu'un
 
 # La Culture japonaise
 
-Peuple rigourex , précis, rispecteux vers les autres et la nature.
+Peuple rigourex , précis, rispecteux vers les autres et la nature. Le travail a un valeur important faire des heures supplementaires, sortir après le travail avec les collègues et le chef.
+
 Trains toujours à l'heure.
-Il y a des règles à suivre: escalier roulant, rentrer dans les transports en commun, à l' école
+
+Il y a des règles à suivre: où marcher dans les rues, où aller sur l' escalier roulant, rentrer dans les transports en commun, à l' école
 
 Mon expérience dans le dortoir :
-heure de fermeture du portail
+- heure de fermeture du portail
 reaction de l'agente de sécurité ancien et jeune
 
-Les enfants prendent le metro tous seuls
+- comment récupérer le diplôme
+  la position des mains et les inclinations
+
+Les enfants prendent le metro tous seuls, à l'école ils apprennent à faire le ménage et à mantenir la classe propre
 
 en général c'est un lieu sécurisé le Japon 
 
-respect dans la nature, car selon le shinto les  kami saisons
+respect dans la nature, car selon le shinto le kami est dans un élemént de la nature, les 4 saisons
 
-noël
+tremblement de terre
 
-vêtements: uniforme à l'école, kimono, yukata
+noël et nouvel an tradition
+24 décembre gateau avec les fraises , fêter en couple
+31 décembre aller aux temples, sanctuaires et fêter en famille
+
+vêtements: uniforme à l'école, kimono vêtement en soie, yukata coton
+
+matsuri 
+
+Cohabitation de l' antiquité et la modernité: temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono
+
+Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
+
+& trovare qualche foto
 
 popolo rigoroso, con tante regole. Esempio del ritiro del diploma o del rientro al dormitorio al limite. Differenza tra giovani e anziani nel rigore.
 Rispetto per la natura: esempio la spazzatura sempre a casa o nei konbini, mall etc. per non sporcare fuori
@@ -229,16 +256,6 @@ mascotte sendai, himeji... & immagini viaggio
 
 ---
 transition: fade-out
----
-
-# Introduzione sul tipo di talk
-
-Interattivo (avere un discorso di backup in caso di poca interattivita')
-Per temi
-Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non ha un gran livello di cultura e lingua giapponese.
-
-L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
-
 ---
 
 In the context of a talk for a conference, you might want to use phrases that are more specific to presentations and professional networking. Here are some French phrases tailored for such a setting:
