@@ -47,23 +47,29 @@ transition: fade-out
 
 Quelle est votre experience avec le Japon?
 
-Par levée de main qui a été au Japon pour au moins:
+<v-click>Par levée de main qui a été au Japon pour au moins:</v-click>
+
+<v-clicks>
 
 - 1 semaine?
 - 2 semaines?
 - 1 mois?
 - 1 an?
 
-Vous auriez peut-être reconnu quelques symboles et objects
+</v-clicks>
+
+<!-- 
+L'idea e' di conoscerci un po' con la audience.
+Idealmente ci sono poche persone (tra cui Mariagrazia) che sono rimaste solo un anno
+e potremmo chiederle cosa hanno fatto durante l'anno per poi passare alla nostra presentazione.
+-->
 
 ---
 layout: two-cols-header
 transition: fade-out
 ---
 
-# About us
-
-About us
+# Quelques mots sur nous
 
 ::left::
 
@@ -73,7 +79,7 @@ About us
 - A ecrit des publications sur la culture japonaise
 - Nikkensei pour un an
 
-![Mariagrazia](/images/mariagrazia.jpeg)
+<img src="/images/mariagrazia.jpeg" alt="image of mariagrazia" class="rounded shadow" height=50% width=50%/>
 
 ::right::
 
@@ -83,7 +89,7 @@ About us
 - Conference Speaker
 - Japanese enthusiast
 
-![Michele](/images/michele.jpeg)
+<img src="/images/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
 
 ---
 layout: image-left
