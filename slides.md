@@ -92,7 +92,7 @@ transition: fade-out
 <img src="/images/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
 
 ---
-layout: image-left
+layout: image-right
 image: /images/robot3.jpeg
 transition: fade-out
 ---
@@ -103,8 +103,6 @@ Le Japon peut surprendre pour ce qui nous montre au dela de son visage plus conn
 
 Et ce qu'on veut vous montrer est ce visage moins connu en nous appuyant sur notre experience.
 
----
-transition: fade-out
 ---
 
 # Quelques exemples
@@ -117,43 +115,80 @@ transition: fade-out
 - Les medias (Manga, Anime, Dorama, JPop)
 
 ---
-
-# La Langue 1/3
-
-Dans les grandes villes est un peu plus facile pouvoir trouver une personne qui parle aussi Anglais.
-
-Pour communiquer nous pouvons utiliser les gestes. Par exemple au restaurant nous pouvons indiquer un plat et nous pouvons dire en Japonais "Kore" que ca vais dire "ce".
-
-Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais: c'est simplement pour t'aider car il comprend que la langue japonaise est un peu difficile.
-
+layout: image-right
+image: /images/kanji1.jpg
+transition: fade-out
 ---
 
-# La Langue 2/3
+# La Langue Japonaise
 
-La langue japonaise a 3 alphabets:
+Commento per noi speakers: Dare un po' il nostro parere per passare poi alla spiegazione nella slide successiva
+
+<v-clicks>
+
+Est-ce que quelqu'un a deja etudie le langue japonaise
+
+Comment ca c'est passe?
+
+- Facile?
+- Moyen?
+- Difficile?
+
+</v-clicks>
+
+<!-- 
+L'idea e' di iniziare ad avere una piccola reazione del pubblico alla loro esperienza 
+per poi entrare con la nostra esperienza e spiegare gli elementi e dare i consigli che desideriamo condividere.
+-->
+
+---
+layout: image-right
+image: /images/kanji1.jpg
+transition: fade-out
+---
+
+# Hiragana, Katakana, Kanji
+
+Les 3 alphabets de la langue japonaise
 
 今日、パンを食べます。
 
 Hiragana
 
 - 46 syllabaires
-- particules grammaticales
-- suffixes
-- morphèmes grammaticaux
-- écrire la prononciation des caractères
+- utilisé pour (entre autres):
+  - particules grammaticales
+  - suffixes
+  - morphèmes grammaticaux
+  - écrire la prononciation des Kanjis
 
 Katakana
 
-46 syllabaires
-est utilisé pour écrire: mots d'origine étrangère パソコン pasokon : PC personal computer; onomatopées フワフワ fuwafuwa: sensation agréable de ce qui est doux au toucher (pelucheux) ou fondant dans la bouche ; tendre et moelleux.
+- 46 syllabaires
+- utilisé pour (entre autres):
+  - mots d'origine étrangère パソコン pasokon : PC personal computer;
+  - onomatopées フワフワ fuwafuwa: sensation agréable de ce qui est doux au toucher (pelucheux) ou fondant dans la bouche ; tendre et moelleux.
 
 Kanji
 
-caractères qui ont origine de la langue chinoise; 3000 pour avoir un bon niveau et arriver à lire et comprendre une page d'un journal
+- caractères qui ont origine de la langue chinoise
+- si vous en connaissez 3000, vous pouvez lire et comprendre une page d'un journal (et avoir un bon niveau)
 
 ---
+layout: image-right
+image: /images/kanji1.jpg
+transition: fade-out
+---
 
-# La Langue 3/3
+# Apprendre le Japonais
+
+Est-ce que c'est important de parler japonais au Japon?
+
+Dans les grandes villes est un peu plus facile pouvoir trouver une personne qui parle aussi Anglais.
+
+Pour communiquer nous pouvons utiliser les gestes. Par exemple au restaurant nous pouvons indiquer un plat et nous pouvons dire en Japonais "Kore" que ca vais dire "ce".
+
+Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais: c'est simplement pour t'aider car il comprend que la langue japonaise est un peu difficile.
 
 Nota simpatica:
 & mettere immagine dei 3 alfabeti
@@ -176,7 +211,22 @@ Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera
 # Ganbatte
 
 <div class="p-1">
-  <Youtube id="w4XqmNU_TOw"/>
+  <Youtube id="IbJHce0anyE"/>
+</div>
+<div class="p-1">
+  <Youtube id="MvtTAUbLW-E"/>
+</div>
+<div class="p-1">
+  <Youtube id="zeLFAa0KQUU"/>
+</div>
+<div class="p-1">
+  <Youtube id="puWvjyIA6wQ"/>
+</div>
+<div class="p-1">
+  <Youtube id="9Do-CkrI00I"/>
+</div>
+<div class="p-1">
+  <Youtube id="8M_seGZiQ9w"/>
 </div>
 
 
