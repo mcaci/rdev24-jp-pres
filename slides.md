@@ -207,8 +207,13 @@ Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera
 - non sono diretti nel parlare. esempio: amano parlare del tempo meteo, usano monosillabi invece di parlare (vedi Instagram)
 
 ---
+layout: two-cols-header
+transition: fade-out
+---
 
-# Ganbatte
+# Et apres avoir appris...
+
+::left::
 
 <div class="p-1">
   <Youtube id="IbJHce0anyE"/>
@@ -219,6 +224,9 @@ Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera
 <div class="p-1">
   <Youtube id="zeLFAa0KQUU"/>
 </div>
+
+::right::
+
 <div class="p-1">
   <Youtube id="puWvjyIA6wQ"/>
 </div>
