@@ -75,9 +75,9 @@ transition: fade-out
 
 ## Mariagrazia Giannella
 
-- A vecu et étudie le Japon
-- A ecrit des publications sur la culture japonaise
-- Nikkensei pour un an
+- Étudie le japonais pour 5+ ans
+- Vecu au Japon pour 1+ an / Nikkensei
+- Aspirante dev
 
 <img src="/images/mariagrazia.jpeg" alt="image of mariagrazia" class="rounded shadow" height=50% width=50%/>
 
@@ -86,8 +86,8 @@ transition: fade-out
 ## Michele Caci
 
 - Gopher
-- Conference Speaker
-- Japanese enthusiast
+- Speakeur
+- Aspirant etudiant de japonais
 
 <img src="/images/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
 
