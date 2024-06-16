@@ -114,6 +114,11 @@ Et ce qu'on veut vous montrer est ce visage moins connu en nous appuyant sur not
 - La vie quotidienne (et le travail)
 - Les medias (Manga, Anime, Dorama, JPop)
 
+<!-- 
+Per eventualmente saltare di argomento in argomento
+https://sli.dev/builtin/components#link 
+-->
+
 ---
 layout: image-right
 image: /images/kanji1.jpg
