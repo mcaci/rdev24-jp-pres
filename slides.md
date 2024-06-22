@@ -359,7 +359,11 @@ Vari tipi per vari target (elencare i tipi e il target)
     
 mascotte sendai, himeji... & immagini viaggio
 
+---
+transition: fade-out
+---
 
+Coppini, museo arti asiatiche, mostra samurai mediateca
 
 ---
 transition: fade-out
