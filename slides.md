@@ -131,9 +131,9 @@ Commento per noi speakers: Dare un po' il nostro parere per passare poi alla spi
 
 <v-clicks>
 
-Est-ce que quelqu'un a deja etudie le langue japonaise
+Est-ce que quelqu'un a déjà etudié le langue japonaise?
 
-Comment ca c'est passe?
+Comment ca c'est passé?
 
 - Facile?
 - Moyen?
@@ -165,7 +165,7 @@ Hiragana
   - particules grammaticales
   - suffixes
   - morphèmes grammaticaux
-  - écrire la prononciation des Kanjis
+  - écrire la prononciation des Kanji
 
 Katakana
 
@@ -206,6 +206,8 @@ Consigli per chi vuole imparare:
 - avere pazienza
 - vedere dorama, sentire canzoni. Anime ok ma è più il linguaggio informale tra giovani (potrebbe essere fatto a mo' di quiz)
 - vari livelli di formalità, di inchino: kenjyogo, sonkeigo, teinen, Japanese for business
+- keigo (敬語), c’est à dire le langage de politesse. Celui-ci possède trois branches : le langage poli, où Teineigo (丁寧語) qui comprend l’utilisation de la forme en masu, le langage de respect, ou Sonkeigo (尊敬語) qui s’utilise pour parler avec beaucoup de respect à quelqu’un, et enfin le langage de modestie, ou Kenjôgo (謙譲語).
+Si le Sonkeigo témoigne du respect en mettant l’interlocuteur sur un piédestal, le Kenjôgo, lui, témoigne du respect en se rabaissant soi-même !
 
 Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera divertente)
 
@@ -257,14 +259,14 @@ au-delà du sushi, qu'est-ce que vous connaissez?
 
 Le nord et le sud du Japon ont des spécialités:
 ramen differentes recettes selon la région
-okonomiyaki , takoyaki à Osaka
+okonomiyaki , takoyaki, kushikatsu à Osaka
 monjayaki à Tokyo
 takoraisu à Okinawa
 gyoza
 yakisoba
 udon
 gyutan (nota simpatica (chi la conosce?) - Sendai)
-kushikatsu (Osaka)
+
 
 https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
 
@@ -279,15 +281,16 @@ c'est un peu plus cher au Japon par rapport à la France
 Tu n'achetes pas au kg mais à la pièce
 c'est un cadeau quand tu rends viste à quelqu'un.
 
-Fromage Kiri
+si je voulais du Fromage, à Tokyo dans le supermarché j'ai trouvé le fromage Kiri
 
 ---
 
 # La Culture japonaise
 
-Peuple rigourex , précis, rispecteux vers les autres et la nature. Le travail a un valeur important faire des heures supplementaires, sortir après le travail avec les collègues et le chef.
+Peuple rigourex , précis, rispecteux vers les autres et la nature. 
+Le travail a un valeur important faire des heures supplementaires, sortir après le travail avec les collègues et le chef.
 
-Trains toujours à l'heure.
+Les Trains sont toujours à l'heure.
 
 Il y a des règles à suivre: où marcher dans les rues, où aller sur l' escalier roulant, rentrer dans les transports en commun, à l' école
 
@@ -298,56 +301,66 @@ reaction de l'agente de sécurité ancien et jeune
 - comment récupérer le diplôme
   la position des mains et les inclinations
 
-Les enfants prendent le metro et le bus tous seuls car en général c'est un lieu sécurisé le Japon, à l'école ils apprennent à faire le ménage et à mantenir la classe propre.
+  qu'est-ce que vous connaissez?
+  ikebana
+  karate
 
-Les japonais ont respect de la nature, car selon le shinto le kami est dans chaque élemént de la nature, les 4 saisons.
 
 ---
 
-# Jishin / Namazu / Nuovo anno / Vestiti / Matsuri / Koen
+# Jishin 
 
-Il y a beaucoup de tremblement de terre, surtout à Tokyo, et les personnes sur interner peuvent règarder les informations en temps réel.
+Il y a beaucoup de tremblement de terre, surtout à Tokyo, et les personnes sur internet peuvent règarder les informations en temps réel.
 Un jour le poteau électrique a commencé à bouger fort et des femmes m'ont aidé à comprendre la situation.
 
-Noël et nouvel an : tradition
-24 décembre gateau avec les fraises , fêter en couple
-31 décembre aller aux temples, sanctuaires et fêter en famille
+# Les vêtements
+uniforme à l'école
+kimono vêtement en soie (elegant, pour les grandes occasions mariage, mais aussi les enterrements)
+yukata coton (vêtement de l' été)
 
-vêtements: uniforme à l'école, kimono vêtement en soie, yukata coton
-
-matsuri 
+#matsuri 
 Pendant l'année il y a beaucoup d'événements
-Hina matsuri doll festival - les filles 3 mars
-hina ningyo foto
 
-Cohabitation de l' antiquité et la modernité: temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono
+Hina matsuri doll festival - les filles 3 mars
+hina ningyo les poupées
+
+Takayama Matsuri Sanno Matsuri procession avec les vêtements traditionnels
+
+Noel: gateau avec les fraises, fêter en couple
+
+Nouvelle an: aller au temple, sanctuaire selon la réligion et Fêter en famille
+
+---
+
+# Rigore / Natura / Sicurezza
+
+Les japonais ont un fort respect de la nature, car selon le shinto le kami, élément surnaturel, est dans chaque élemént de la nature. Ils sont sensibles au changements des 4 saisons.
+Nous ne pouvons pas manger à l'exterieur, pas de poubelles pour ne pas salir les lieux
+
+Les enfants prendent le metro et le bus tous seuls car en général c'est un lieu sécurisé le Japon, à l'école ils apprennent à être autonome, à faire le ménage et à mantenir la classe propre.
+
+Cohabitation de l' antiquité et la modernité: temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono (dame avec kimono dans le metro)
 
 Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
 
-& trovare qualche foto
+& foto
 
----
-
-# Rigore / Natura / Kimono / Matsuri / Sicurezza
-
-popolo rigoroso, con tante regole. Esempio del ritiro del diploma o del rientro al dormitorio al limite. Differenza tra giovani e anziani nel rigore.
-Rispetto per la natura: esempio la spazzatura sempre a casa o nei konbini, mall etc. per non sporcare fuori
-Modernità e antichità che convivono oltre le apparenze architettoniche. Esempio della signora in kimono nella metro, bikkuri!
-Capodanno è più importante di natale. Natale per coppie, capodanno fila ai templi.
-
-Kimono: Lo yukata non è un kimono.
-
-I matsuri per parlare delle festività comunemente in estate. Quello di takayama (cosa vogliamo raccontare al riguardo?)
-
-la sicurezza e della cultura sul fatto che i bambini sono indipendenti fin da piccoli.
-vanno da soli in giro a prendere il bus (può andare nella questione sicurezza), imparano dalle elementari a fare le pulizie in classe. Il carrellino coi bambini a passeggio. Lavoro ambiente, ore di lavoro, linguaggio, uscite serali.
 
 ---
 
 # Manga (e altri strumenti culturali tipo Anime, Dorama, JPop e altra roba)
 
+Les mangas se lisent généralement de droite à gauche. En raison du rythme élevé de parution1 et pour limiter le coût d'impression, la plupart des mangas sont dessinés en noir et blanc, mis à part la couverture. 
+
+Le manga, bien que très ancré dans la culture japonaise moderne, trouve ses péripéties dans la peinture narrative qui apparaît à l'époque de Nara  (710-794), avec l'apparition des premiers rouleaux narratifs peints japonais : les emakimono. Ces œuvres associaient en effet des peintures à des textes calligraphiés qui assuraient, ensemble, le récit d'une histoire que l'on découvrait au fur et à mesure que se déroulait le rouleau. 
+
+Lors de la période Edo, les estampes étaient d'abord destinées à l'illustration de livres, mais, très vite, le rapport de force s'inversa et l'on vit l'apparition de « livres à lire » en opposition avec les « livres à regarder », les kusazōshi tels que le kibyōshi. Puis vint la disparition relative des écrits complémentaires et la naissance de l'estampe « indépendante » en une seule illustration, qui est la forme la plus fréquente de l’ukiyo-e. C'est d'ailleurs Katsushika Hokusai (1760-1849), le fondateur de l'estampe de paysage, qui donna son nom au manga (littéralement « dessins grotesques »), nommant ainsi ses célèbres caricatures les Hokusai Manga, qu'il publia de 1814 à 1834 à Nagoya.
+
+Enfin, et notamment dans le manga de type shōjo, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, tout en sachant que ce mouvement a été provoqué en partie par le japonisme en Europe, à la suite de la découverte des estampes par les Occidentaux16.
+
+
 Sara' importante andare al di la' del cliche.
-Vari tipi per vari target (elencare i tipi e il target)
+Vari tipi per vari target (elencare i tipi e il target
 
 ---
 
@@ -373,7 +386,7 @@ In the context of a talk for a conference, you might want to use phrases that ar
 
     “Bienvenue à tous.” - Welcome, everyone.
     “Merci d’être venus.” - Thank you for coming.
-    “Nous allons commencer.” - We are going to start.
+    “Nous allons commencer.” - We are going to start
     “Je vous présente…” - I present to you…
     “Nous avons l’honneur d’accueillir…” - We have the honor of welcoming…
     “Je suis ravi(e) de discuter de…” - I am delighted to discuss…
