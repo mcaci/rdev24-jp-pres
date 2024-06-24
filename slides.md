@@ -244,7 +244,8 @@ transition: fade-out
   <Youtube id="8M_seGZiQ9w"/>
 </div>
 
-
+---
+transition: fade-out
 ---
 
 # Les plats au Japon
@@ -284,6 +285,8 @@ c'est un cadeau quand tu rends viste à quelqu'un.
 si je voulais du Fromage, à Tokyo dans le supermarché j'ai trouvé le fromage Kiri
 
 ---
+transition: fade-out
+---
 
 # La Culture japonaise
 
@@ -305,13 +308,18 @@ reaction de l'agente de sécurité ancien et jeune
   ikebana
   karate
 
-
+---
+transition: fade-out
 ---
 
 # Jishin 
 
 Il y a beaucoup de tremblement de terre, surtout à Tokyo, et les personnes sur internet peuvent règarder les informations en temps réel.
 Un jour le poteau électrique a commencé à bouger fort et des femmes m'ont aidé à comprendre la situation.
+
+---
+transition: fade-out
+---
 
 # Les vêtements
 uniforme à l'école
@@ -331,6 +339,8 @@ Noel: gateau avec les fraises, fêter en couple
 Nouvelle an: aller au temple, sanctuaire selon la réligion et Fêter en famille
 
 ---
+transition: fade-out
+---
 
 # Rigore / Natura / Sicurezza
 
@@ -345,7 +355,8 @@ Grands jardins dans une grande ville où il y a uniquement les sons de la nature
 
 & foto
 
-
+---
+transition: fade-out
 ---
 
 # Manga (e altri strumenti culturali tipo Anime, Dorama, JPop e altra roba)
@@ -356,12 +367,13 @@ Le manga, bien que très ancré dans la culture japonaise moderne, trouve ses p�
 
 Lors de la période Edo, les estampes étaient d'abord destinées à l'illustration de livres, mais, très vite, le rapport de force s'inversa et l'on vit l'apparition de « livres à lire » en opposition avec les « livres à regarder », les kusazōshi tels que le kibyōshi. Puis vint la disparition relative des écrits complémentaires et la naissance de l'estampe « indépendante » en une seule illustration, qui est la forme la plus fréquente de l’ukiyo-e. C'est d'ailleurs Katsushika Hokusai (1760-1849), le fondateur de l'estampe de paysage, qui donna son nom au manga (littéralement « dessins grotesques »), nommant ainsi ses célèbres caricatures les Hokusai Manga, qu'il publia de 1814 à 1834 à Nagoya.
 
-Enfin, et notamment dans le manga de type shōjo, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, tout en sachant que ce mouvement a été provoqué en partie par le japonisme en Europe, à la suite de la découverte des estampes par les Occidentaux16.
-
+Enfin, et notamment dans le manga de type shōjo, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, tout en sachant que ce mouvement a été provoqué en partie par le japonisme en Europe, à la suite de la découverte des estampes par les Occidentaux.
 
 Sara' importante andare al di la' del cliche.
-Vari tipi per vari target (elencare i tipi e il target
+Vari tipi per vari target (elencare i tipi e il target)
 
+---
+transition: fade-out
 ---
 
 # Mascottes
@@ -375,6 +387,8 @@ mascotte sendai, himeji... & immagini viaggio
 ---
 transition: fade-out
 ---
+
+# Lieux et evenement dans la region
 
 Coppini, museo arti asiatiche, mostra samurai mediateca
 
