@@ -266,7 +266,7 @@ takoraisu à Okinawa
 gyoza
 yakisoba
 udon
-gyutan (nota simpatica (chi la conosce?) - Sendai)
+gyutan (langue de Boer nota simpatica (chi la conosce?) - Sendai)
 
 
 https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
@@ -324,13 +324,17 @@ transition: fade-out
 # Les vêtements
 uniforme à l'école
 kimono vêtement en soie (elegant, pour les grandes occasions mariage, mais aussi les enterrements)
-yukata coton (vêtement de l' été)
+yukata coton (vêtement de l' été)Femme
+jinbei EN cotone pour homme (Nuit ou pour l' intérieur) 
+
 
 #matsuri 
-Pendant l'année il y a beaucoup d'événements
+Pendant l'année il y a beaucoup d'événements dans tout le Japon.
 
-Hina matsuri doll festival - les filles 3 mars
-hina ningyo les poupées
+Le plus connu Sakura Matsuri. 
+
+Hina matsuri doll festival - festival pour les filles le 3 mars
+hina ningyo: les poupées
 
 Takayama Matsuri Sanno Matsuri procession avec les vêtements traditionnels
 
@@ -345,7 +349,8 @@ transition: fade-out
 # Rigore / Natura / Sicurezza
 
 Les japonais ont un fort respect de la nature, car selon le shinto le kami, élément surnaturel, est dans chaque élemént de la nature. Ils sont sensibles au changements des 4 saisons.
-Nous ne pouvons pas manger à l'exterieur, pas de poubelles pour ne pas salir les lieux
+
+Nous ne pouvons pas manger à l'exterieur, pas de poubelles pour ne pas salir les lieux.
 
 Les enfants prendent le metro et le bus tous seuls car en général c'est un lieu sécurisé le Japon, à l'école ils apprennent à être autonome, à faire le ménage et à mantenir la classe propre.
 
@@ -361,7 +366,20 @@ transition: fade-out
 
 # Manga (e altri strumenti culturali tipo Anime, Dorama, JPop e altra roba)
 
-Les mangas se lisent généralement de droite à gauche. En raison du rythme élevé de parution1 et pour limiter le coût d'impression, la plupart des mangas sont dessinés en noir et blanc, mis à part la couverture. 
+En occident manga et anime sont les plus connus.
+
+Il y a des manga pour tous les âges et il y a différents thèmes.
+
+shōjo manga : pour les filles thème romantique 
+shōnen manga: pour le garçon genre action 
+
+religion 
+rakugo
+
+
+
+
+Les mangas se lisent généralement de droite à gauche. En raison du rythme élevé de parution et pour limiter le coût d'impression, la plupart des mangas sont dessinés en noir et blanc, mis à part la couverture. 
 
 Le manga, bien que très ancré dans la culture japonaise moderne, trouve ses péripéties dans la peinture narrative qui apparaît à l'époque de Nara  (710-794), avec l'apparition des premiers rouleaux narratifs peints japonais : les emakimono. Ces œuvres associaient en effet des peintures à des textes calligraphiés qui assuraient, ensemble, le récit d'une histoire que l'on découvrait au fur et à mesure que se déroulait le rouleau. 
 
