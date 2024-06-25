@@ -329,7 +329,7 @@ jinbei EN cotone pour homme (Nuit ou pour l' intérieur)
 
 
 #matsuri 
-Pendant l'année il y a beaucoup d'événements dans tout le Japon.
+Pendant l'année il y a différents festivals  dans tout le Japon.
 
 Le plus connu Sakura Matsuri. 
 
@@ -376,10 +376,12 @@ shōnen manga: pour le garçon genre action
 religion 
 rakugo
 
+il y a des magazines où chaque fois il y a des pages avec une histoire qui fait partie d' un manga.
 
 
+Les mangas se lisent généralement de droite à gauche. 
 
-Les mangas se lisent généralement de droite à gauche. En raison du rythme élevé de parution et pour limiter le coût d'impression, la plupart des mangas sont dessinés en noir et blanc, mis à part la couverture. 
+En raison du rythme élevé de parution et pour limiter le coût d'impression, la plupart des mangas sont dessinés en noir et blanc, mis à part la couverture. 
 
 Le manga, bien que très ancré dans la culture japonaise moderne, trouve ses péripéties dans la peinture narrative qui apparaît à l'époque de Nara  (710-794), avec l'apparition des premiers rouleaux narratifs peints japonais : les emakimono. Ces œuvres associaient en effet des peintures à des textes calligraphiés qui assuraient, ensemble, le récit d'une histoire que l'on découvrait au fur et à mesure que se déroulait le rouleau. 
 
