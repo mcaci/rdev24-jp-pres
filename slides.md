@@ -376,10 +376,13 @@ Il y a des manga pour tous les âges et il y a différents thèmes.
 shōjo manga : pour les filles thème romantique 
 shōnen manga: pour le garçon genre action 
 
+différents thèmes :
 religion 
 rakugo
+amour
+sport 
 
-il y a des magazines où chaque fois il y a des pages avec une histoire qui fait partie d' un manga.
+il y a aussi des magazines où chaque fois il y a des pages avec une histoire qui fait partie d' un manga.
 
 
 Les mangas se lisent généralement de droite à gauche. 
@@ -405,6 +408,8 @@ transition: fade-out
   <Tweet id="1791670422687383600" />
 </div>
     
+Au Japon, les mascottes, ou yuru-chara, jouent un rôle important : ils servent à représenter leur préfecture ou entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
+
 mascotte sendai, himeji... & immagini viaggio
 
 ---
