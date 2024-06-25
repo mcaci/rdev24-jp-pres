@@ -323,9 +323,12 @@ transition: fade-out
 
 # Les vêtements
 uniforme à l'école
+
 kimono vêtement en soie (elegant, pour les grandes occasions mariage, mais aussi les enterrements)
+
 yukata coton (vêtement de l' été)Femme
-jinbei EN cotone pour homme (Nuit ou pour l' intérieur) 
+
+jinbei en coton pour l' homme (vêtement de Nuit ou pour l' intérieur) 
 
 
 #matsuri 
