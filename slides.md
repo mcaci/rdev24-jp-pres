@@ -259,20 +259,26 @@ Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera
 -->
 
 ---
-layout: center
+layout: two-cols-header
 transition: fade-out
 ---
 
 # Et apres des longues heures passes a apprendre le Japonais...
 
-<div class="p-5 m-5">
+::left::
+
+<div class="p-1">
   <Youtube id="MvtTAUbLW-E"/>
+</div>
+
+::right::
+
+<div class="p-1">
   <Youtube id="8M_seGZiQ9w"/>
-  <Youtube id="puWvjyIA6wQ"/>
 </div>
 
 ---
-layout: image-left
+layout: image-right
 image: /images/buzzSushi2.jpeg
 transition: fade-out
 ---
@@ -281,13 +287,26 @@ transition: fade-out
 
 Vers le sushi et au-delà!
 
+<v-clicks>
+
 Est-ce que vous avez déjà mangé le sushi?
 
 Quel est votre plat préféré?
 
 au-delà du sushi, qu'est-ce que vous connaissez?
+</v-clicks>
 
-## Esperienza personale
+---
+layout: image-right
+image: /images/foodMap1.jpg
+transition: fade-out
+---
+
+# A chaque region sa specialite
+
+Vers le sushi et au-delà!
+
+<v-clicks>
 
 Le nord et le sud du Japon ont des spécialités:
 ramen differentes recettes selon la région
@@ -297,10 +316,9 @@ takoraisu à Okinawa
 gyoza
 yakisoba
 udon
-gyutan (langue de Boer nota simpatica (chi la conosce?) - Sendai)
+gyutan (langue de boeuf nota simpatica (chi la conosce?) - Sendai)
 
 
-https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
 
 Les desserts
 dorayaki
@@ -314,45 +332,82 @@ Tu n'achetes pas au kg mais à la pièce
 c'est un cadeau quand tu rends viste à quelqu'un.
 
 si je voulais du Fromage, à Tokyo dans le supermarché j'ai trouvé le fromage Kiri
+</v-clicks>
+
+
+<!--
+https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
+https://omnivorebooks.myshopify.com/products/new-arrival-japanese-laure-kie-haruna-kishi-japanese-cuisine-an-illustrated-guide
+https://stickymangorice.com/2023/03/29/japanese-dishes-by-region/
+-->
 
 ---
+layout: image-right
+image: /photos/miyajima.jpg
 transition: fade-out
 ---
 
 # La Culture japonaise
 
+Ca corresponds a quoi pour vous?
+
+<v-clicks>
+
+Qu'est-ce que vous fait penser la culture japonaise?
+
+Qu'est-ce que vous connaissez?
+- ikebana
+- karate
+
+</v-clicks>
+
+---
+layout: image-right
+image: /photos/ikebana.jpg
+transition: fade-out
+---
+
+# La Culture japonaise
+
+Differents visages
+
+<v-clicks>
+
 Peuple rigourex , précis, rispecteux vers les autres et la nature. 
 Le travail a un valeur important faire des heures supplementaires, sortir après le travail avec les collègues et le chef.
 
-Les Trains sont toujours à l'heure.
+Les trains sont toujours à l'heure.
 
 Il y a des règles à suivre: où marcher dans les rues, où aller sur l' escalier roulant, rentrer dans les transports en commun, à l' école
 
-Mon expérience dans le dortoir :
-- heure de fermeture du portail
-reaction de l'agente de sécurité ancien et jeune
+Mon expérience dans le dortoir: heure de fermeture du portail, reaction de l'agente de sécurité ancien et jeune
 
-- comment récupérer le diplôme
-  la position des mains et les inclinations
-
-  qu'est-ce que vous connaissez?
-  ikebana
-  karate
+Comment récupérer le diplôme, la position des mains et les inclinations
+</v-clicks>
 
 ---
+layout: image-right
+image: /images/cherryFuji.jpeg
 transition: fade-out
 ---
 
 # Jishin 
 
+Un evenement quotidien
+
 Il y a beaucoup de tremblement de terre, surtout à Tokyo, et les personnes sur internet peuvent règarder les informations en temps réel.
 Un jour le poteau électrique a commencé à bouger fort et des femmes m'ont aidé à comprendre la situation.
 
 ---
+layout: image-right
+image: /photos/yukata.jpg
 transition: fade-out
 ---
 
 # Les vêtements
+
+Au dela du Kimono
+
 uniforme à l'école
 
 kimono vêtement en soie (elegant, pour les grandes occasions mariage, mais aussi les enterrements)
@@ -361,8 +416,16 @@ yukata coton (vêtement de l' été)Femme
 
 jinbei en coton pour l' homme (vêtement de Nuit ou pour l' intérieur) 
 
+---
+layout: image-right
+image: /photos/matsuri_may_2023.jpg
+transition: fade-out
+---
 
-#matsuri 
+# Matsuri 
+
+Les festivals japonais
+
 Pendant l'année il y a différents festivals  dans tout le Japon.
 
 Le plus connu Sakura Matsuri. 
@@ -377,6 +440,8 @@ Noel: gateau avec les fraises, fêter en couple
 Nouvelle an: aller au temple, sanctuaire selon la réligion et Fêter en famille
 
 ---
+layout: image-right
+image: /photos/nature.jpg
 transition: fade-out
 ---
 
@@ -395,6 +460,8 @@ Grands jardins dans une grande ville où il y a uniquement les sons de la nature
 & foto
 
 ---
+layout: image-right
+image: /images/manga1.jpeg
 transition: fade-out
 ---
 
