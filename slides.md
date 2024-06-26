@@ -79,7 +79,7 @@ transition: fade-out
 - Vecu au Japon pour 1+ an / Nikkensei
 - Aspirante dev
 
-<img src="/images/mariagrazia.jpeg" alt="image of mariagrazia" class="rounded shadow" height=50% width=50%/>
+<img src="/photos/mariagrazia.jpeg" alt="image of mariagrazia" class="rounded shadow" height=50% width=50%/>
 
 ::right::
 
@@ -89,7 +89,7 @@ transition: fade-out
 - Speakeur
 - Aspirant etudiant de japonais
 
-<img src="/images/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
+<img src="/photos/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
 
 ---
 layout: image-right
@@ -99,13 +99,18 @@ transition: fade-out
 
 # Le Japon
 
-Le Japon peut surprendre pour ce qui nous montre au dela de son visage plus connu.
+Un pays surprenant
 
-Et ce qu'on veut vous montrer est ce visage moins connu en nous appuyant sur notre experience.
+Le Japon peut surprendre pour ce qu'il nous montre au dela de son visage plus connu.
+
+Aujourd'hui on veut vous montrer ce qu'il y a derriere visage plus connu en nous appuyant sur notre experience.
 
 ---
+layout: center
+transition: fade-out
+---
 
-# Quelques exemples
+# Les themes d'aujourd'hui
 
 - La langue
 - La nourriture
@@ -117,6 +122,9 @@ Et ce qu'on veut vous montrer est ce visage moins connu en nous appuyant sur not
 <!-- 
 Per eventualmente saltare di argomento in argomento
 https://sli.dev/builtin/components#link 
+
+Tento di usare lo sfondo ma non riesco: 
+background: /photos/nature.jpg
 -->
 
 ---
@@ -127,17 +135,19 @@ transition: fade-out
 
 # La Langue Japonaise
 
-Commento per noi speakers: Dare un po' il nostro parere per passare poi alla spiegazione nella slide successiva
+Votre experience avec le japonais
 
 <v-clicks>
 
 Est-ce que quelqu'un a déjà etudié le langue japonaise?
 
-Comment ca c'est passé?
+Quel etait la chose plus difficile pendant l'apprentissage?
 
-- Facile?
-- Moyen?
-- Difficile?
+- Katakana
+- Kanji
+- Vocabulaire
+- Omophones
+- Niveau de politesse
 
 </v-clicks>
 
@@ -152,13 +162,68 @@ image: /images/kanji1.jpg
 transition: fade-out
 ---
 
-# Hiragana, Katakana, Kanji
+# Parler Japonais
 
-Les 3 alphabets de la langue japonaise
+Est-ce que c'est important de parler Japonais au Japon?
 
-今日、パンを食べます。
+<v-clicks>
 
-Hiragana
+Dans les grandes villes on se peut se debrouiller avec l'Anglais.
+
+Les gestes peuvent aider pour exemple pour indiquer des plats au restaurant.
+
+- Kore, kore, kore! (Ca, ca et ca)
+
+Au dela de ca, parler Japonais aidera surement
+
+- Nihongo de daijoubu desu. (Si vous etes courageux)
+
+Et ils vont bien apprecier
+
+- Sumimasen! (Pour commencer)
+
+</v-clicks>
+
+<!-- 
+Dans les grandes villes est un peu plus facile pouvoir trouver une personne qui parle aussi Anglais.
+
+Pour communiquer nous pouvons utiliser les gestes. Par exemple au restaurant nous pouvons indiquer un plat et nous pouvons dire en Japonais "Kore" que ca vais dire "ce".
+
+Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais: c'est simplement pour t'aider car il comprend que la langue japonaise est un peu difficile.
+
+Nota simpatica:
+& mettere immagine dei 3 alfabeti
+Se ci si sente coraggiosi: nihongo de daijoubu desu. Aiuta a rompere le barriere linguistiche, i giapponesi sono molto simpatici.
+Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, ma se lo si parla anche minimamente i giapponesi saranno super felici.
+ -->
+
+---
+layout: image-right
+image: /images/kanji1.jpg
+transition: fade-out
+---
+
+# Apprendre la langue
+
+Des petites astuces
+
+<v-clicks>
+
+Ca commence toujours avec les trois alphabets.
+- Hiragana, Katakana et Kanji
+  - 皆さん、リヴィエラデヴへようこそ！
+
+Apres ca depends de vous:
+- Vous voulez juste converser?
+  - Visez la grammaire et le vocabulaire
+- Vous voulez etre capable de lire?
+  - Les Kanji sont un must
+- Vous voulez aller plus loin?
+  - Faire pratique chaque jours
+  - Regarder et/ou ecouter dorama, chansons et podcasts
+</v-clicks>
+
+<!-- Hiragana
 
 - 46 syllabaires
 - utilisé pour (entre autres):
@@ -177,28 +242,7 @@ Katakana
 Kanji
 
 - caractères qui ont origine de la langue chinoise
-- si vous en connaissez 3000, vous pouvez lire et comprendre une page d'un journal (et avoir un bon niveau)
-
----
-layout: image-right
-image: /images/kanji1.jpg
-transition: fade-out
----
-
-# Apprendre le Japonais
-
-Est-ce que c'est important de parler japonais au Japon?
-
-Dans les grandes villes est un peu plus facile pouvoir trouver une personne qui parle aussi Anglais.
-
-Pour communiquer nous pouvons utiliser les gestes. Par exemple au restaurant nous pouvons indiquer un plat et nous pouvons dire en Japonais "Kore" que ca vais dire "ce".
-
-Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais: c'est simplement pour t'aider car il comprend que la langue japonaise est un peu difficile.
-
-Nota simpatica:
-& mettere immagine dei 3 alfabeti
-Se ci si sente coraggiosi: nihongo de daijoubu desu. Aiuta a rompere le barriere linguistiche, i giapponesi sono molto simpatici.
-Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, ma se lo si parla anche minimamente i giapponesi saranno super felici.
+- si vous en connaissez 3000, vous pouvez lire et comprendre une page d'un journal (et avoir un bon niveau) 
 
 Consigli per chi vuole imparare:
 
@@ -212,43 +256,30 @@ Si le Sonkeigo témoigne du respect en mettant l’interlocuteur sur un piédest
 Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera divertente)
 
 - non sono diretti nel parlare. esempio: amano parlare del tempo meteo, usano monosillabi invece di parlare (vedi Instagram)
+-->
 
 ---
-layout: two-cols-header
+layout: center
 transition: fade-out
 ---
 
-# Et apres avoir appris...
+# Et apres des longues heures passes a apprendre le Japonais...
 
-::left::
-
-<div class="p-1">
-  <Youtube id="IbJHce0anyE"/>
-</div>
-<div class="p-1">
+<div class="p-5 m-5">
   <Youtube id="MvtTAUbLW-E"/>
-</div>
-<div class="p-1">
-  <Youtube id="zeLFAa0KQUU"/>
-</div>
-
-::right::
-
-<div class="p-1">
-  <Youtube id="puWvjyIA6wQ"/>
-</div>
-<div class="p-1">
-  <Youtube id="9Do-CkrI00I"/>
-</div>
-<div class="p-1">
   <Youtube id="8M_seGZiQ9w"/>
+  <Youtube id="puWvjyIA6wQ"/>
 </div>
 
 ---
+layout: image-left
+image: /images/buzzSushi2.jpeg
 transition: fade-out
 ---
 
 # Les plats au Japon
+
+Vers le sushi et au-delà!
 
 Est-ce que vous avez déjà mangé le sushi?
 
