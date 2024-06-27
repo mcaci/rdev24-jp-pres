@@ -308,6 +308,20 @@ Vers le sushi et au-delà!
 
 <v-clicks>
 
+- Ōsaka
+takoyaki
+okonomiyaki
+kushikatsu
+
+-Tōkyō
+monjayaki
+
+-Okinawa
+takoraisu 
+
+Quel est votre dessert préféré ?
+
+<!--
 Le nord et le sud du Japon ont des spécialités:
 ramen differentes recettes selon la région
 okonomiyaki , takoyaki, kushikatsu à Osaka
@@ -317,21 +331,16 @@ gyoza
 yakisoba
 udon
 gyutan (langue de boeuf nota simpatica (chi la conosce?) - Sendai)
-
-
-
 Les desserts
 dorayaki
 mochi
 meronpan
-
 Fruits
 c'est précieux
 c'est un peu plus cher au Japon par rapport à la France
 Tu n'achetes pas au kg mais à la pièce
 c'est un cadeau quand tu rends viste à quelqu'un.
-
-si je voulais du Fromage, à Tokyo dans le supermarché j'ai trouvé le fromage Kiri
+Si je voulais du Fromage, à Tokyo dans le supermarché j'ai trouvé le fromage Kiri
 </v-clicks>
 
 
@@ -356,8 +365,12 @@ Ca corresponds a quoi pour vous?
 Qu'est-ce que vous fait penser la culture japonaise?
 
 Qu'est-ce que vous connaissez?
-- ikebana
-- karate
+
+Nous souhaitons vous faire connaître aussi:
+
+- rakugo
+- jujitsu 
+- shinto
 
 </v-clicks>
 
@@ -371,7 +384,27 @@ transition: fade-out
 
 Differents visages
 
+- rigueur
+- précision
+- être toujours ponctuelle
+- respect 
+- la nature et les 4 saisons 
+
 <v-clicks>
+
+
+<!--
+
+
+Cohabitation de l' antiquité et la modernité: temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono (dame avec kimono dans le metro)
+
+Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
+
+4 Saisons
+
+momiji (moins connu par rapport aux Sakura Hana)
+
+peuple très sensible au changement des saisons 
 
 Peuple rigourex , précis, rispecteux vers les autres et la nature. 
 Le travail a un valeur important faire des heures supplementaires, sortir après le travail avec les collègues et le chef.
@@ -383,6 +416,16 @@ Il y a des règles à suivre: où marcher dans les rues, où aller sur l' escali
 Mon expérience dans le dortoir: heure de fermeture du portail, reaction de l'agente de sécurité ancien et jeune
 
 Comment récupérer le diplôme, la position des mains et les inclinations
+
+Rigore / Natura / Sicurezza
+
+Les japonais ont un fort respect de la nature, car selon le shinto le kami, élément surnaturel, est dans chaque élemént de la nature. Ils sont sensibles au changements des 4 saisons.
+
+Nous ne pouvons pas manger à l'exterieur, pas de poubelles pour ne pas salir les lieux.
+
+Les enfants prendent le metro et le bus tous seuls car en général c'est un lieu sécurisé le Japon, à l'école ils apprennent à être autonome, à faire le ménage et à mantenir la classe propre.
+
+
 </v-clicks>
 
 ---
@@ -391,22 +434,17 @@ image: /images/cherryFuji.jpeg
 transition: fade-out
 ---
 
-# Jishin 
-
-Un evenement quotidien
-
-Il y a beaucoup de tremblement de terre, surtout à Tokyo, et les personnes sur internet peuvent règarder les informations en temps réel.
-Un jour le poteau électrique a commencé à bouger fort et des femmes m'ont aidé à comprendre la situation.
-
----
-layout: image-right
-image: /photos/yukata.jpg
-transition: fade-out
----
 
 # Les vêtements
 
 Au dela du Kimono
+
+- yukata
+
+- jinbei
+
+
+<!--
 
 uniforme à l'école
 
@@ -426,9 +464,15 @@ transition: fade-out
 
 Les festivals japonais
 
+- Sakura Matsuri
+- Hina Matsuri
+- Sanno Matsuri
+
+<!--
+
 Pendant l'année il y a différents festivals  dans tout le Japon.
 
-Le plus connu Sakura Matsuri. 
+Le plus connu c'est le Sakura Matsuri. 
 
 Hina matsuri doll festival - festival pour les filles le 3 mars
 hina ningyo: les poupées
@@ -445,40 +489,30 @@ image: /photos/nature.jpg
 transition: fade-out
 ---
 
-# Rigore / Natura / Sicurezza
-
-Les japonais ont un fort respect de la nature, car selon le shinto le kami, élément surnaturel, est dans chaque élemént de la nature. Ils sont sensibles au changements des 4 saisons.
-
-Nous ne pouvons pas manger à l'exterieur, pas de poubelles pour ne pas salir les lieux.
-
-Les enfants prendent le metro et le bus tous seuls car en général c'est un lieu sécurisé le Japon, à l'école ils apprennent à être autonome, à faire le ménage et à mantenir la classe propre.
-
-Cohabitation de l' antiquité et la modernité: temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono (dame avec kimono dans le metro)
-
-Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
-
-& foto
-
 ---
 layout: image-right
 image: /images/manga1.jpeg
 transition: fade-out
 ---
 
-# Manga (e altri strumenti culturali tipo Anime, Dorama, JPop e altra roba)
-
-En occident manga et anime sont les plus connus.
-
-Il y a des manga pour tous les âges et il y a différents thèmes.
+# Les Manga au Japon 
 
 shōjo manga : pour les filles thème romantique 
+
 shōnen manga: pour le garçon genre action 
 
-différents thèmes :
+Il y a différents thèmes :
 religion 
 rakugo
 amour
 sport 
+
+<!--
+
+Manga (e altri strumenti culturali tipo Anime, Dorama, JPop e altra roba)
+En occident manga et anime sont les plus connus.
+
+Il y a des manga pour tous les âges et il y a différents thèmes.
 
 il y a aussi des magazines où chaque fois il y a des pages avec une histoire qui fait partie d' un manga.
 
@@ -502,9 +536,17 @@ transition: fade-out
 
 # Mascottes
 
+Ils servent à représenter :
+
+- une préfecture 
+
+- une enterprise 
+
 <div class="p-1">
   <Tweet id="1791670422687383600" />
 </div>
+
+<!--
     
 Au Japon, les mascottes, ou yuru-chara, jouent un rôle important : ils servent à représenter leur préfecture ou entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
 
@@ -514,8 +556,16 @@ mascotte sendai, himeji... & immagini viaggio
 transition: fade-out
 ---
 
-# Lieux et evenement dans la region
+# Lieux et evenement dans la region Paca
 
+- Cyril Coppini: Rakugo Performer
+
+- Musée des Arts Asiatiques à Nice
+
+- Médiathèque Albert Camus à Antibes
+exposition sur les samurai jusqu'au 31 Août 
+
+<!--
 Coppini, museo arti asiatiche, mostra samurai mediateca
 
 ---
