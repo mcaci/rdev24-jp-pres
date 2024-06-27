@@ -308,7 +308,7 @@ Vers le sushi et au-delà!
 
 <v-clicks>
 
-- Ōsaka
+-Ōsaka
 takoyaki
 okonomiyaki
 kushikatsu
