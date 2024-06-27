@@ -141,7 +141,7 @@ Votre experience avec le japonais
 
 Est-ce que quelqu'un a déjà etudié le langue japonaise?
 
-Quel etait la chose plus difficile pendant l'apprentissage?
+Quel était la chose plus difficile pendant l'apprentissage?
 
 - Katakana
 - Kanji
@@ -216,7 +216,7 @@ Ca commence toujours avec les trois alphabets.
 Apres ca depends de vous:
 - Vous voulez juste converser?
   - Visez la grammaire et le vocabulaire
-- Vous voulez etre capable de lire?
+- Vous voulez être capable de lire?
   - Les Kanji sont un must
 - Vous voulez aller plus loin?
   - Faire pratique chaque jours
@@ -358,7 +358,7 @@ transition: fade-out
 
 # La Culture japonaise
 
-Ca corresponds a quoi pour vous?
+Ca corresponds à quoi pour vous?
 
 <v-clicks>
 
@@ -380,7 +380,7 @@ image: /photos/ikebana.jpg
 transition: fade-out
 ---
 
-# La Culture japonaise
+# La société japonaise
 
 Differents visages
 
@@ -534,7 +534,7 @@ Vari tipi per vari target (elencare i tipi e il target)
 transition: fade-out
 ---
 
-# Mascottes
+# Les Mascottes
 
 Ils servent à représenter :
 
