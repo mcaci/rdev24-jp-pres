@@ -27,8 +27,7 @@ Mariagrazia Giannella et Michele Caci
 
 Riviera DEV 2024
 
----
-
+<!-- 
 # Introduzione sul tipo di talk
 
 Interattivo (avere un discorso di backup in caso di poca interattivita')
@@ -36,6 +35,7 @@ Per temi
 Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non ha un gran livello di cultura e lingua giapponese.
 
 L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
+ -->
 
 ---
 layout: two-cols-header
@@ -328,11 +328,6 @@ Sendai
 Okinawa
 - Takoraisu
 
-Sendai
-- Gyutan
-
-fare mappa con foto
-
 </v-clicks>
 
 <!--
@@ -461,8 +456,6 @@ peuple très sensible au changement des saisons
 momiji (moins connu par rapport aux Sakura Hana)
 
 Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
-
-Ils sont sensibles aux changements des 4 saisons.
 ---
 layout: image-right
 image: /photos/water_and_koi.jpg
@@ -470,6 +463,12 @@ transition: fade-out
 ---
 
 # Un peuple rigoureux, précis et respectueux
+
+- les regles
+- le travail
+- la securite
+
+lascerei queste parole che ne pensi?
 
 Et plein de règles
 
@@ -536,11 +535,14 @@ transition: fade-out
 
 # Les Manga au Japon 
 
+Media, entertainment, etc.
+
+
 shōjo manga : pour les filles, thème romantique.
 
 shōnen manga : pour les garçons, genre action.
 
-Il existe différents thèmes tels que la religion, le rakugo, l'amour et le sport.
+Ils existent différents thèmes tels que la religion, le rakugo, l'amour et le sport.
 
 Les mangas (et autres formes culturelles telles que les animes, les doramas, la JPop, etc.) sont plus connus en Occident.
 
@@ -548,7 +550,7 @@ Il y a des mangas pour tous les âges et avec différents thèmes.
 
 Il existe également des magazines où chaque numéro contient des pages avec une histoire faisant partie d'un manga.
 
-Les mangas se lisent généralement de droite à gauche.
+<!-- Les mangas se lisent généralement de droite à gauche.
 
 En raison du rythme de publication élevé et pour réduire les coûts d'impression, la plupart des mangas sont dessinés en noir et blanc, à l'exception de la couverture.
 
@@ -559,8 +561,7 @@ Pendant la période Edo, les estampes étaient d'abord destinées à l'illustrat
 Enfin, dans le manga de type shōjo notamment, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, sachant que ce mouvement a été en partie provoqué par le japonisme en Europe suite à la découverte des estampes par les Occidentaux.
 
 Sara' importante andare al di la' del cliche.
-Vari tipi per vari target (elencare i tipi e il target)
-
+Vari tipi per vari target (elencare i tipi e il target) -->
 ---
 transition: fade-out
 ---
@@ -578,10 +579,13 @@ Elles servent à représenter :
    
 <v-clicks>
 
-Au Japon, les mascottes, ou yuru-chara, jouent un rôle important: elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
-
 mascotte sendai, himeji... & immagini viaggio
 </v-clicks>
+
+<!-- 
+
+Au Japon, les mascottes, ou yuru-chara, jouent un rôle important: elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
+ -->
 
 ---
 layout: center
