@@ -320,6 +320,7 @@ monjayaki
 takoraisu 
 
 Quel est votre dessert préféré ?
+</v-clicks>
 
 <!--
 Le nord et le sud du Japon ont des spécialités:
@@ -341,10 +342,7 @@ c'est un peu plus cher au Japon par rapport à la France
 Tu n'achetes pas au kg mais à la pièce
 c'est un cadeau quand tu rends viste à quelqu'un.
 Si je voulais du Fromage, à Tokyo dans le supermarché j'ai trouvé le fromage Kiri
-</v-clicks>
 
-
-<!--
 https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
 https://omnivorebooks.myshopify.com/products/new-arrival-japanese-laure-kie-haruna-kishi-japanese-cuisine-an-illustrated-guide
 https://stickymangorice.com/2023/03/29/japanese-dishes-by-region/
@@ -390,11 +388,6 @@ Differents visages
 - respect 
 - la nature et les 4 saisons 
 
-<v-clicks>
-
-
-<!--
-
 
 Cohabitation de l' antiquité et la modernité: temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono (dame avec kimono dans le metro)
 
@@ -425,15 +418,11 @@ Nous ne pouvons pas manger à l'exterieur, pas de poubelles pour ne pas salir le
 
 Les enfants prendent le metro et le bus tous seuls car en général c'est un lieu sécurisé le Japon, à l'école ils apprennent à être autonome, à faire le ménage et à mantenir la classe propre.
 
-
-</v-clicks>
-
 ---
 layout: image-right
 image: /images/cherryFuji.jpeg
 transition: fade-out
 ---
-
 
 # Les vêtements
 
@@ -442,9 +431,6 @@ Au dela du Kimono
 - yukata
 
 - jinbei
-
-
-<!--
 
 uniforme à l'école
 
@@ -468,7 +454,6 @@ Les festivals japonais
 - Hina Matsuri
 - Sanno Matsuri
 
-<!--
 
 Pendant l'année il y a différents festivals  dans tout le Japon.
 
@@ -482,12 +467,6 @@ Takayama Matsuri Sanno Matsuri procession avec les vêtements traditionnels
 Noel: gateau avec les fraises, fêter en couple
 
 Nouvelle an: aller au temple, sanctuaire selon la réligion et Fêter en famille
-
----
-layout: image-right
-image: /photos/nature.jpg
-transition: fade-out
----
 
 ---
 layout: image-right
@@ -506,8 +485,6 @@ religion
 rakugo
 amour
 sport 
-
-<!--
 
 Manga (e altri strumenti culturali tipo Anime, Dorama, JPop e altra roba)
 En occident manga et anime sont les plus connus.
@@ -542,12 +519,8 @@ Ils servent à représenter :
 
 - une enterprise 
 
-<div class="p-1">
-  <Tweet id="1791670422687383600" />
-</div>
-
-<!--
-    
+- tout
+   
 Au Japon, les mascottes, ou yuru-chara, jouent un rôle important : ils servent à représenter leur préfecture ou entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
 
 mascotte sendai, himeji... & immagini viaggio
@@ -559,14 +532,9 @@ transition: fade-out
 # Lieux et evenement dans la region Paca
 
 - Cyril Coppini: Rakugo Performer
-
 - Musée des Arts Asiatiques à Nice
-
 - Médiathèque Albert Camus à Antibes
 exposition sur les samurai jusqu'au 31 Août 
-
-<!--
-Coppini, museo arti asiatiche, mostra samurai mediateca
 
 ---
 transition: fade-out
