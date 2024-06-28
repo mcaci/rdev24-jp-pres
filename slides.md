@@ -375,8 +375,8 @@ Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
 - dorayaki, taiyaki, mochi, dango
 
 Youshoku/Yougashi: la nourriture et les gâteaux d'inspiration occidentale
-- tonkatsu, omuraisu, korokke, naporitan
-- ramen, kareraisu
+- omuraisu, korokke, naporitan
+- kareraisu
 - ramune
 - meronpan, castera, bisuketto, kukki
 
@@ -449,7 +449,7 @@ transition: fade-out
 
 # Les 4 Saisons
 
-Chaque saison son significat
+Chaque saison a son significat
 
 peuple très sensible au changement des saisons 
 
@@ -468,7 +468,7 @@ transition: fade-out
 - le travail
 - la securite
 
-lascerei queste parole che ne pensi?
+lascerei queste tre parole che ne pensi?
 
 Et plein de règles
 
@@ -533,10 +533,9 @@ image: /images/manga1.jpeg
 transition: fade-out
 ---
 
-# Les Manga au Japon 
+# Les Loisirs au Japon 
 
-Media, entertainment, etc.
-
+- Les mangas
 
 shōjo manga : pour les filles, thème romantique.
 
@@ -550,7 +549,28 @@ Il y a des mangas pour tous les âges et avec différents thèmes.
 
 Il existe également des magazines où chaque numéro contient des pages avec une histoire faisant partie d'un manga.
 
+- Les animes
+  
+histoire des mangas
+
+Miyazaki
+Doraemon
+One Piece
+
+- Les doramas
+histoire des mangas
+
+- Jpop
+Johnny & Associates agency
+Kimura Takuya et les SMAP
+NEWS
+Arashi
+Utada Hikaru
+en 2024: Lisa, Aimer, Yoasobi, AKB48 
+
 <!-- Les mangas se lisent généralement de droite à gauche.
+
+https://www.japan.travel/fr/guide/japanese-anime-and-comics/
 
 En raison du rythme de publication élevé et pour réduire les coûts d'impression, la plupart des mangas sont dessinés en noir et blanc, à l'exception de la couverture.
 
@@ -584,7 +604,8 @@ mascotte sendai, himeji... & immagini viaggio
 
 <!-- 
 
-Au Japon, les mascottes, ou yuru-chara, jouent un rôle important: elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
+Au Japon, les mascottes, ou yuru-kyara, jouent un rôle important: 
+elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
  -->
 
 ---
