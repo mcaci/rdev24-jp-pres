@@ -333,6 +333,11 @@ Tōkyō
 Okinawa
 - Takoraisu
 
+Sendai
+- Gyutan
+
+fare mappa con foto
+
 </v-clicks>
 
 
