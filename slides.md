@@ -3,10 +3,10 @@
 theme: seriph
 background: /images/mangasushi.jpeg
 # some information about your slides, markdown enabled
-title: Le Japon au dela des sushi et des mangas
+title: Le Japon au-delà des sushis et des mangas
 info: |
-  ## Le Japon au dela des sushi et des mangas
-  Presentation pour Riviera DEV 2024.
+  ## Le Japon au-delà des sushis et des mangas
+  Présentation pour Riviera DEV 2024.
 # apply any unocss classes to the current slide
 class: text-center
 # https://sli.dev/custom/highlighters.html
@@ -21,7 +21,7 @@ mdc: true
 layout: cover
 ---
 
-# Le Japon au dela des sushi et des mangas
+# Le Japon au-delà des sushis et des mangas
 
 Mariagrazia Giannella et Michele Caci
 
@@ -42,7 +42,7 @@ layout: two-cols-header
 transition: fade-out
 ---
 
-# Commencons par faire connaissance
+# Commençons par faire connaissance
 
 Quelques mots sur nous
 
@@ -72,11 +72,11 @@ image: /images/robot3.jpeg
 transition: fade-out
 ---
 
-# Commencons par faire connaissance
+# Commençons par faire connaissance
 
-Quelle est votre experience avec le Japon?
+Quelle est votre expérience avec le Japon?
 
-<v-click>Par levée de main qui a été au Japon pour au moins:</v-click>
+<v-click>En levant la main, qui a déjà été au Japon pendant au moins :</v-click>
 
 <v-clicks>
 
@@ -89,7 +89,7 @@ Quelle est votre experience avec le Japon?
 
 <v-click>
 
-Qu’est-ce qui vous a marqué le plus?
+Qu'est-ce qui vous a le plus marqué?
 </v-click>
 
 <!-- 
@@ -108,23 +108,23 @@ transition: fade-out
 
 Un pays surprenant
 
-Le Japon peut surprendre pour ce qu'il nous montre au dela de son visage plus connu.
+Le Japon peut surprendre par ce qu'il nous montre au-delà de son visage le plus connu.
 
-Aujourd'hui on veut vous montrer ce qu'il y a derriere visage plus connu en nous appuyant sur notre experience.
+Aujourd'hui, nous voulons vous montrer ce qu'il y a derrière ce visage plus connu en nous appuyant sur notre expérience.
 
 ---
 layout: center
 transition: fade-out
 ---
 
-# Les themes d'aujourd'hui
+# Les thèmes d'aujourd'hui
 
 - La langue
 - La nourriture
-- La culture generale
+- La culture générale
 - La nature
 - La vie quotidienne (et le travail)
-- Les medias (Manga, Anime, Dorama, JPop)
+- Les médias (Manga, Anime, Dorama, JPop)
 
 <!-- 
 Per eventualmente saltare di argomento in argomento
@@ -135,16 +135,19 @@ background: /photos/nature.jpg
 -->
 
 ---
-layout: image-right
-image: /images/kanji1.jpg
+layout: image
+image: /images/kanji6.jpeg
 transition: fade-out
+backgroundSize: 30em
 ---
 
-# La Langue Japonaise
+# La Langue
+
+<!-- 
+L'idea e' di iniziare ad avere una piccola reazione del pubblico alla loro esperienza 
+per poi entrare con la nostra esperienza e spiegare gli elementi e dare i consigli che desideriamo condividere.
 
 Votre experience avec le japonais
-
-<v-clicks>
 
 Est-ce que quelqu'un a déjà etudié le langue japonaise?
 
@@ -156,38 +159,33 @@ Quel était la chose plus difficile pendant l'apprentissage?
 - Omophones
 - Niveau de politesse
 
-</v-clicks>
-
-<!-- 
-L'idea e' di iniziare ad avere una piccola reazione del pubblico alla loro esperienza 
-per poi entrare con la nostra esperienza e spiegare gli elementi e dare i consigli che desideriamo condividere.
 -->
 
 ---
 layout: image-right
-image: /images/kanji1.jpg
+image: /images/kanji1.jpeg
 transition: fade-out
 ---
 
 # Parler Japonais au Japon
 
-Est-ce que c'est important?
+Est-ce important?
 
 <v-clicks>
 
-Dans les grandes villes on se peut se debrouiller avec l'Anglais.
+Dans les grandes villes, on peut se débrouiller avec l'anglais.
 
-Les gestes peuvent aider pour exemple pour indiquer des plats au restaurant.
+Les gestes peuvent aider, par exemple pour indiquer des plats au restaurant.
 
-- Kore, kore, kore! (Ca, ca et ca)
+- Kore, kore, kore ! (Ceci, ceci et ceci)
 
-Au dela de ca, parler Japonais aidera surement
+Mais au-delà de ça, parler japonais sera certainement utile.
 
-- Nihongo de daijoubu desu. (Si vous etes courageux)
+- Nihongo de daijoubu desu. (Si vous êtes courageux)
 
-Et ils vont bien apprecier
+Et ils apprécieront certainement.
 
-- Sumimasen! (Pour commencer)
+- Sumimasen ! (Pour commencer)
 
 </v-clicks>
 
@@ -206,7 +204,7 @@ Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, 
 
 ---
 layout: image-right
-image: /images/kanji1.jpg
+image: /images/kanji1.jpeg
 transition: fade-out
 ---
 
@@ -216,17 +214,17 @@ Des petites astuces
 
 <v-clicks>
 
-Ca commence toujours avec les trois alphabets: Hiragana, Katakana et Kanji
+Ça commence toujours avec les trois alphabets : Hiragana, Katakana et Kanji
 - 皆さん、リヴィエラデヴへようこそ！
 
-Apres ca depends de vous:
-- Vous voulez juste faire conversation?
+Après ça dépend de vous :
+- Vous voulez juste faire une conversation ?
   - Visez la grammaire et le vocabulaire
-- Vous voulez être capable de lire?
-  - Les Kanji sont un must
-- Vous voulez aller plus loin?
-  - Faites pratique chaque jours
-  - Regardez et/ou ecoutez dorama, chansons et podcasts
+- Vous voulez être capable de lire ?
+  - Les Kanji sont indispensables
+- Vous voulez aller plus loin ?
+  - Pratiquez chaque jour
+  - Regardez et/ou écoutez des doramas, des chansons et des podcasts
 </v-clicks>
 
 <!-- Hiragana
@@ -269,7 +267,7 @@ layout: center
 transition: fade-out
 ---
 
-# Et apres des longues heures passes a apprendre le Japonais...
+# Et après de longues heures passées à apprendre le japonais...
 
 <div class="m-10" style="flex: 1; float: left;">
   <Youtube id="MvtTAUbLW-E" height="300" />
@@ -279,46 +277,40 @@ transition: fade-out
 </div>
 
 ---
-layout: image-right
+layout: image
 image: /photos/kaiten_sushi.jpg
 transition: fade-out
 ---
 
-# Nourriture et boissons
+# A table!
 
-Votre experience
+<!-- 
+Quels plats et boissons japonais connaissez-vous ?
 
-Quels plats et boissons Japonaises vous connaissez?
+- sushi
+- matcha
+- ramen
+- sake
+- miso 
 
-Quel est votre plat préféré?
+Avez-vous un plat préféré en particulier ? Ou un dessert préféré ?
 
-Quel est votre dessert préféré?
+La nourriture a deux aspects intéressants au Japon :
 
-洋食(ようしょく) et 和食 (わしょく)
-
----
-layout: image-right
-image: /images/buzzSushi2.jpeg
-transition: fade-out
----
-
-# Vers le sushi et au-delà!
-
-Le Japon a des recette pour tous le gouts
-
-- Du cru au cuit
-- Du poisson a la viande a l'oeuf
-- Du sale au sucre
+- les spécialités régionales
+- traditionnelles ou d'inspiration occidentale
+ -->
 
 ---
 layout: image-right
 image: /images/foodMap1.jpg
 transition: fade-out
+backgroundSize: 170%
 ---
 
-# Une grande variete
+# Une grande variété
 
-A chaque region sa specialite
+À chaque région sa spécialité
 
 <v-clicks>
 
@@ -330,6 +322,9 @@ A chaque region sa specialite
 Tōkyō
 - Monjayaki
 
+Sendai
+- Gyutan
+
 Okinawa
 - Takoraisu
 
@@ -340,6 +335,32 @@ fare mappa con foto
 
 </v-clicks>
 
+<!--
+Le nord et le sud du Japon ont des spécialités :
+- Différentes recettes de ramen selon la région.
+- Okonomiyaki, takoyaki et kushikatsu à Osaka.
+- Monjayaki à Tokyo.
+- Takoraisu à Okinawa.
+- Gyoza.
+- Yakisoba.
+- Udon.
+- Gyutan (langue de boeuf, une spécialité de Sendai).
+Les desserts :
+- Dorayaki.
+- Mochi.
+- Meronpan.
+Les fruits :
+- Ils sont précieux.
+- Ils sont un peu plus chers au Japon par rapport à la France.
+- On les achète à la pièce, pas au kilogramme.
+- Ils sont souvent offerts en cadeau lorsqu'on rend visite à quelqu'un.
+Si je voulais du fromage, à Tokyo, j'ai trouvé du fromage Kiri dans le supermarché.
+
+https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
+https://omnivorebooks.myshopify.com/products/new-arrival-japanese-laure-kie-haruna-kishi-japanese-cuisine-an-illustrated-guide
+https://stickymangorice.com/2023/03/29/japanese-dishes-by-region/
+-->
+
 
 ---
 layout: image-right
@@ -347,61 +368,54 @@ image: /images/tea-ceremony2.jpeg
 transition: fade-out
 ---
 
-# Boissons et desserts
+# Japonais et Occidental
 
-Du the vert et plus
+Washoku/Wagashi ou Youshoku/Yougashi
 
 <v-clicks>
 
-The, boissons sucrees
-- ramune
+Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
+- sushi, okonomiyaki, takoyaki, katsudon, yakisoba
+- the (matcha, sencha, ...)
+- dorayaki, taiyaki, mochi, dango
 
-和菓子 (wagashi) et 洋菓子 (yougashi)
-- castera
-- gateau au fraises pour noel?
-- chocolat pour saint valentin?
+Youshoku/Yougashi: la nourriture et les gâteaux d'inspiration occidentale
+- tonkatsu, omuraisu, korokke, naporitan
+- ramen, kareraisu
+- ramune
+- meronpan, castera, bisuketto, kukki
 
 </v-clicks>
 
-<!--
-Le nord et le sud du Japon ont des spécialités:
-ramen differentes recettes selon la région
-okonomiyaki , takoyaki, kushikatsu à Osaka
-monjayaki à Tokyo
-takoraisu à Okinawa
-gyoza
-yakisoba
-udon
-gyutan (langue de boeuf nota simpatica (chi la conosce?) - Sendai)
-Les desserts
-dorayaki
-mochi
-meronpan
-Fruits
-c'est précieux
-c'est un peu plus cher au Japon par rapport à la France
-Tu n'achetes pas au kg mais à la pièce
-c'est un cadeau quand tu rends viste à quelqu'un.
-Si je voulais du Fromage, à Tokyo dans le supermarché j'ai trouvé le fromage Kiri
+<!-- 
+In piu se necessario
+和菓子 (wagashi) et 洋菓子 (yougashi)
+- gateau au fraises pour noel?
+- chocolat pour saint valentin? -->
 
-https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
-https://omnivorebooks.myshopify.com/products/new-arrival-japanese-laure-kie-haruna-kishi-japanese-cuisine-an-illustrated-guide
-https://stickymangorice.com/2023/03/29/japanese-dishes-by-region/
--->
+---
+layout: image-right
+image: /images/buzzSushi2.jpeg
+transition: fade-out
+---
+
+# Vers les sushis et au-delà !
+
+Le Japon a des recettes pour tous les goûts :
+
+- Du cru au cuit
+- Du poisson à la viande aux œufs
+- Du salé au sucré
 
 ---
 layout: image
 image: /photos/miyajima.jpg
 transition: fade-out
-class: text-black
 ---
 
 # La culture japonaise
 
-Qu-est ce que vous fait penser?
-
 <!-- 
-
 Qu'est-ce que vous fait penser la culture japonaise?
 
 Qu'est-ce que vous connaissez?
@@ -420,20 +434,17 @@ image: /photos/big_city_and_nature.jpg
 transition: fade-out
 ---
 
-# Quelques mots cles
+# Quelques mots clés
 
-differents aspects
+Différents aspects
 
-- rigueur
-- précision
-- punctualite
-- respect 
-- la nature et les 4 saisons 
-- coexistence de l'antiquité et la modernité
-  - temples et gratte-ciels dans le même quartier
-  - vêtements occidentaux et vêtements traditionnels comme le kimono 
-    - (dame avec kimono dans le metro)
-  - Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
+- La nature et les 4 saisons
+- Rigueur, précision, ponctualité, respect
+- Coexistence de l'antiquité et de la modernité
+  - Temples et gratte-ciels dans le même quartier
+  - Vêtements occidentaux et vêtements traditionnels comme le kimono
+    - Dame avec kimono dans le métro
+  - Grands jardins dans une grande ville où il y a uniquement les sons de la nature
 
 ---
 layout: image-right
@@ -443,50 +454,54 @@ transition: fade-out
 
 # Les 4 Saisons
 
-momiji (moins connu par rapport aux Sakura Hana)
+Chaque saison son significat
 
 peuple très sensible au changement des saisons 
 
-Peuple rigourex , précis, rispecteux vers les autres et la nature. 
-Le travail a un valeur important faire des heures supplementaires, sortir après le travail avec les collègues et le chef.
+momiji (moins connu par rapport aux Sakura Hana)
 
-Les trains sont toujours à l'heure.
+Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
 
-Il y a des règles à suivre: où marcher dans les rues, où aller sur l' escalier roulant, rentrer dans les transports en commun, à l' école
+Ils sont sensibles aux changements des 4 saisons.
+---
+layout: image-right
+image: /photos/water_and_koi.jpg
+transition: fade-out
+---
 
-Mon expérience dans le dortoir: heure de fermeture du portail, reaction de l'agente de sécurité ancien et jeune
+# Un peuple rigoureux, précis et respectueux
 
-Comment récupérer le diplôme, la position des mains et les inclinations
+Et plein de règles
 
-Rigore / Natura / Sicurezza
+Dans le travail, il est important de bien faire son travail et même de faire des heures supplémentaires, ainsi que de sortir après le travail avec les collègues et le chef.
 
-Les japonais ont un fort respect de la nature, car selon le shinto le kami, élément surnaturel, est dans chaque élemént de la nature. Ils sont sensibles au changements des 4 saisons.
+Les transports en commun sont un exemple de ponctualité. Mon expérience dans le dortoir: heure de fermeture du portail, réaction de l'agent de sécurité ancien et jeune.
 
-Nous ne pouvons pas manger à l'exterieur, pas de poubelles pour ne pas salir les lieux.
+Les règles sont partout, même dans les aspects moins évidents. Par exemple : où marcher dans les rues, où aller sur l'escalier roulant, rentrer dans les transports en commun, à l'école, comment récupérer le diplôme, la position des mains et les inclinations. On ne peut pas manger à l'extérieur et il n'y a pas de poubelles pour ne pas salir les lieux.
 
-Les enfants prendent le metro et le bus tous seuls car en général c'est un lieu sécurisé le Japon, à l'école ils apprennent à être autonome, à faire le ménage et à mantenir la classe propre.
+Les enfants prennent le métro et le bus tous seuls car en général c'est un lieu sécurisé au Japon. À l'école, ils apprennent à être autonomes, à faire le ménage et à maintenir la classe propre.
 
 ---
 layout: image-right
-image: /images/cherryFuji.jpeg
+image: /images/tea-ceremony2.jpeg
 transition: fade-out
 ---
 
 # Les vêtements
 
-Au dela du Kimono
+Au-delà du Kimono
 
 - yukata
 
 - jinbei
 
-uniforme à l'école
+Uniforme scolaire
 
-kimono vêtement en soie (elegant, pour les grandes occasions mariage, mais aussi les enterrements)
+Kimono (vêtement en soie, élégant, pour les grandes occasions comme les mariages, mais aussi les enterrements)
 
-yukata coton (vêtement de l' été)Femme
+Yukata (vêtement en coton, porté en été, principalement par les femmes)
 
-jinbei en coton pour l' homme (vêtement de Nuit ou pour l' intérieur) 
+Jinbei (vêtement en coton, porté par les hommes, utilisé comme vêtement de nuit ou pour l'intérieur)
 
 ---
 layout: image-right
@@ -495,26 +510,23 @@ transition: fade-out
 ---
 
 # Matsuri 
-
 Les festivals japonais
 
 - Sakura Matsuri
 - Hina Matsuri
 - Sanno Matsuri
 
+Pendant l'année, il y a différents festivals dans tout le Japon.
 
-Pendant l'année il y a différents festivals  dans tout le Japon.
+Le plus connu est le Sakura Matsuri.
 
-Le plus connu c'est le Sakura Matsuri. 
+Le festival Hina Matsuri est dédié aux poupées et est célébré le 3 mars.
 
-Hina matsuri doll festival - festival pour les filles le 3 mars
-hina ningyo: les poupées
+Le festival Sanno Matsuri comprend une procession avec des vêtements traditionnels.
 
-Takayama Matsuri Sanno Matsuri procession avec les vêtements traditionnels
+Noël : gâteau aux fraises, célébré en couple.
 
-Noel: gateau avec les fraises, fêter en couple
-
-Nouvelle an: aller au temple, sanctuaire selon la réligion et Fêter en famille
+Le Nouvel An : visite du temple ou du sanctuaire selon la religion et célébration en famille.
 
 ---
 layout: image-right
@@ -524,33 +536,27 @@ transition: fade-out
 
 # Les Manga au Japon 
 
-shōjo manga : pour les filles thème romantique 
+shōjo manga : pour les filles, thème romantique.
 
-shōnen manga: pour le garçon genre action 
+shōnen manga : pour les garçons, genre action.
 
-Il y a différents thèmes :
-religion 
-rakugo
-amour
-sport 
+Il existe différents thèmes tels que la religion, le rakugo, l'amour et le sport.
 
-Manga (e altri strumenti culturali tipo Anime, Dorama, JPop e altra roba)
-En occident manga et anime sont les plus connus.
+Les mangas (et autres formes culturelles telles que les animes, les doramas, la JPop, etc.) sont plus connus en Occident.
 
-Il y a des manga pour tous les âges et il y a différents thèmes.
+Il y a des mangas pour tous les âges et avec différents thèmes.
 
-il y a aussi des magazines où chaque fois il y a des pages avec une histoire qui fait partie d' un manga.
+Il existe également des magazines où chaque numéro contient des pages avec une histoire faisant partie d'un manga.
 
+Les mangas se lisent généralement de droite à gauche.
 
-Les mangas se lisent généralement de droite à gauche. 
+En raison du rythme de publication élevé et pour réduire les coûts d'impression, la plupart des mangas sont dessinés en noir et blanc, à l'exception de la couverture.
 
-En raison du rythme élevé de parution et pour limiter le coût d'impression, la plupart des mangas sont dessinés en noir et blanc, mis à part la couverture. 
+Le manga, bien ancré dans la culture japonaise moderne, trouve ses origines dans la peinture narrative apparue à l'époque de Nara (710-794), avec les premiers rouleaux narratifs peints japonais appelés emakimono. Ces œuvres associaient des peintures à des textes calligraphiés pour raconter une histoire qui se dévoilait au fur et à mesure du déroulement du rouleau.
 
-Le manga, bien que très ancré dans la culture japonaise moderne, trouve ses péripéties dans la peinture narrative qui apparaît à l'époque de Nara  (710-794), avec l'apparition des premiers rouleaux narratifs peints japonais : les emakimono. Ces œuvres associaient en effet des peintures à des textes calligraphiés qui assuraient, ensemble, le récit d'une histoire que l'on découvrait au fur et à mesure que se déroulait le rouleau. 
+Pendant la période Edo, les estampes étaient d'abord destinées à l'illustration de livres, mais elles ont rapidement donné naissance à des "livres à lire" en opposition aux "livres à regarder", tels que les kusazōshi comme le kibyōshi. Ensuite, les écrits complémentaires ont progressivement disparu et l'estampe "indépendante" en une seule illustration est devenue la forme la plus courante de l'ukiyo-e. C'est d'ailleurs Katsushika Hokusai (1760-1849), le fondateur de l'estampe de paysage, qui a donné son nom au manga (littéralement "dessins grotesques"), en référence à ses célèbres caricatures publiées de 1814 à 1834 à Nagoya, appelées les Hokusai Manga.
 
-Lors de la période Edo, les estampes étaient d'abord destinées à l'illustration de livres, mais, très vite, le rapport de force s'inversa et l'on vit l'apparition de « livres à lire » en opposition avec les « livres à regarder », les kusazōshi tels que le kibyōshi. Puis vint la disparition relative des écrits complémentaires et la naissance de l'estampe « indépendante » en une seule illustration, qui est la forme la plus fréquente de l’ukiyo-e. C'est d'ailleurs Katsushika Hokusai (1760-1849), le fondateur de l'estampe de paysage, qui donna son nom au manga (littéralement « dessins grotesques »), nommant ainsi ses célèbres caricatures les Hokusai Manga, qu'il publia de 1814 à 1834 à Nagoya.
-
-Enfin, et notamment dans le manga de type shōjo, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, tout en sachant que ce mouvement a été provoqué en partie par le japonisme en Europe, à la suite de la découverte des estampes par les Occidentaux.
+Enfin, dans le manga de type shōjo notamment, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, sachant que ce mouvement a été en partie provoqué par le japonisme en Europe suite à la découverte des estampes par les Occidentaux.
 
 Sara' importante andare al di la' del cliche.
 Vari tipi per vari target (elencare i tipi e il target)
@@ -561,29 +567,64 @@ transition: fade-out
 
 # Les Mascottes
 
-Ils servent à représenter :
+Elles servent à représenter :
 
-- une préfecture 
+<v-clicks>
 
-- une enterprise 
-
-- tout
+- une préfecture
+- une entreprise
+- presque tout au Japon
+</v-clicks>
    
-Au Japon, les mascottes, ou yuru-chara, jouent un rôle important : ils servent à représenter leur préfecture ou entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
+<v-clicks>
+
+Au Japon, les mascottes, ou yuru-chara, jouent un rôle important: elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
 
 mascotte sendai, himeji... & immagini viaggio
+</v-clicks>
+
+---
+layout: center
+image: /images/kanji8.jpeg
+transition: fade-out
+---
+
+# Le tour du Japon
+
+<div/>
+
+<v-clicks>
+
+Le Japon a de nombreux visages qui vont au-delà des stéréotypes les plus connus.
+
+Aujourd'hui, nous avons fait un petit tour de ces différents aspects du Japon à travers notre expérience.
+</v-clicks>
 
 ---
 transition: fade-out
 ---
 
-# Lieux et evenement dans la region Paca
+# Avant de nous quitter
 
-- Cyril Coppini: Rakugo Performer
+Lieux et événements dans la région PACA
+
+- Cyril Coppini: Artiste du Rakugo
 - Musée des Arts Asiatiques à Nice
 - Médiathèque Albert Camus à Antibes
-exposition sur les samurai jusqu'au 31 Août 
+  - Exposition sur les samouraïs jusqu'au 31 août
+- Made in Japan à Monaco
+- Kamogawa et Ikko Ramen à Nice
 
+---
+layout: jp-end
+transition: fade-out
+---
+
+<div class="text-red font-size-10">
+ありがとうございました！
+</div>
+
+Merci à tous.
 ---
 transition: fade-out
 ---
