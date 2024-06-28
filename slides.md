@@ -464,9 +464,9 @@ transition: fade-out
 
 # Un peuple rigoureux, précis et respectueux
 
-- les regles
+- les règles
 - le travail
-- la securite
+- la sécurité
 
 lascerei queste tre parole che ne pensi?
 
@@ -535,7 +535,7 @@ transition: fade-out
 
 # Les Loisirs au Japon 
 
-- Les mangas
+- Les Mangas
 
 shōjo manga : pour les filles, thème romantique.
 
@@ -549,7 +549,7 @@ Il y a des mangas pour tous les âges et avec différents thèmes.
 
 Il existe également des magazines où chaque numéro contient des pages avec une histoire faisant partie d'un manga.
 
-- Les animes
+- Les Animes
   
 histoire des mangas
 
@@ -557,10 +557,10 @@ Miyazaki
 Doraemon
 One Piece
 
-- Les doramas
+- Les Doramas
 histoire des mangas
 
-- Jpop
+- Jpop Musique
 Johnny & Associates agency
 Kimura Takuya et les SMAP
 NEWS
