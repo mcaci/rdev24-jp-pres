@@ -38,8 +38,37 @@ Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non
 L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
 
 ---
-layout: image-left
-image: /images/stereo1.jpeg
+layout: two-cols-header
+transition: fade-out
+---
+
+# Commencons par faire connaissance
+
+Quelques mots sur nous
+
+::left::
+
+### Mariagrazia Giannella
+
+- Étudie le japonais pour 5+ ans
+- Vecu au Japon pour 1+ an / Nikkensei
+- Aspirante dev
+
+<img src="/photos/mariagrazia.jpeg" alt="image of mariagrazia" class="rounded shadow" height=50% width=50%/>
+
+::right::
+
+### Michele Caci
+
+- Gopher
+- Speakeur
+- Aspirant etudiant de japonais
+
+<img src="/photos/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
+
+---
+layout: image-right
+image: /images/robot3.jpeg
 transition: fade-out
 ---
 
@@ -58,6 +87,11 @@ Quelle est votre experience avec le Japon?
 
 </v-clicks>
 
+<v-click>
+
+Qu’est-ce qui vous a marqué le plus?
+</v-click>
+
 <!-- 
 L'idea e' di conoscerci un po' con la audience.
 Idealmente ci sono poche persone (tra cui Mariagrazia) che sono rimaste solo un anno
@@ -65,35 +99,8 @@ e potremmo chiederle cosa hanno fatto durante l'anno per poi passare alla nostra
 -->
 
 ---
-layout: two-cols-header
-transition: fade-out
----
-
-# Quelques mots sur nous
-
-::left::
-
-## Mariagrazia Giannella
-
-- Étudie le japonais pour 5+ ans
-- Vecu au Japon pour 1+ an / Nikkensei
-- Aspirante dev
-
-<img src="/photos/mariagrazia.jpeg" alt="image of mariagrazia" class="rounded shadow" height=50% width=50%/>
-
-::right::
-
-## Michele Caci
-
-- Gopher
-- Speakeur
-- Aspirant etudiant de japonais
-
-<img src="/photos/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
-
----
-layout: image-right
-image: /images/robot3.jpeg
+layout: image-left
+image: /images/stereo1.jpeg
 transition: fade-out
 ---
 
@@ -162,9 +169,9 @@ image: /images/kanji1.jpg
 transition: fade-out
 ---
 
-# Parler Japonais
+# Parler Japonais au Japon
 
-Est-ce que c'est important de parler Japonais au Japon?
+Est-ce que c'est important?
 
 <v-clicks>
 
@@ -209,18 +216,17 @@ Des petites astuces
 
 <v-clicks>
 
-Ca commence toujours avec les trois alphabets.
-- Hiragana, Katakana et Kanji
-  - 皆さん、リヴィエラデヴへようこそ！
+Ca commence toujours avec les trois alphabets: Hiragana, Katakana et Kanji
+- 皆さん、リヴィエラデヴへようこそ！
 
 Apres ca depends de vous:
-- Vous voulez juste converser?
+- Vous voulez juste faire conversation?
   - Visez la grammaire et le vocabulaire
 - Vous voulez être capable de lire?
   - Les Kanji sont un must
 - Vous voulez aller plus loin?
-  - Faire pratique chaque jours
-  - Regarder et/ou ecouter dorama, chansons et podcasts
+  - Faites pratique chaque jours
+  - Regardez et/ou ecoutez dorama, chansons et podcasts
 </v-clicks>
 
 <!-- Hiragana
@@ -259,23 +265,36 @@ Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera
 -->
 
 ---
-layout: two-cols-header
+layout: center
 transition: fade-out
 ---
 
 # Et apres des longues heures passes a apprendre le Japonais...
 
-::left::
-
-<div class="p-1">
-  <Youtube id="MvtTAUbLW-E"/>
+<div class="m-10" style="flex: 1; float: left;">
+  <Youtube id="MvtTAUbLW-E" height="300" />
+</div>
+<div class="m-10" style="flex: 1; float: right;">
+  <Youtube id="8M_seGZiQ9w" height="300"/>
 </div>
 
-::right::
+---
+layout: image-right
+image: /photos/kaiten_sushi.jpg
+transition: fade-out
+---
 
-<div class="p-1">
-  <Youtube id="8M_seGZiQ9w"/>
-</div>
+# Nourriture et boissons
+
+Votre experience
+
+Quels plats et boissons Japonaises vous connaissez?
+
+Quel est votre plat préféré?
+
+Quel est votre dessert préféré?
+
+洋食(ようしょく) et 和食 (わしょく)
 
 ---
 layout: image-right
@@ -283,18 +302,13 @@ image: /images/buzzSushi2.jpeg
 transition: fade-out
 ---
 
-# Les plats au Japon
+# Vers le sushi et au-delà!
 
-Vers le sushi et au-delà!
+Le Japon a des recette pour tous le gouts
 
-<v-clicks>
-
-Est-ce que vous avez déjà mangé le sushi?
-
-Quel est votre plat préféré?
-
-au-delà du sushi, qu'est-ce que vous connaissez?
-</v-clicks>
+- Du cru au cuit
+- Du poisson a la viande a l'oeuf
+- Du sale au sucre
 
 ---
 layout: image-right
@@ -302,24 +316,46 @@ image: /images/foodMap1.jpg
 transition: fade-out
 ---
 
-# A chaque region sa specialite
+# Une grande variete
 
-Vers le sushi et au-delà!
+A chaque region sa specialite
 
 <v-clicks>
 
--Ōsaka
-takoyaki
-okonomiyaki
-kushikatsu
+Ōsaka
+- Takoyaki
+- Okonomiyaki (aussi a Hiroshima)
+- Kushikatsu
 
--Tōkyō
-monjayaki
+Tōkyō
+- Monjayaki
 
--Okinawa
-takoraisu 
+Okinawa
+- Takoraisu
 
-Quel est votre dessert préféré ?
+</v-clicks>
+
+
+---
+layout: image-right
+image: /images/tea-ceremony2.jpeg
+transition: fade-out
+---
+
+# Boissons et desserts
+
+Du the vert et plus
+
+<v-clicks>
+
+The, boissons sucrees
+- ramune
+
+和菓子 (wagashi) et 洋菓子 (yougashi)
+- castera
+- gateau au fraises pour noel?
+- chocolat pour saint valentin?
+
 </v-clicks>
 
 <!--
@@ -349,16 +385,17 @@ https://stickymangorice.com/2023/03/29/japanese-dishes-by-region/
 -->
 
 ---
-layout: image-right
+layout: image
 image: /photos/miyajima.jpg
 transition: fade-out
+class: text-black
 ---
 
-# La Culture japonaise
+# La culture japonaise
 
-Ca corresponds à quoi pour vous?
+Qu-est ce que vous fait penser?
 
-<v-clicks>
+<!-- 
 
 Qu'est-ce que vous fait penser la culture japonaise?
 
@@ -370,30 +407,36 @@ Nous souhaitons vous faire connaître aussi:
 - jujitsu 
 - shinto
 
-</v-clicks>
+-->
 
 ---
 layout: image-right
-image: /photos/ikebana.jpg
+image: /photos/big_city_and_nature.jpg
 transition: fade-out
 ---
 
-# La société japonaise
+# Quelques mots cles
 
-Differents visages
+differents aspects
 
 - rigueur
 - précision
-- être toujours ponctuelle
+- punctualite
 - respect 
 - la nature et les 4 saisons 
+- coexistence de l'antiquité et la modernité
+  - temples et gratte-ciels dans le même quartier
+  - vêtements occidentaux et vêtements traditionnels comme le kimono 
+    - (dame avec kimono dans le metro)
+  - Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
 
+---
+layout: image-right
+image: /photos/water_and_koi.jpg
+transition: fade-out
+---
 
-Cohabitation de l' antiquité et la modernité: temples et gratte-ciels dans le même quartier, vêtements occidentaux et vêtements traditionnels comme le kimono (dame avec kimono dans le metro)
-
-Grands jardins dans une grande ville où il y a uniquement les sons de la nature 
-
-4 Saisons
+# Les 4 Saisons
 
 momiji (moins connu par rapport aux Sakura Hana)
 
