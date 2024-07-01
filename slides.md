@@ -346,7 +346,7 @@ Hiroshima / Chugoku
 
 Kyushu et Okinawa
 - Castera, Takoraisu, Goya
-<img src="/photos/takoraisu.jpg" alt="image of takoraisu" class="absolute rounded shadow" height=50% width=50%/>
+<img src="/photos/takoraisu.jpeg" alt="image of takoraisu" class="absolute rounded shadow" height=50% width=50%/>
 </div>
 
 
