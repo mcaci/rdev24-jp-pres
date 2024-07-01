@@ -481,6 +481,8 @@ peuple très sensible au changement des saisons
 
 momiji (moins connu par rapport aux Sakura Hana)
 
+
+
 Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
 ---
 layout: image-right
@@ -537,6 +539,7 @@ transition: fade-out
 # Matsuri 
 Les festivals japonais
 
+- Sapporo Yuki Matsuri
 - Sakura Matsuri
 - Hina Matsuri
 - Sanno Matsuri
