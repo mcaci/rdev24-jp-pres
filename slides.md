@@ -179,13 +179,10 @@ Les gestes peuvent aider, par exemple pour indiquer des plats au restaurant.
 
 - Kore, kore, kore ! (Ceci, ceci et ceci)
 
-Mais au-delà de ça, parler japonais sera certainement utile.
-
-- Nihongo de daijoubu desu. (Si vous êtes courageux)
-
-Et ils apprécieront certainement.
+Mais au-delà de ça, parler japonais sera certainement utile et ils apprécieront.
 
 - Sumimasen ! (Pour commencer)
+- Nihongo de daijoubu desu. (Si vous êtes courageux)
 
 </v-clicks>
 
@@ -218,11 +215,15 @@ Des petites astuces
 - 皆さん、リヴィエラデヴへようこそ！
 
 Après ça dépend de vous :
-- Vous voulez juste faire une conversation ?
+</v-clicks>
+
+<v-clicks>
+
+- Vous voulez juste faire une conversation?
   - Visez la grammaire et le vocabulaire
-- Vous voulez être capable de lire ?
+- Vous voulez être capable de lire?
   - Les Kanji sont indispensables
-- Vous voulez aller plus loin ?
+- Vous voulez aller plus loin?
   - Pratiquez chaque jour
   - Regardez et/ou écoutez des doramas, des chansons et des podcasts
 </v-clicks>
@@ -303,32 +304,57 @@ La nourriture a deux aspects intéressants au Japon :
 
 ---
 layout: image-right
-image: /images/foodMap1.jpg
+image: /images/foodMap.jpg
 transition: fade-out
-backgroundSize: 170%
 ---
 
 # Une grande variété
 
 À chaque région sa spécialité
 
-<v-clicks>
 
-Ōsaka
-- Takoyaki
-- Okonomiyaki (aussi a Hiroshima)
-- Kushikatsu
+<div v-click="1" v-click.hide="2">
 
-Tōkyō
+Tōkyō / Kantō
 - Monjayaki
+<img src="/photos/monjayaki.jpg" alt="image of monjayaki" class="absolute rounded shadow" height=50% width=50%/>
+</div>
 
-Sendai
-- Gyutan
+<div v-click="2" v-click.hide="3">
 
-Okinawa
-- Takoraisu
+Ōsaka / Kansai
+- Takoyaki, Okonomiyaki, Kushikatsu
+<img src="/photos/takoyaki.jpg" alt="image of takoyaki" class="absolute rounded shadow" height=50% width=50%/>
+<img src="/photos/okonomiyaki.jpg" alt="image of okonomiyaki" class="absolute rounded shadow" height=50% width=50%/>
+<img src="/photos/kushikatsu.jpg" alt="image of kushikatsu" class="absolute rounded shadow" height=50% width=50%/>
+</div>
 
-</v-clicks>
+<div v-click="3" v-click.hide="4">
+
+Sendai / Tohoku
+- Gyutan, Fraises
+<img src="/photos/gyutan.jpg" alt="image of gyutan" class="absolute rounded shadow" height=50% width=50%/>
+</div>
+
+<div v-click="4" v-click.hide="5">
+
+Hiroshima / Chugoku
+- Okonomiyaki
+</div>
+
+<div v-click="5" v-click.hide="6">
+
+Kyushu et Okinawa
+- Castera, Takoraisu, Goya
+<img src="/photos/takoraisu.jpg" alt="image of takoraisu" class="absolute rounded shadow" height=50% width=50%/>
+</div>
+
+
+<arrow v-click="[1, 2]" x1="875" y1="375" x2="800" y2="315" color="#F00" width="2" arrowSize="1" />
+<arrow v-click="[2, 3]" x1="730" y1="425" x2="680" y2="360" color="#F00" width="2" arrowSize="1" />
+<arrow v-click="[3, 4]" x1="565" y1="275" x2="610" y2="325" color="#F00" width="2" arrowSize="1" />
+<arrow v-click="[4, 5]" x1="925" y1="250" x2="815" y2="225" color="#F00" width="2" arrowSize="1" />
+<arrow v-click="[5, 6]" x1="600" y1="500" x2="540" y2="415" color="#F00" width="2" arrowSize="1" />
 
 <!--
 Le nord et le sud du Japon ont des spécialités :
