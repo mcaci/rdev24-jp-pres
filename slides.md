@@ -447,6 +447,9 @@ Nous souhaitons vous faire connaître aussi:
 - jujitsu 
 - shinto
 
+(Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.)
+
+
 -->
 
 ---
@@ -475,6 +478,20 @@ transition: fade-out
 
 # Les 4 Saisons
 
+metterei una immagine per ogni stagione qui per  esempio che ne pensi?
+
+inverno 
+neve matsuri di Hokkaido 
+
+primavera 
+fiori di ciliegio 
+
+autunno 
+momiji
+
+estate 
+c'è molto verde la stagione della pioggia e parlerei delle cicale 
+
 Chaque saison a son significat
 
 peuple très sensible au changement des saisons 
@@ -483,7 +500,7 @@ momiji (moins connu par rapport aux Sakura Hana)
 
 
 
-Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
+
 ---
 layout: image-right
 image: /photos/water_and_koi.jpg
@@ -522,7 +539,10 @@ Au-delà du Kimono
 
 - jinbei
 
-Uniforme scolaire
+- uniforme scolaire
+
+
+lascerei queste parole con una foto
 
 Kimono (vêtement en soie, élégant, pour les grandes occasions comme les mariages, mais aussi les enterrements)
 
@@ -570,24 +590,14 @@ shōjo manga : pour les filles, thème romantique.
 
 shōnen manga : pour les garçons, genre action.
 
-Ils existent différents thèmes tels que la religion, le rakugo, l'amour et le sport.
-
-Les mangas (et autres formes culturelles telles que les animes, les doramas, la JPop, etc.) sont plus connus en Occident.
-
-Il y a des mangas pour tous les âges et avec différents thèmes.
-
-Il existe également des magazines où chaque numéro contient des pages avec une histoire faisant partie d'un manga.
 
 - Les Animes
-  
-histoire des mangas
 
 Miyazaki
 Doraemon
 One Piece
 
 - Les Doramas
-histoire des mangas
 
 - Jpop Musique
 Johnny & Associates agency
@@ -597,7 +607,16 @@ Arashi
 Utada Hikaru
 en 2024: Lisa, Aimer, Yoasobi, AKB48 
 
-<!-- Les mangas se lisent généralement de droite à gauche.
+<!-- 
+
+Ils existent différents thèmes tels que la religion, le rakugo, l'amour et le sport.
+
+Les mangas (et autres formes culturelles telles que les animes, les doramas, la JPop, etc.) sont plus connus en Occident.
+
+Il y a des mangas pour tous les âges et avec différents thèmes.
+
+Il existe également des magazines où chaque numéro contient des pages avec une histoire faisant partie d'un manga.
+Les mangas se lisent généralement de droite à gauche.
 
 https://www.japan.travel/fr/guide/japanese-anime-and-comics/
 
@@ -608,6 +627,9 @@ Le manga, bien ancré dans la culture japonaise moderne, trouve ses origines dan
 Pendant la période Edo, les estampes étaient d'abord destinées à l'illustration de livres, mais elles ont rapidement donné naissance à des "livres à lire" en opposition aux "livres à regarder", tels que les kusazōshi comme le kibyōshi. Ensuite, les écrits complémentaires ont progressivement disparu et l'estampe "indépendante" en une seule illustration est devenue la forme la plus courante de l'ukiyo-e. C'est d'ailleurs Katsushika Hokusai (1760-1849), le fondateur de l'estampe de paysage, qui a donné son nom au manga (littéralement "dessins grotesques"), en référence à ses célèbres caricatures publiées de 1814 à 1834 à Nagoya, appelées les Hokusai Manga.
 
 Enfin, dans le manga de type shōjo notamment, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, sachant que ce mouvement a été en partie provoqué par le japonisme en Europe suite à la découverte des estampes par les Occidentaux.
+
+histoire des mangas
+pour reproduire les anime et dorama
 
 Sara' importante andare al di la' del cliche.
 Vari tipi per vari target (elencare i tipi e il target) -->
@@ -624,6 +646,7 @@ Elles servent à représenter :
 - une préfecture
 - une entreprise
 - presque tout au Japon
+
 </v-clicks>
    
 <v-clicks>
