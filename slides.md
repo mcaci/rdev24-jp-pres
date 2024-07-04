@@ -94,8 +94,8 @@ Quelques mots sur nous
 ### Michele Caci
 
 - Gopher
-- Speakeur
-- Aspirant etudiant de japonais
+- Speaker
+- Aspirant étudiant de japonais
 
 <img src="/photos/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
 
