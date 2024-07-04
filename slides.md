@@ -37,34 +37,6 @@ Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non
 L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
  -->
 
----
-layout: two-cols-header
-transition: fade-out
----
-
-# Commençons par faire connaissance
-
-Quelques mots sur nous
-
-::left::
-
-### Mariagrazia Giannella
-
-- Étudie le japonais pour 5+ ans
-- Vecu au Japon pour 1+ an / Nikkensei
-- Aspirante dev
-
-<img src="/photos/mariagrazia.jpeg" alt="image of mariagrazia" class="rounded shadow" height=50% width=50%/>
-
-::right::
-
-### Michele Caci
-
-- Gopher
-- Speakeur
-- Aspirant etudiant de japonais
-
-<img src="/photos/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
 
 ---
 layout: image-right
@@ -99,6 +71,35 @@ e potremmo chiederle cosa hanno fatto durante l'anno per poi passare alla nostra
 -->
 
 ---
+layout: two-cols-header
+transition: fade-out
+---
+
+# Commençons par faire connaissance
+
+Quelques mots sur nous
+
+::left::
+
+### Mariagrazia Giannella
+
+- Étudie le japonais pour 5+ ans
+- Vecu au Japon pour 1+ an / Nikkensei
+- Aspirante dev
+
+<img src="/photos/mariagrazia.jpeg" alt="image of mariagrazia" class="rounded shadow" height=50% width=50%/>
+
+::right::
+
+### Michele Caci
+
+- Gopher
+- Speakeur
+- Aspirant etudiant de japonais
+
+<img src="/photos/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
+
+---
 layout: image-left
 image: /images/stereo1.jpeg
 transition: fade-out
@@ -106,9 +107,11 @@ transition: fade-out
 
 # Le Japon
 
-Un pays surprenant
+Un pays qui surprend
 
-Le Japon peut surprendre par ce qu'il nous montre au-delà de son visage le plus connu.
+Le Japon souvent se présente comme un pays avec un visage très connu à travers des stéréotypes qui le rendent fameux.
+
+Mais il peut nous surprendre par ce qu'il nous montre au-delà de son visage le plus connu.
 
 Aujourd'hui, nous voulons vous montrer ce qu'il y a derrière ce visage plus connu en nous appuyant sur notre expérience.
 
@@ -157,7 +160,7 @@ Quel était la chose plus difficile pendant l'apprentissage?
 - Kanji
 - Vocabulaire
 - Omophones
-- Niveau de politesse
+- Niveaux de politesse
 
 -->
 
