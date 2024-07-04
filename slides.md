@@ -147,9 +147,6 @@ backgroundSize: 30em
 # La Langue
 
 <!-- 
-L'idea e' di iniziare ad avere una piccola reazione del pubblico alla loro esperienza 
-per poi entrare con la nostra esperienza e spiegare gli elementi e dare i consigli che desideriamo condividere.
-
 Votre experience avec le japonais
 
 Est-ce que quelqu'un a déjà etudié le langue japonaise?
@@ -162,6 +159,8 @@ Quel était la chose plus difficile pendant l'apprentissage?
 - Omophones
 - Niveaux de politesse
 
+L'idea e' di iniziare ad avere una piccola reazione del pubblico alla loro esperienza 
+per poi entrare con la nostra esperienza e spiegare gli elementi e dare i consigli che desideriamo condividere.
 -->
 
 ---
@@ -172,7 +171,7 @@ transition: fade-out
 
 # Parler Japonais au Japon
 
-Est-ce important?
+Est-il important?
 
 <v-clicks>
 
@@ -204,17 +203,17 @@ Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, 
 
 ---
 layout: image-right
-image: /images/kanji1.jpeg
+image: /images/kanji7.jpeg
 transition: fade-out
 ---
 
-# Apprendre la langue
+# Quelques astuces
 
-Des petites astuces
+Et beaucoup de patience
 
 <v-clicks>
 
-Ça commence toujours avec les trois alphabets : Hiragana, Katakana et Kanji
+Ça commence toujours avec les trois alphabets: Hiragana, Katakana et Kanji
 - 皆さん、リヴィエラデヴへようこそ！
 
 Après ça dépend de vous :
@@ -281,6 +280,21 @@ transition: fade-out
 </div>
 
 ---
+layout: fact
+transition: fade-out
+---
+
+# Un petit anectode
+
+On pense que la langue japonaise represente un peu la vie d'une personne
+
+Le hiragana commence par "a", "i" et termine par "(w)o", "n"
+
+La vie d'une personne commence en recevant 愛 ("ai"), l'amour, et termine avec 恩 ("on"), la gratitude aux personnes qui l'ont aime ou a la generation future.
+
+<!-- https://www.instagram.com/p/C8rnXpUoK4e/?hl=en -->
+
+---
 layout: image
 image: /photos/kaiten_sushi.jpg
 transition: fade-out
@@ -314,7 +328,6 @@ transition: fade-out
 # Une grande variété
 
 À chaque région sa spécialité
-
 
 <div v-click="1" v-click.hide="2">
 
@@ -352,7 +365,6 @@ Kyushu et Okinawa
 <img src="/photos/takoraisu.jpeg" alt="image of takoraisu" class="absolute rounded shadow" height=50% width=50%/>
 </div>
 
-
 <arrow v-click="[1, 2]" x1="875" y1="375" x2="800" y2="315" color="#F00" width="2" arrowSize="1" />
 <arrow v-click="[2, 3]" x1="730" y1="425" x2="680" y2="360" color="#F00" width="2" arrowSize="1" />
 <arrow v-click="[3, 4]" x1="565" y1="275" x2="610" y2="325" color="#F00" width="2" arrowSize="1" />
@@ -384,7 +396,6 @@ https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
 https://omnivorebooks.myshopify.com/products/new-arrival-japanese-laure-kie-haruna-kishi-japanese-cuisine-an-illustrated-guide
 https://stickymangorice.com/2023/03/29/japanese-dishes-by-region/
 -->
-
 
 ---
 layout: image-right
@@ -442,17 +453,13 @@ transition: fade-out
 <!-- 
 Qu'est-ce que vous fait penser la culture japonaise?
 
-Qu'est-ce que vous connaissez?
-
 Nous souhaitons vous faire connaître aussi:
 
 - rakugo
 - jujitsu 
 - shinto
 
-(Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.)
-
-
+Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
 -->
 
 ---
@@ -475,14 +482,28 @@ Différents aspects
 
 ---
 layout: image-right
-image: /photos/water_and_koi.jpg
+image: /images/4seasons2.jpg
 transition: fade-out
+background-size: 100%
 ---
 
 # Les 4 Saisons
 
-metterei una immagine per ogni stagione qui per  esempio che ne pensi?
+四季 (しき) / 春夏秋冬 (しゅんかしゅうとう)
 
+
+Les 4 saisons au Japon nous évoquent des idées précises.
+
+- Au printemps, on a le sakura avec ses couleurs roses.
+- En été, on a la chaleur, les paysages verdoyants et les cigales.
+- En automne, on a le momiji qui devient rouge et doré (les érables).
+- En hiver, on a le blanc des paysages enneigés.
+
+Mais les 4 saisons ont un effet plus grand derriere cette image
+
+Le Japonais ont une grande sensibilite au changement des saisons __(perche'?)__
+
+<!-- 
 inverno 
 neve matsuri di Hokkaido 
 
@@ -497,12 +518,59 @@ c'è molto verde la stagione della pioggia e parlerei delle cicale
 
 Chaque saison a son significat
 
-peuple très sensible au changement des saisons 
+Lien avec la nature?
+Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature?
+Lien avec les matsuri?
+-->
 
-momiji (moins connu par rapport aux Sakura Hana)
+
+---
+layout: image-right
+image: /photos/matsuri_may_2023.jpg
+transition: fade-out
+---
+
+# Matsuri, Nature, Vêtements
+
+Tout peut rappeler les passage des 4 saisons et du temps
+
+Les festivals japonais
+
+- Sapporo Yuki Matsuri
+- Sakura Matsuri
+- Hina Matsuri
+- Sanno Matsuri
+
+Pendant l'année, il y a différents festivals dans tout le Japon.
+
+Le plus connu est le Sakura Matsuri.
+
+Le festival Hina Matsuri est dédié aux poupées et est célébré le 3 mars.
+
+Le festival Sanno Matsuri comprend une procession avec des vêtements traditionnels.
+
+Noël : gâteau aux fraises, célébré en couple.
+
+Le Nouvel An : visite du temple ou du sanctuaire selon la religion et célébration en famille.
+
+# Les vêtements
+
+Au-delà du Kimono
+
+- yukata
+
+- jinbei
+
+- uniforme scolaire
 
 
+lascerei queste parole con una foto
 
+Kimono (vêtement en soie, élégant, pour les grandes occasions comme les mariages, mais aussi les enterrements)
+
+Yukata (vêtement en coton, porté en été, principalement par les femmes)
+
+Jinbei (vêtement en coton, porté par les hommes, utilisé comme vêtement de nuit ou pour l'intérieur)
 
 ---
 layout: image-right
@@ -527,57 +595,6 @@ Les transports en commun sont un exemple de ponctualité. Mon expérience dans l
 Les règles sont partout, même dans les aspects moins évidents. Par exemple : où marcher dans les rues, où aller sur l'escalier roulant, rentrer dans les transports en commun, à l'école, comment récupérer le diplôme, la position des mains et les inclinations. On ne peut pas manger à l'extérieur et il n'y a pas de poubelles pour ne pas salir les lieux.
 
 Les enfants prennent le métro et le bus tous seuls car en général c'est un lieu sécurisé au Japon. À l'école, ils apprennent à être autonomes, à faire le ménage et à maintenir la classe propre.
-
----
-layout: image-right
-image: /images/tea-ceremony2.jpeg
-transition: fade-out
----
-
-# Les vêtements
-
-Au-delà du Kimono
-
-- yukata
-
-- jinbei
-
-- uniforme scolaire
-
-
-lascerei queste parole con una foto
-
-Kimono (vêtement en soie, élégant, pour les grandes occasions comme les mariages, mais aussi les enterrements)
-
-Yukata (vêtement en coton, porté en été, principalement par les femmes)
-
-Jinbei (vêtement en coton, porté par les hommes, utilisé comme vêtement de nuit ou pour l'intérieur)
-
----
-layout: image-right
-image: /photos/matsuri_may_2023.jpg
-transition: fade-out
----
-
-# Matsuri 
-Les festivals japonais
-
-- Sapporo Yuki Matsuri
-- Sakura Matsuri
-- Hina Matsuri
-- Sanno Matsuri
-
-Pendant l'année, il y a différents festivals dans tout le Japon.
-
-Le plus connu est le Sakura Matsuri.
-
-Le festival Hina Matsuri est dédié aux poupées et est célébré le 3 mars.
-
-Le festival Sanno Matsuri comprend une procession avec des vêtements traditionnels.
-
-Noël : gâteau aux fraises, célébré en couple.
-
-Le Nouvel An : visite du temple ou du sanctuaire selon la religion et célébration en famille.
 
 ---
 layout: image-right
