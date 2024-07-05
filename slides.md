@@ -280,7 +280,7 @@ transition: fade-out
 </div>
 
 ---
-layout: fact
+layout: quote
 transition: fade-out
 ---
 
@@ -321,13 +321,36 @@ La nourriture a deux aspects intéressants au Japon :
 
 ---
 layout: image-right
+image: /images/tea-ceremony2.jpeg
+transition: fade-out
+---
+
+# Japonais et Occidental
+
+Washoku/Wagashi ou Youshoku/Yougashi
+
+<v-clicks>
+
+Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
+- sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
+- the (matcha, sencha, ...)
+- dorayaki, taiyaki, mochi, dango
+
+Youshoku/Yougashi: la nourriture et les gâteaux d'inspiration occidentale
+- omuraisu, korokke, naporitan
+- kareraisu
+- ramune
+- meronpan, castera, bisuketto, kukki
+
+</v-clicks>
+
+---
+layout: image-right
 image: /images/foodMap.jpg
 transition: fade-out
 ---
 
-# Une grande variété
-
-À chaque région sa spécialité, à chaque saison sa variété
+# À chaque région sa spécialité
 
 <div v-click="1" v-click.hide="2">
 
@@ -399,28 +422,13 @@ https://stickymangorice.com/2023/03/29/japanese-dishes-by-region/
 
 ---
 layout: image-right
-image: /images/tea-ceremony2.jpeg
+image: /photos/sakura-mochi.jpg
 transition: fade-out
 ---
 
-# Japonais et Occidental
+# À chaque saison sa variété
 
-Washoku/Wagashi ou Youshoku/Yougashi
 
-<v-clicks>
-
-Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
-- sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
-- the (matcha, sencha, ...)
-- dorayaki, taiyaki, mochi, dango
-
-Youshoku/Yougashi: la nourriture et les gâteaux d'inspiration occidentale
-- omuraisu, korokke, naporitan
-- kareraisu
-- ramune
-- meronpan, castera, bisuketto, kukki
-
-</v-clicks>
 
 <!-- 
 In piu se necessario
@@ -429,18 +437,15 @@ In piu se necessario
 - chocolat pour saint valentin? -->
 
 ---
-layout: image-right
+layout: quote
 image: /images/buzzSushi2.jpeg
 transition: fade-out
 ---
 
-# Vers les sushis et au-delà !
+# Vers le sushi et au-delà !
 
-Le Japon a des recettes pour tous les goûts :
+Si vous n'aimez pas le poisson cru, vous ne serez pas obligés d'aller au McDonald's.
 
-- Du cru au cuit
-- Du poisson à la viande aux œufs
-- Du salé au sucré
 
 ---
 layout: image
@@ -451,26 +456,11 @@ transition: fade-out
 # La culture japonaise
 
 <!-- 
-Qu'est-ce que vous fait penser la culture japonaise?
+On a vu la langue, on a vu la nourriture
 
-Nous souhaitons vous faire connaître aussi:
+Mais au sens large, qu'est-ce que vous fait penser la culture japonaise? (facciamo rispondere la audience)
 
-- rakugo
-- jujitsu 
-- shinto
-
-Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
--->
-
----
-layout: image-right
-image: /photos/big_city_and_nature.jpg
-transition: fade-out
----
-
-# Quelques mots clés
-
-Différents aspects
+Quelques mots clés
 
 - La nature et les 4 saisons
 - Rigueur, précision, ponctualité, respect
@@ -479,6 +469,19 @@ Différents aspects
   - Vêtements occidentaux et vêtements traditionnels comme le kimono
     - Dame avec kimono dans le métro
   - Grands jardins dans une grande ville où il y a uniquement les sons de la nature
+- Les mangas et animes
+- L'art: theatre, peinture, ecriture (livres)
+- Les arts martiaux
+- La religion et les temples
+- Les mascottes
+- Les robots et la technologie
+- Les maisons traditionelles et les ryoukan
+
+Nous souhaitons vous faire connaître aussi:
+- rakugo
+- jujitsu 
+- shinto
+-->
 
 ---
 layout: image-right
@@ -487,57 +490,57 @@ transition: fade-out
 background-size: 100%
 ---
 
-# Les 4 Saisons
+# Les 4 saisons
 
-四季 (しき) / 春夏秋冬 (しゅんかしゅうとう)
+Un festival de couleurs et images
 
-
-Les 4 saisons au Japon nous évoquent des idées précises.
+<v-clicks>
 
 - Au printemps, on a le sakura avec ses couleurs roses.
 - En été, on a la chaleur, les paysages verdoyants et les cigales.
-- En automne, on a le momiji qui devient rouge et doré (les érables).
+- En automne, on a le momiji qui devient rouge et doré.
 - En hiver, on a le blanc des paysages enneigés.
+</v-clicks>
 
-Mais les 4 saisons ont un effet plus grand derriere cette image
+<v-click>
 
-Le Japonais ont une grande sensibilite au changement des saisons __(perche'?)__
+Les 4 saisons figurent tres souvent dans la culture et la vie quotidienne au Japon.
+</v-click>
+
+## Dans le vocabulaire
+
+四季 (shiki) ou 春夏秋冬 (shunkashuuto)
 
 <!-- 
-inverno 
-neve matsuri di Hokkaido 
 
-primavera 
-fiori di ciliegio 
+Les 4 saisons au Japon nous évoquent des idées précises
 
-autunno 
-momiji
+Listiamo le varie stagioni e poi
 
-estate 
-c'è molto verde la stagione della pioggia e parlerei delle cicale 
+C'est un festival de couleurs et images qui marquent le passage du temps
 
-Chaque saison a son significat
+E poi riprendiamo sulle slides
 
-Lien avec la nature?
-Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature?
-Lien avec les matsuri?
+Mais au-delà de ces images plus connues, les 4 saisons figurent tres souvent dans la culture et la vie quotidienne au Japon.
+
+Sakura = la fleur de cerise et le cerisier
+Momiji = l'érable
 -->
-
 
 ---
 layout: image-right
-image: /photos/matsuri_may_2023.jpg
+image: /photos/spring.jpg
 transition: fade-out
 ---
 
-# Matsuri, Nature, Vêtements
-
-Tout peut rappeler les passage des 4 saisons et du temps
+## Les 4 saisons dans le matsuri
 
 Les festivals japonais
 
-- Sapporo Yuki Matsuri
-- Sakura Matsuri
+Comme le plus connu __Sakura Matsuri__ ou le __Yuki Matsuri__ à Sapporo qui célèbrent la beauté entremêlée avec le passage du temps.
+
+
+
 - Hina Matsuri
 - Sanno Matsuri
 
@@ -572,6 +575,29 @@ Yukata (vêtement en coton, porté en été, principalement par les femmes)
 
 Jinbei (vêtement en coton, porté par les hommes, utilisé comme vêtement de nuit ou pour l'intérieur)
 
+<!--
+Noms utilises pour le 4 saisons
+四季 (しき) / 春夏秋冬 (しゅんかしゅうとう)
+
+
+inverno 
+neve matsuri di Hokkaido 
+
+primavera 
+fiori di ciliegio 
+
+autunno 
+momiji
+
+estate 
+c'è molto verde la stagione della pioggia e parlerei delle cicale 
+
+Chaque saison a son significat
+
+Lien avec la nature?
+Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature?
+Lien avec les matsuri? -->
+
 ---
 layout: image-right
 image: /photos/water_and_koi.jpg
@@ -595,6 +621,13 @@ Les transports en commun sont un exemple de ponctualité. Mon expérience dans l
 Les règles sont partout, même dans les aspects moins évidents. Par exemple : où marcher dans les rues, où aller sur l'escalier roulant, rentrer dans les transports en commun, à l'école, comment récupérer le diplôme, la position des mains et les inclinations. On ne peut pas manger à l'extérieur et il n'y a pas de poubelles pour ne pas salir les lieux.
 
 Les enfants prennent le métro et le bus tous seuls car en général c'est un lieu sécurisé au Japon. À l'école, ils apprennent à être autonomes, à faire le ménage et à maintenir la classe propre.
+
+---
+layout: quote
+transition: fade-out
+---
+
+# Tout peut rappeler les passage des 4 saisons et du temps
 
 ---
 layout: image-right
