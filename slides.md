@@ -785,10 +785,14 @@ transition: fade-out
 Lieux et événements dans la région PACA
 
 - Cyril Coppini: Artiste du Rakugo
+  - https://cyco-o.com/en/#agenda
 - Musée des Arts Asiatiques à Nice
+  - https://maa.departement06.fr/
 - Médiathèque Albert Camus à Antibes
   - Exposition sur les samouraïs jusqu'au 31 août
+  - https://www.ma-mediatheque.net/doc/CALENDAR/3764
 - Made in Japan à Monaco
+  - https://monacoemu.com/made-in-japan-in-monaco-fr/
 - Kamogawa et Ikko Ramen à Nice
 
 ---
