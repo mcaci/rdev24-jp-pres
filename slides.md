@@ -37,7 +37,6 @@ Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non
 L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
  -->
 
-
 ---
 layout: image-right
 image: /images/robot3.jpeg
@@ -99,6 +98,10 @@ Quelques mots sur nous
 
 <img src="/photos/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
 
+<!--
+N/A
+-->
+
 ---
 layout: image-left
 image: /images/stereo1.jpeg
@@ -115,26 +118,8 @@ Mais il peut nous surprendre par ce qu'il nous montre au-delà de son visage le 
 
 Aujourd'hui, nous voulons vous montrer ce qu'il y a derrière ce visage plus connu en nous appuyant sur notre expérience.
 
----
-layout: center
-transition: fade-out
----
-
-# Les thèmes d'aujourd'hui
-
-- La langue
-- La nourriture
-- La culture générale
-- La nature
-- La vie quotidienne (et le travail)
-- Les médias (Manga, Anime, Dorama, JPop)
-
-<!-- 
-Per eventualmente saltare di argomento in argomento
-https://sli.dev/builtin/components#link 
-
-Tento di usare lo sfondo ma non riesco: 
-background: /photos/nature.jpg
+<!--
+N/A
 -->
 
 ---
@@ -194,11 +179,6 @@ Dans les grandes villes est un peu plus facile pouvoir trouver une personne qui 
 Pour communiquer nous pouvons utiliser les gestes. Par exemple au restaurant nous pouvons indiquer un plat et nous pouvons dire en Japonais "Kore" que ca vais dire "ce".
 
 Dans mon expérience si je souhaite parler en Japonais avec quelqu un , je commence pour m'excuser et je lui propose de parler ensemble en japonais. Si la personne connait l'anglais, il va repondre en anglais: c'est simplement pour t'aider car il comprend que la langue japonaise est un peu difficile.
-
-Nota simpatica:
-& mettere immagine dei 3 alfabeti
-Se ci si sente coraggiosi: nihongo de daijoubu desu. Aiuta a rompere le barriere linguistiche, i giapponesi sono molto simpatici.
-Se non si parla giapponese non è grave, in un modo o nell'altro ci si capisce, ma se lo si parla anche minimamente i giapponesi saranno super felici.
  -->
 
 ---
@@ -279,6 +259,10 @@ transition: fade-out
   <Youtube id="8M_seGZiQ9w" height="300"/>
 </div>
 
+<!--
+N/A
+-->
+
 ---
 layout: quote
 transition: fade-out
@@ -343,6 +327,10 @@ Youshoku/Yougashi: la nourriture et les gâteaux d'inspiration occidentale
 - meronpan, castera, bisuketto, kukki
 
 </v-clicks>
+
+<!--
+N/A
+-->
 
 ---
 layout: image-right
@@ -418,19 +406,7 @@ Si je voulais du fromage, à Tokyo, j'ai trouvé du fromage Kiri dans le superma
 https://www.japan.travel/fr/gastronomy/local-cuisine-eastern-japan/
 https://omnivorebooks.myshopify.com/products/new-arrival-japanese-laure-kie-haruna-kishi-japanese-cuisine-an-illustrated-guide
 https://stickymangorice.com/2023/03/29/japanese-dishes-by-region/
--->
 
----
-layout: image-right
-image: /photos/sakura-mochi.jpg
-transition: fade-out
----
-
-# À chaque saison sa variété
-
-
-
-<!-- 
 In piu se necessario
 和菓子 (wagashi) et 洋菓子 (yougashi)
 - gateau au fraises pour noel?
@@ -445,6 +421,10 @@ transition: fade-out
 # Vers le sushi et au-delà !
 
 Si vous n'aimez pas le poisson cru, vous ne serez pas obligés d'aller au McDonald's.
+
+<!--
+N/A
+-->
 
 
 ---
@@ -497,7 +477,7 @@ Un festival de couleurs et images
 <v-clicks>
 
 - Au printemps, on a le sakura avec ses couleurs roses.
-- En été, on a la chaleur, les paysages verdoyants et les cigales.
+- En été, on a les feux d'artifice, les paysages verdoyants et les cigales.
 - En automne, on a le momiji qui devient rouge et doré.
 - En hiver, on a le blanc des paysages enneigés.
 </v-clicks>
@@ -507,9 +487,10 @@ Un festival de couleurs et images
 Les 4 saisons figurent tres souvent dans la culture et la vie quotidienne au Japon.
 </v-click>
 
-## Dans le vocabulaire
+<v-click>
 
-四季 (shiki) ou 春夏秋冬 (shunkashuuto)
+On a vu dans la nourriture tout à l'heure
+</v-click>
 
 <!-- 
 
@@ -533,101 +514,127 @@ image: /photos/spring.jpg
 transition: fade-out
 ---
 
-## Les 4 saisons dans le matsuri
+# Dans le matsuri
 
-Les festivals japonais
+Les festivals Japonais
 
-Comme le plus connu __Sakura Matsuri__ ou le __Yuki Matsuri__ à Sapporo qui célèbrent la beauté entremêlée avec le passage du temps.
+<v-clicks>
 
+En printemps on a le Hina Matsuri, dédié aux jeunes filles et est célébré le 3 mars et le bien plus connu __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
 
+En été on a la plus part des matsuri qui sont organise dans tout le Japon, la plus part sont de festivals lie a la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
 
-- Hina Matsuri
-- Sanno Matsuri
+Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
 
-Pendant l'année, il y a différents festivals dans tout le Japon.
+En automne au Japon c'est la saison des recoltes et beaucoup des matsuri celebrent ca, comme __Hachiman Matsuri__ à Takayama.
 
-Le plus connu est le Sakura Matsuri.
-
-Le festival Hina Matsuri est dédié aux poupées et est célébré le 3 mars.
-
-Le festival Sanno Matsuri comprend une procession avec des vêtements traditionnels.
-
-Noël : gâteau aux fraises, célébré en couple.
-
-Le Nouvel An : visite du temple ou du sanctuaire selon la religion et célébration en famille.
-
-# Les vêtements
-
-Au-delà du Kimono
-
-- yukata
-
-- jinbei
-
-- uniforme scolaire
-
-
-lascerei queste parole con una foto
-
-Kimono (vêtement en soie, élégant, pour les grandes occasions comme les mariages, mais aussi les enterrements)
-
-Yukata (vêtement en coton, porté en été, principalement par les femmes)
-
-Jinbei (vêtement en coton, porté par les hommes, utilisé comme vêtement de nuit ou pour l'intérieur)
+En hiver surement on a le Noël celebre en couple comme la saint valentin, la celebration du Nouvel An avec visite du temple ou du sanctuaire selon la religion et célébration en famille et le __Yuki Matsuri__ à Sapporo avec ses statues de glace.
+</v-clicks>
 
 <!--
-Noms utilises pour le 4 saisons
-四季 (しき) / 春夏秋冬 (しゅんかしゅうとう)
-
-
-inverno 
-neve matsuri di Hokkaido 
-
-primavera 
-fiori di ciliegio 
-
-autunno 
-momiji
-
-estate 
-c'è molto verde la stagione della pioggia e parlerei delle cicale 
-
-Chaque saison a son significat
-
-Lien avec la nature?
-Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature?
-Lien avec les matsuri? -->
+N/A
+-->
 
 ---
 layout: image-right
-image: /photos/water_and_koi.jpg
-transition: fade-out
+image: /photos/hihashiyama-kai.jpg
+background-size: 100%
+transition: fade
 ---
 
-# Un peuple rigoureux, précis et respectueux
+# Et en plus
 
-- les règles
-- le travail
-- la sécurité
+Les couleurs et les symboles des quatre saisons dans la tradition
 
-lascerei queste tre parole che ne pensi?
+## Dans les arts
 
-Et plein de règles
+Dans la peinture, sculpture, architecture, etc.
 
-Dans le travail, il est important de bien faire son travail et même de faire des heures supplémentaires, ainsi que de sortir après le travail avec les collègues et le chef.
+---
+layout: image-right
+image: /photos/traditional-dress.jpg
+transition: fade
+---
 
-Les transports en commun sont un exemple de ponctualité. Mon expérience dans le dortoir: heure de fermeture du portail, réaction de l'agent de sécurité ancien et jeune.
+# Et en plus
 
-Les règles sont partout, même dans les aspects moins évidents. Par exemple : où marcher dans les rues, où aller sur l'escalier roulant, rentrer dans les transports en commun, à l'école, comment récupérer le diplôme, la position des mains et les inclinations. On ne peut pas manger à l'extérieur et il n'y a pas de poubelles pour ne pas salir les lieux.
+Les couleurs et les symboles des quatre saisons dans la tradition
 
-Les enfants prennent le métro et le bus tous seuls car en général c'est un lieu sécurisé au Japon. À l'école, ils apprennent à être autonomes, à faire le ménage et à maintenir la classe propre.
+## Dans les arts
+
+Dans la peinture, sculpture, architecture, etc.
+
+## Dans les vêtements
+
+Dans les Kimono, Yukata, Jinbei, Obi
+
+<!-- 
+- Kimono
+  - vêtement en soie, élégant, pour les grandes occasions comme les mariages, mais aussi les enterrements
+  - les obi (ceintures) souvent ont des motifs et des couleurs qui rappellent les quatre saisons
+- Yukata
+  - vêtement en coton, porté en été, principalement par les femmes
+- Jinbei
+  - vêtement en coton, porté par les hommes, utilisé comme vêtement de nuit ou pour l'intérieur
+-->
+
+---
+layout: image-right
+image: /images/kanji3.jpeg
+transition: fade
+---
+
+# Et en plus
+
+Les couleurs et les symboles des quatre saisons dans la tradition
+
+## Dans les arts
+
+Dans la peinture, sculpture, architecture, etc.
+
+## Dans les vêtements
+
+Dans les Kimono, Yukata, Jinbei, Obi
+
+## Dans le vocabulaire
+
+四季 (shiki) ou 春夏秋冬 (shunkashuuto)
+
+<!--
+N/A
+-->
+
+---
+layout: image-right
+image: /photos/sakura-mochi.jpg
+transition: fade
+---
+
+# Et en plus
+
+Les couleurs et les symboles des quatre saisons dans la tradition
+
+## Dans la nourriture
+
+La nourriture a theme sakura en printemps
+
+Le gâteau aux fraises a Noël
+
+<v-click>
+
+Tout peut rappeler les passage des 4 saisons et du temps
+</v-click>
+
+<!--
+N/A
+-->
 
 ---
 layout: quote
 transition: fade-out
 ---
 
-# Tout peut rappeler les passage des 4 saisons et du temps
+# Perche' le 4 stagioni sono importanti per i Giapponesi
 
 ---
 layout: image-right
@@ -755,7 +762,34 @@ transition: fade-out
 </div>
 
 Merci à tous.
+
 ---
+hide: true
+layout: image-right
+image: /photos/water_and_koi.jpg
+transition: fade-out
+---
+
+# Un peuple rigoureux, précis et respectueux
+
+- les règles
+- le travail
+- la sécurité
+
+lascerei queste tre parole che ne pensi?
+
+Et plein de règles
+
+Dans le travail, il est important de bien faire son travail et même de faire des heures supplémentaires, ainsi que de sortir après le travail avec les collègues et le chef.
+
+Les transports en commun sont un exemple de ponctualité. Mon expérience dans le dortoir: heure de fermeture du portail, réaction de l'agent de sécurité ancien et jeune.
+
+Les règles sont partout, même dans les aspects moins évidents. Par exemple : où marcher dans les rues, où aller sur l'escalier roulant, rentrer dans les transports en commun, à l'école, comment récupérer le diplôme, la position des mains et les inclinations. On ne peut pas manger à l'extérieur et il n'y a pas de poubelles pour ne pas salir les lieux.
+
+Les enfants prennent le métro et le bus tous seuls car en général c'est un lieu sécurisé au Japon. À l'école, ils apprennent à être autonomes, à faire le ménage et à maintenir la classe propre.
+
+---
+hide: true
 transition: fade-out
 ---
 
