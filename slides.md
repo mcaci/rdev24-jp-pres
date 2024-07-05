@@ -556,7 +556,7 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les differentes étapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les différentes étapes de floraison du cerisier.
 
 ---
 layout: image-right
@@ -568,7 +568,7 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les differentes étapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les différentes étapes de floraison du cerisier.
 
 En été on a la plus part des matsuri qui sont organisé dans tout le Japon, la plus part sont de festivals liés à la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
 
@@ -582,11 +582,11 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les différentes étapes de floraison du cerisier.
 
-En été on a la plus part des matsuri qui sont organise dans tout le Japon, la plus part sont de festivals lie a la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
+En été on a la plus part des matsuri qui sont organisé dans tout le Japon, la plus part sont de festivals liés à la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
 
-En automne au Japon c'est la saison des recoltes et beaucoup des matsuri celebrent ca, comme __Hachiman Matsuri__ à Takayama.
+En automne au Japon c'est la saison des récoltes et beaucoup des matsuri celebrent ca, comme __Hachiman Matsuri__ à Takayama.
 
 ---
 layout: image-right
@@ -619,9 +619,9 @@ transition: fade
 
 # Et en plus
 
-Les couleurs et les symboles des quatre saisons dans la tradition
-
-Va aggiunto qualcosa o va migliorata la frase?
+Les couleurs et les symboles des quatre saisons dans la vie
+japonaise
+che ne pensi?
 
 ## Dans les arts
 
@@ -693,13 +693,15 @@ transition: fade
 
 # Et en plus
 
-Les couleurs et les symboles des quatre saisons dans la tradition
-
-Hai in mente o vuoi cercare altri cibi a tema delle 4 stagioni?
+Les couleurs et les symboles des quatre saisons dans la cuisine
 
 ## Dans la nourriture
 
-La nourriture a theme sakura en printemps
+La nourriture à thème sakura en printemps
+
+Pour l' été on retrouve le ramen froid: hiyashi chuka
+
+En automne le dorayaki a la crème de châtaigne
 
 Le gâteau aux fraises a Noël
 
@@ -719,7 +721,9 @@ layout: quote
 transition: fade-out
 ---
 
-# Perche' le 4 stagioni sono importanti per i Giapponesi
+# Au Japon les 4 saisons représentent l' équilibre qui existe entre les hommes et la nature.
+Elles marquent le passage du temps, car chaque année chaque symbole revient.
+
 
 ---
 layout: image-right
@@ -729,12 +733,22 @@ transition: fade-out
 
 # Arts et Medias
 
-Manga, Anime, Dorama
+Les plus connus:
 
-Ti chiedo se mi puoi verificare questo testo se c'e' qualcosa che non va e aggiornarlo. Sento che si possa migliorarlo ma non saprei dirti bene come
+Manga
+Anime
+Dorama
+
+Hayao Miyazaki et le Studio GHIBLI 
+Mon voisin Totoro
+Porco Rosso
+Kiki
+Princesse Mononoke
+
 
 <v-clicks>
-
+Les œuvres de Miyazaki sont caractérisées par la récurrence de thèmes tels que la relation de l'humanité avec la nature et la technologie, la salubrité des modes de vie naturels et traditionnels, l'importance de l'art et de l'artisanat, et la difficulté de maintenir une éthique pacifiste dans un monde violent. Les protagonistes de ses films sont souvent des filles ou des jeunes femmes fortes, et plusieurs de ses films présentent des protagonistes moralement ambigus dotés de qualités rédemptrices. Les œuvres de Miyazaki sont très appréciées et récompensées ; le réalisateur est nommé personne de mérite culturel pour ses contributions culturelles exceptionnelles en novembre 2012 et reçoit l'Oscar d'honneur pour son impact sur l'animation et le cinéma en novembre 2014. Miyazaki est cité comme une source d'inspiration pour de nombreux animateurs, réalisateurs et écrivains.
+  
 Au-delà des manga plus connus comme les __shōjo__ et les __shōnen__, les mangas peuvent avoir n'importe quel theme et n'importe quel target.
 
 Les Anime et les Dorama (série télé japonaise) souvent sont des adaptations des Manga plus populaires.
@@ -781,12 +795,7 @@ background-size: 120%
 
 # Arts et Medias
 
-Mascottes et JPOP
-
-Non so se menzionare JPOP qui o in generale
-Mi sembrano per ora troppo mischiate senza motivo con le mascotte
-
-Magari possiamo solo parlare di mascottes e aggiungere qualche dettaglio o curiosita'
+Mascottes 
 
 <v-click>
 
@@ -802,27 +811,14 @@ Une mascotte peut représenter:
 
 <v-click>
 
-Elles sont tres populaires et utlise partout au Japon
-</v-click>
-
-
-<v-click>
-
-Exemples de maisons de production et chantants
-</v-click>
-
-<v-clicks>
-
-- Johnny & Associates agency
-- Kimura Takuya et les SMAP, NEWS, Arashi, Utada Hikaru
-- en 2024: Ado, Lisa, Aimer, Yoasobi, AKB48 
-</v-clicks>
+Elles sont très populaires et utlisées partout au Japon.
 
 <!-- 
 Au Japon, les mascottes, ou yuru-kyara, jouent un rôle important: 
 elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
 
 -->
+niente jpop amore
 
 ---
 layout: image-right
@@ -833,28 +829,25 @@ background-size: fit
 
 # Arts et Medias
 
-Le theatre
-
-Qui ho bisogno di un po' di contenuto
+Le théâtre
 
 <v-clicks>
 
-Une mention particuliere peut etre faite sur le theaatre.
+Au délà du théâtre traditionnel comme le Kabuki et le Nō, nous avons aussi le:
 
-Il y a les diffentes genres plus connus:
-
-- Kabuki
-- Nou
-
-Mais aussi autres moins connus:
-
-- Rakugo
-- Butou
+Rakugo
+est une forme de spectacle littéraire japonais humoristique 
+tirerait ses origines des historiettes comiques racontées par les moines bouddhistes
+le Rakugoka s'assied sur la scène , il est habillé en Kimono, en genoux, utilise uniquement le sensu éventail de papier, le tenugui un essuie-main en cotton pour racconter une histoire, il décrit une histoire humoristique qui peut être longue et compliquée ou bien simple et courte.
 
 </v-clicks>
 
 <!--
-N/A
+Le Kabuki est une forme de théâtre traditionnel japonais qui a vu le jour à l’époque Edo, au début du dix-septième siècle, où il était particulièrement prisé des citadins. Joué à l’origine par des hommes et des femmes, il a été par la suite interprété par des troupes exclusivement masculines, tradition qui a perduré jusqu’à nos jours. Les acteurs spécialisés dans les rôles féminins sont appelés onnagata. Il existe deux autres grands types de rôles : l’aragoto (style violent) et le wagoto (style doux).
+Les pièces de Kabuki illustrent des événements historiques et le conflit moral lié aux relations affectives. Les acteurs s’expriment d’une voix monotone et sont accompagnés d’instruments traditionnels. La scène est équipée de divers dispositifs tels que des plateaux tournants et des trappes par lesquelles les acteurs peuvent apparaître et disparaître. Une autre spécificité du Kabuki est la passerelle (hanamichi) qui s’avance au milieu du public.
+
+Spectacle complet, les majestueuses pièces du nô sʼapparentent à un long poème chanté. Expression esthétique et allusive dʼune des formes du théâtre classique japonais, le nô, fortement influencé par le zen, associe la danse au chant, le mime à la poésie, la musique à la littérature. Drame au pouvoir incantatoire et à la magie souveraine, le nô, semble avoir été créé pour apaiser le cœur des hommes. Venant de la chambre au miroir où ils se préparent, les acteurs, exclusivement des hommes, entrent en scène toujours par la gauche du plateau. Ils traversent, comme dans un rituel, un pont, cheminement symbolique dʼun passage dʼun monde à lʼautre, de lʼau-delà vers le temporel. Accompagnés dʼun chœur et de musiciens, les protagonistes, entre danses et symboles, chants et dialogues, invitent le public à assister à une représentation inchangée depuis ses origines, il y a plus de six cents ans. Un rêve éveillé qui défie le temps.
+les acteurs jouent essentiellement pour les shoguns et les samouraïs. Le théâtre nō est composé de drames lyriques des xive et xve siècles1, au jeu dépouillé et codifié. Ces acteurs sont accompagnés par un petit orchestre et un chœur. Leur gestuelle est stylisée autant que la parole qui semble chantée.
 -->
 
 ---
