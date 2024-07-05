@@ -274,9 +274,13 @@ On pense que la langue japonaise represente un peu la vie d'une personne
 
 Le hiragana commence par "a", "i" et termine par "(w)o", "n"
 
-La vie d'une personne commence en recevant 愛 ("ai"), l'amour, et termine avec 恩 ("on"), la gratitude aux personnes qui l'ont aime ou a la generation future.
+La vie d'une personne commence en recevant 愛 ("ai") et termine avec 恩 ("on")
 
-<!-- https://www.instagram.com/p/C8rnXpUoK4e/?hl=en -->
+<!--
+愛, l'amour
+恩, la gratitude aux personnes qui l'ont aime ou a la generation future.
+https://www.instagram.com/p/C8rnXpUoK4e/?hl=en
+-->
 
 ---
 layout: image
@@ -299,21 +303,44 @@ Avez-vous un plat préféré en particulier ? Ou un dessert préféré ?
 
 La nourriture a deux aspects intéressants au Japon :
 
-- les spécialités régionales
 - traditionnelles ou d'inspiration occidentale
+- les spécialités régionales
  -->
 
 ---
 layout: image-right
-image: /images/tea-ceremony2.jpeg
-transition: fade-out
+image: /photos/washoku.png
+transition: fade
+background-size: 110%
 ---
 
 # Japonais et Occidental
 
 Washoku/Wagashi ou Youshoku/Yougashi
 
-<v-clicks>
+<v-click>
+
+Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
+- sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
+- the (matcha, sencha, ...)
+- dorayaki, taiyaki, mochi, dango
+
+</v-click>
+
+<!--
+N/A
+-->
+
+---
+layout: image-right
+image: /photos/youshoku.png
+transition: fade
+background-size: 115%
+---
+
+# Japonais et Occidental
+
+Washoku/Wagashi ou Youshoku/Yougashi
 
 Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
 - sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
@@ -325,8 +352,6 @@ Youshoku/Yougashi: la nourriture et les gâteaux d'inspiration occidentale
 - kareraisu
 - ramune
 - meronpan, castera, bisuketto, kukki
-
-</v-clicks>
 
 <!--
 N/A
@@ -425,7 +450,6 @@ Si vous n'aimez pas le poisson cru, vous ne serez pas obligés d'aller au McDona
 <!--
 N/A
 -->
-
 
 ---
 layout: image
@@ -681,33 +705,19 @@ image: /images/manga1.jpeg
 transition: fade-out
 ---
 
-# Les Loisirs au Japon 
+# Arts et Medias
 
-- Les Mangas
+Manga, Anime, Dorama
 
-shōjo manga : pour les filles, thème romantique.
+Au-delà des manga plus connus comme les __shōjo__ et les __shōnen__, les mangas peuvent avoir n'importe quel theme et n'importe quel target.
 
-shōnen manga : pour les garçons, genre action.
+Les Anime et les Dorama (série télé japonaise) souvent sont des adaptations des Manga plus populaires.
 
+En plus les Manga peuvent originer des livres qui ont eu success.
 
-- Les Animes
-
-Miyazaki
-Doraemon
-One Piece
-
-- Les Doramas
-
-- Jpop Musique
-Johnny & Associates agency
-Kimura Takuya et les SMAP
-NEWS
-Arashi
-Utada Hikaru
-en 2024: Lisa, Aimer, Yoasobi, AKB48 
+Mais aussi des productions independantes comme souvent fait par le Studio Ghibli.
 
 <!-- 
-
 Ils existent différents thèmes tels que la religion, le rakugo, l'amour et le sport.
 
 Les mangas (et autres formes culturelles telles que les animes, les doramas, la JPop, etc.) sont plus connus en Occident.
@@ -730,34 +740,65 @@ Enfin, dans le manga de type shōjo notamment, l'Art nouveau occupe une place pr
 histoire des mangas
 pour reproduire les anime et dorama
 
-Sara' importante andare al di la' del cliche.
-Vari tipi per vari target (elencare i tipi e il target) -->
+Miyazaki
+Doraemon
+One Piece -->
+
 ---
+layout: image-right
+image: /photos/mascottes.jpeg
 transition: fade-out
+background-size: 120%
 ---
 
-# Les Mascottes
+# Arts et Medias
 
-Elles servent à représenter :
+JPOP et Mascottes
+
+- Johnny & Associates agency
+- Kimura Takuya et les SMAP, NEWS, Arashi, Utada Hikaru
+- en 2024: Ado, Lisa, Aimer, Yoasobi, AKB48 
+
+Une mascotte peut représenter:
 
 <v-clicks>
 
 - une préfecture
 - une entreprise
 - presque tout au Japon
-
-</v-clicks>
-   
-<v-clicks>
-
-mascotte sendai, himeji... & immagini viaggio
 </v-clicks>
 
 <!-- 
-
 Au Japon, les mascottes, ou yuru-kyara, jouent un rôle important: 
 elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
- -->
+-->
+
+---
+layout: image-right
+image: /photos/rakugo-ryuraku.jpg
+transition: fade-out
+background-size: fit
+---
+
+# Arts et Medias
+
+Le theatre
+
+Une mention particuliere peut etre faite sur le theaatre.
+
+Il y a les diffentes genres plus connus:
+
+- Kabuki
+- Nou
+
+Mais aussi autres moins connus:
+
+- Rakugo
+- Butou
+
+<!--
+N/A
+-->
 
 ---
 layout: center
@@ -765,16 +806,21 @@ image: /images/kanji8.jpeg
 transition: fade-out
 ---
 
-# Le tour du Japon
+# Le Japon ne s'arrête pas là
 
 <div/>
 
 <v-clicks>
+Mais on a que 50 minutes à disposition. 😁
 
-Le Japon a de nombreux visages qui vont au-delà des stéréotypes les plus connus.
+Aujourd'hui, nous avons fait un petit tour de différents aspects du Japon à travers notre expérience.
 
-Aujourd'hui, nous avons fait un petit tour de ces différents aspects du Japon à travers notre expérience.
+Mais si vous souhaitez savoir plus, n'hésitez pas à venir nous voir.
 </v-clicks>
+
+<!-- 
+N/A
+-->
 
 ---
 transition: fade-out
@@ -793,7 +839,7 @@ Lieux et événements dans la région PACA
   - https://www.ma-mediatheque.net/doc/CALENDAR/3764
 - Made in Japan à Monaco
   - https://monacoemu.com/made-in-japan-in-monaco-fr/
-- Kamogawa et Ikko Ramen à Nice
+- Restaurants Kamogawa et Ikko Ramen à Nice
 
 ---
 layout: jp-end
