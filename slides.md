@@ -270,11 +270,18 @@ transition: fade-out
 
 # Un petit anectode
 
-On pense que la langue japonaise represente un peu la vie d'une personne
+<v-clicks>
 
-Le hiragana commence par "a", "i" et termine par "(w)o", "n"
+Nous pensons que la langue japonaise represente un peu la vie d'une personne.
 
-La vie d'une personne commence en recevant 愛 ("ai") et termine avec 恩 ("on")
+Le hiragana commence par "a", "i" et termine par "(w)o", "n".
+
+La vie d'une personne commence en recevant 愛 ("ai") et termine avec 恩 ("on").
+
+愛, est l'amour, qu'on reçoit de la part de ceux qui nous ont accueillis au monde.
+
+恩, est la gratitude, envers les personnes qui nous ont aimé et envers les générations futures.
+</v-clicks>
 
 <!--
 愛, l'amour
@@ -365,46 +372,58 @@ transition: fade-out
 
 # À chaque région sa spécialité
 
-<div v-click="1" v-click.hide="2">
+<div v-click="[1, 2]">
 
 Tōkyō / Kantō
 - Monjayaki
-<img src="/photos/monjayaki.jpg" alt="image of monjayaki" class="absolute rounded shadow" height=50% width=50%/>
+  <div class="images-container">
+    <img src="/photos/monjayaki.jpg" alt="image of monjayaki" class="absolute rounded shadow" style="top: 20%; left: 25%; height: 33%; width: 33%;"/>
+  </div>
 </div>
 
-<div v-click="2" v-click.hide="3">
+<div v-click="[2, 3]">
 
 Ōsaka / Kansai
-- Takoyaki, Okonomiyaki, Kushikatsu
-<img src="/photos/takoyaki.jpg" alt="image of takoyaki" class="absolute rounded shadow" height=50% width=50%/>
-<img src="/photos/okonomiyaki.jpg" alt="image of okonomiyaki" class="absolute rounded shadow" height=50% width=50%/>
-<img src="/photos/kushikatsu.jpg" alt="image of kushikatsu" class="absolute rounded shadow" height=50% width=50%/>
+- Takoyaki, Okonomiyaki Ōsaka-style, Kushikatsu
+  <div class="images-container">
+    <img src="/photos/takoyaki.jpg" alt="image of takoyaki" class="absolute rounded shadow" style="bottom: 5%; left: 10%; height: 33%; width: 33%;"/>
+    <img src="/photos/okonomiyaki.jpg" alt="image of okonomiyaki" class="absolute rounded shadow" style="top: 15%; left: 35%; height: 33%; width: 33%;"/>
+    <img src="/photos/kushikatsu.jpg" alt="image of kushikatsu" class="absolute rounded shadow" style="top: 15%; left: 70%; height: 33%; width: 33%;"/>
+  </div>
 </div>
 
-<div v-click="3" v-click.hide="4">
+<div v-click="[3, 4]">
 
 Sendai / Tohoku
 - Gyutan, Fraises
-<img src="/photos/gyutan.jpg" alt="image of gyutan" class="absolute rounded shadow" height=50% width=50%/>
+  <div class="images-container">
+    <img src="/photos/gyutan2.jpg" alt="image of gyutan" class="absolute rounded shadow" style="top: 25%; left: 10%; height: 33%; width: 33%;"/>
+    <img src="/photos/ichigo.jpg" alt="image of strawberry" class="absolute rounded shadow" style="top: 25%; left: 45%; height: 33%; width: 33%;"/>
+  </div>
 </div>
 
-<div v-click="4" v-click.hide="5">
+<div v-click="[4, 5]">
 
 Hiroshima / Chugoku
-- Okonomiyaki
+- Okonomiyaki Hiroshima-sytle
+  <div class="images-container">
+    <img src="/photos/soba_okonomiyaki.jpg" alt="image of soba okonomiyaki" class="absolute rounded shadow" style="bottom: 25%; left: 10%; height: 33%; width: 33%;"/>
+  </div>
 </div>
 
-<div v-click="5" v-click.hide="6">
+<div v-click="[5, 6]">
 
-Kyushu et Okinawa
-- Castera, Takoraisu, Goya
-<img src="/photos/takoraisu.jpeg" alt="image of takoraisu" class="absolute rounded shadow" height=50% width=50%/>
+Kyushu et Okinawa: Castera, Takoraisu, Goya
+  <div class="images-container">
+    <img src="/photos/takoraisu.jpeg" alt="image of takoraisu" class="absolute rounded shadow" style="top: 25%; left: 10%; height: 33%; width: 33%;"/>
+    <img src="/photos/kasutera.jpg" alt="image of castera" class="absolute rounded shadow" style="bottom: 7%; left: 10%; height: 33%; width: 33%;"/>
+  </div>
 </div>
 
 <arrow v-click="[1, 2]" x1="875" y1="375" x2="800" y2="315" color="#F00" width="2" arrowSize="1" />
 <arrow v-click="[2, 3]" x1="730" y1="425" x2="680" y2="360" color="#F00" width="2" arrowSize="1" />
-<arrow v-click="[3, 4]" x1="565" y1="275" x2="610" y2="325" color="#F00" width="2" arrowSize="1" />
-<arrow v-click="[4, 5]" x1="925" y1="250" x2="815" y2="225" color="#F00" width="2" arrowSize="1" />
+<arrow v-click="[3, 4]" x1="925" y1="250" x2="815" y2="225" color="#F00" width="2" arrowSize="1" />
+<arrow v-click="[4, 5]" x1="565" y1="275" x2="610" y2="325" color="#F00" width="2" arrowSize="1" />
 <arrow v-click="[5, 6]" x1="600" y1="500" x2="540" y2="415" color="#F00" width="2" arrowSize="1" />
 
 <!--
@@ -511,11 +530,6 @@ Un festival de couleurs et images
 Les 4 saisons figurent tres souvent dans la culture et la vie quotidienne au Japon.
 </v-click>
 
-<v-click>
-
-On a vu dans la nourriture tout à l'heure
-</v-click>
-
 <!-- 
 
 Les 4 saisons au Japon nous évoquent des idées précises
@@ -607,6 +621,8 @@ transition: fade
 
 Les couleurs et les symboles des quatre saisons dans la tradition
 
+Va aggiunto qualcosa o va migliorata la frase?
+
 ## Dans les arts
 
 Dans la peinture, sculpture, architecture, etc.
@@ -620,6 +636,8 @@ transition: fade
 # Et en plus
 
 Les couleurs et les symboles des quatre saisons dans la tradition
+
+Va aggiunto qualcosa o va migliorata la frase?
 
 ## Dans les arts
 
@@ -649,6 +667,8 @@ transition: fade
 
 Les couleurs et les symboles des quatre saisons dans la tradition
 
+Va aggiunto qualcosa o va migliorata la frase?
+
 ## Dans les arts
 
 Dans la peinture, sculpture, architecture, etc.
@@ -674,6 +694,8 @@ transition: fade
 # Et en plus
 
 Les couleurs et les symboles des quatre saisons dans la tradition
+
+Hai in mente o vuoi cercare altri cibi a tema delle 4 stagioni?
 
 ## Dans la nourriture
 
@@ -709,6 +731,10 @@ transition: fade-out
 
 Manga, Anime, Dorama
 
+Ti chiedo se mi puoi verificare questo testo se c'e' qualcosa che non va e aggiornarlo. Sento che si possa migliorarlo ma non saprei dirti bene come
+
+<v-clicks>
+
 Au-delà des manga plus connus comme les __shōjo__ et les __shōnen__, les mangas peuvent avoir n'importe quel theme et n'importe quel target.
 
 Les Anime et les Dorama (série télé japonaise) souvent sont des adaptations des Manga plus populaires.
@@ -716,6 +742,8 @@ Les Anime et les Dorama (série télé japonaise) souvent sont des adaptations d
 En plus les Manga peuvent originer des livres qui ont eu success.
 
 Mais aussi des productions independantes comme souvent fait par le Studio Ghibli.
+
+</v-clicks>
 
 <!-- 
 Ils existent différents thèmes tels que la religion, le rakugo, l'amour et le sport.
@@ -753,13 +781,17 @@ background-size: 120%
 
 # Arts et Medias
 
-JPOP et Mascottes
+Mascottes et JPOP
 
-- Johnny & Associates agency
-- Kimura Takuya et les SMAP, NEWS, Arashi, Utada Hikaru
-- en 2024: Ado, Lisa, Aimer, Yoasobi, AKB48 
+Non so se menzionare JPOP qui o in generale
+Mi sembrano per ora troppo mischiate senza motivo con le mascotte
+
+Magari possiamo solo parlare di mascottes e aggiungere qualche dettaglio o curiosita'
+
+<v-click>
 
 Une mascotte peut représenter:
+</v-click>
 
 <v-clicks>
 
@@ -768,9 +800,28 @@ Une mascotte peut représenter:
 - presque tout au Japon
 </v-clicks>
 
+<v-click>
+
+Elles sont tres populaires et utlise partout au Japon
+</v-click>
+
+
+<v-click>
+
+Exemples de maisons de production et chantants
+</v-click>
+
+<v-clicks>
+
+- Johnny & Associates agency
+- Kimura Takuya et les SMAP, NEWS, Arashi, Utada Hikaru
+- en 2024: Ado, Lisa, Aimer, Yoasobi, AKB48 
+</v-clicks>
+
 <!-- 
 Au Japon, les mascottes, ou yuru-kyara, jouent un rôle important: 
 elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
+
 -->
 
 ---
@@ -784,6 +835,10 @@ background-size: fit
 
 Le theatre
 
+Qui ho bisogno di un po' di contenuto
+
+<v-clicks>
+
 Une mention particuliere peut etre faite sur le theaatre.
 
 Il y a les diffentes genres plus connus:
@@ -795,6 +850,8 @@ Mais aussi autres moins connus:
 
 - Rakugo
 - Butou
+
+</v-clicks>
 
 <!--
 N/A

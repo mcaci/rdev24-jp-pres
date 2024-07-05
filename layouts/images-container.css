@@ -1,0 +1,18 @@
+.images-container {
+    position: relative;
+    width: 100%; /* Adjust based on your layout */
+    height: 600px; /* Adjust based on your content */
+    overflow: hidden; /* Optional, to hide parts of the images that overflow the container */
+  }
+  
+  .absolute {
+    position: absolute;
+  }
+  
+  .rounded {
+    border-radius: 8px;
+  }
+  
+  .shadow {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
