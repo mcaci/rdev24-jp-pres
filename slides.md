@@ -327,7 +327,7 @@ transition: fade-out
 
 # Une grande variété
 
-À chaque région sa spécialité
+À chaque région sa spécialité, à chaque saison sa variété
 
 <div v-click="1" v-click.hide="2">
 
