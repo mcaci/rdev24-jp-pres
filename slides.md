@@ -410,7 +410,7 @@ Washoku/Wagashi ou Youshoku/Yougashi
 <v-clicks>
 
 Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
-- sushi, okonomiyaki, takoyaki, katsudon, yakisoba
+- sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
 - the (matcha, sencha, ...)
 - dorayaki, taiyaki, mochi, dango
 
