@@ -347,7 +347,7 @@ background-size: 115%
 
 # Japonais et Occidental
 
-Washoku/Wagashi ou Youshoku/Yougashi
+和食 Washoku/ 和菓子 Wagashi ou 洋食 Youshoku/ 洋菓子 Yougashi
 
 Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
 - sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
@@ -527,7 +527,7 @@ Un festival de couleurs et images
 
 <v-click>
 
-Les 4 saisons figurent tres souvent dans la culture et la vie quotidienne au Japon.
+Les 4 saisons figurent très souvent dans la culture et la vie quotidienne au Japon.
 </v-click>
 
 <!-- 
@@ -556,7 +556,7 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les differentes étapes de floraison du cerisier.
 
 ---
 layout: image-right
@@ -568,9 +568,9 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les differentes étapes de floraison du cerisier.
 
-En été on a la plus part des matsuri qui sont organise dans tout le Japon, la plus part sont de festivals lie a la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
+En été on a la plus part des matsuri qui sont organisé dans tout le Japon, la plus part sont de festivals liés à la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
 
 ---
 layout: image-right
