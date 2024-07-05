@@ -511,28 +511,65 @@ Momiji = l'érable
 ---
 layout: image-right
 image: /photos/spring.jpg
-transition: fade-out
+transition: fade
 ---
 
 # Dans le matsuri
 
 Les festivals Japonais
 
-<v-clicks>
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
 
-En printemps on a le Hina Matsuri, dédié aux jeunes filles et est célébré le 3 mars et le bien plus connu __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
+---
+layout: image-right
+image: /photos/matsuri_august_2014.jpg
+transition: fade
+---
+
+# Dans le matsuri
+
+Les festivals Japonais
+
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
 
 En été on a la plus part des matsuri qui sont organise dans tout le Japon, la plus part sont de festivals lie a la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
 
-Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
+---
+layout: image-right
+image: /photos/hachimanMatsuri.png
+transition: fade
+---
+
+# Dans le matsuri
+
+Les festivals Japonais
+
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
+
+En été on a la plus part des matsuri qui sont organise dans tout le Japon, la plus part sont de festivals lie a la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
 
 En automne au Japon c'est la saison des recoltes et beaucoup des matsuri celebrent ca, comme __Hachiman Matsuri__ à Takayama.
 
-En hiver surement on a le Noël celebre en couple comme la saint valentin, la celebration du Nouvel An avec visite du temple ou du sanctuaire selon la religion et célébration en famille et le __Yuki Matsuri__ à Sapporo avec ses statues de glace.
-</v-clicks>
+---
+layout: image-right
+image: /photos/sapporo-snow-festival.jpg
+transition: fade
+---
+
+# Dans le matsuri
+
+Les festivals Japonais
+
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
+
+En été on a la plus part des matsuri qui sont organise dans tout le Japon, la plus part sont de festivals lie a la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
+
+En automne au Japon c'est la saison des recoltes et beaucoup des matsuri celebrent ca, comme __Hachiman Matsuri__ à Takayama.
+
+En hiver on a le Nouvel An avec le visite du temple ou du sanctuaire selon la religion et célébration en famille et le __Yuki Matsuri__ à Sapporo avec ses statues de glace.
 
 <!--
-N/A
+Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
 -->
 
 ---
@@ -620,9 +657,11 @@ La nourriture a theme sakura en printemps
 
 Le gâteau aux fraises a Noël
 
+<br/>
+
 <v-click>
 
-Tout peut rappeler les passage des 4 saisons et du temps
+__Tout peut rappeler les passage des 4 saisons et du temps__
 </v-click>
 
 <!--
