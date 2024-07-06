@@ -35,6 +35,21 @@ Per temi
 Mary fa il lato piu' serio di esperienza, Michi il lato piu' "comico" di chi non ha un gran livello di cultura e lingua giapponese.
 
 L'idea è dì presentare gli aspetti della cultura giapponese sfatando i luoghi comuni e i cliché grazie alle esperienze personali della vita in Giappone
+
+In the context of a talk for a conference, you might want to use phrases that are more specific to presentations and professional networking. Here are some French phrases tailored for such a setting:
+
+    “Bienvenue à tous.” - Welcome, everyone.
+    “Merci d’être venus.” - Thank you for coming.
+    “Nous allons commencer.” - We are going to start
+    “Je vous présente…” - I present to you…
+    “Nous avons l’honneur d’accueillir…” - We have the honor of welcoming…
+    “Je suis ravi(e) de discuter de…” - I am delighted to discuss…
+    “Passons à la séance de questions-réponses.” - Let’s move on to the Q&A session.
+    “N’hésitez pas à poser des questions.” - Feel free to ask questions.
+    “Je vous remercie de votre attention.” - Thank you for your attention.
+    “Au plaisir de vous revoir.” - Looking forward to seeing you again.
+
+These phrases can help set a professional tone and facilitate smooth interactions during a conference talk. Remember to adjust the formality based on your audience and the setting of the event.
  -->
 
 ---
@@ -47,7 +62,7 @@ transition: fade-out
 
 Quelle est votre expérience avec le Japon?
 
-<v-click>En levant la main, qui a déjà été au Japon pendant au moins :</v-click>
+<v-click>En levant la main, qui a déjà été au Japon pendant au moins:</v-click>
 
 <v-clicks>
 
@@ -124,9 +139,8 @@ N/A
 
 ---
 layout: image
-image: /images/kanji6.jpeg
+image: /photos/langue.jpg
 transition: fade-out
-backgroundSize: 30em
 ---
 
 # La Langue
@@ -164,11 +178,11 @@ Dans les grandes villes, on peut se débrouiller avec l'anglais.
 
 Les gestes peuvent aider, par exemple pour indiquer des plats au restaurant.
 
-- Kore, kore, kore ! (Ceci, ceci et ceci)
+- Kore, kore, kore! (Ceci, ceci et ceci)
 
 Mais au-delà de ça, parler japonais sera certainement utile et ils apprécieront.
 
-- Sumimasen ! (Pour commencer)
+- Sumimasen! (Pour commencer)
 - Nihongo de daijoubu desu. (Si vous êtes courageux)
 
 </v-clicks>
@@ -196,7 +210,7 @@ Et beaucoup de patience
 Ça commence toujours avec les trois alphabets: Hiragana, Katakana et Kanji
 - 皆さん、リヴィエラデヴへようこそ！
 
-Après ça dépend de vous :
+Après ça dépend de vous:
 </v-clicks>
 
 <v-clicks>
@@ -223,7 +237,7 @@ Katakana
 
 - 46 syllabaires
 - utilisé pour (entre autres):
-  - mots d'origine étrangère パソコン pasokon : PC personal computer;
+  - mots d'origine étrangère パソコン pasokon: PC personal computer;
   - onomatopées フワフワ fuwafuwa: sensation agréable de ce qui est doux au toucher (pelucheux) ou fondant dans la bouche ; tendre et moelleux.
 
 Kanji
@@ -235,9 +249,9 @@ Consigli per chi vuole imparare:
 
 - fare pratica ogni giorno
 - avere pazienza
-- vedere dorama, sentire canzoni. Anime ok ma è più il linguaggio informale tra giovani (potrebbe essere fatto a mo' di quiz)
+- vedere dorama, sentire canzoni. Animes ok ma è più il linguaggio informale tra giovani (potrebbe essere fatto a mo' di quiz)
 - vari livelli di formalità, di inchino: kenjyogo, sonkeigo, teinen, Japanese for business
-- keigo (敬語), c’est à dire le langage de politesse. Celui-ci possède trois branches : le langage poli, où Teineigo (丁寧語) qui comprend l’utilisation de la forme en masu, le langage de respect, ou Sonkeigo (尊敬語) qui s’utilise pour parler avec beaucoup de respect à quelqu’un, et enfin le langage de modestie, ou Kenjôgo (謙譲語).
+- keigo (敬語), c’est à dire le langage de politesse. Celui-ci possède trois branches: le langage poli, où Teineigo (丁寧語) qui comprend l’utilisation de la forme en masu, le langage de respect, ou Sonkeigo (尊敬語) qui s’utilise pour parler avec beaucoup de respect à quelqu’un, et enfin le langage de modestie, ou Kenjôgo (謙譲語).
 Si le Sonkeigo témoigne du respect en mettant l’interlocuteur sur un piédestal, le Kenjôgo, lui, témoigne du respect en se rabaissant soi-même !
 
 Oltre al giapponese i dialetti e le onomatopee! Buona fortuna! (Detta in maniera divertente)
@@ -308,7 +322,7 @@ Quels plats et boissons japonais connaissez-vous ?
 
 Avez-vous un plat préféré en particulier ? Ou un dessert préféré ?
 
-La nourriture a deux aspects intéressants au Japon :
+La nourriture a deux aspects intéressants au Japon:
 
 - traditionnelles ou d'inspiration occidentale
 - les spécialités régionales
@@ -318,7 +332,7 @@ La nourriture a deux aspects intéressants au Japon :
 layout: image-right
 image: /photos/washoku.png
 transition: fade
-background-size: 110%
+backgroundSize: 110%
 ---
 
 # Japonais et Occidental
@@ -327,7 +341,7 @@ Washoku/Wagashi ou Youshoku/Yougashi
 
 <v-click>
 
-Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
+和食 Washoku/ 和菓子 Wagashi: la nourriture et les gâteaux japonais traditionnels.
 - sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
 - the (matcha, sencha, ...)
 - dorayaki, taiyaki, mochi, dango
@@ -342,19 +356,19 @@ N/A
 layout: image-right
 image: /photos/youshoku.png
 transition: fade
-background-size: 115%
+backgroundSize: 120%
 ---
 
 # Japonais et Occidental
 
-和食 Washoku/ 和菓子 Wagashi ou 洋食 Youshoku/ 洋菓子 Yougashi
+Washoku/Wagashi ou Youshoku/Yougashi
 
-Washoku/Wagashi: la nourriture et les gâteaux japonais traditionnels
+和食 Washoku/ 和菓子 Wagashi: la nourriture et les gâteaux japonais traditionnels.
 - sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
 - the (matcha, sencha, ...)
 - dorayaki, taiyaki, mochi, dango
 
-Youshoku/Yougashi: la nourriture et les gâteaux d'inspiration occidentale
+洋食 Youshoku/ 洋菓子 Yougashi: la nourriture et les gâteaux d'inspiration occidentale.
 - omuraisu, korokke, naporitan
 - kareraisu
 - ramune
@@ -411,7 +425,7 @@ Hiroshima / Chugoku
   </div>
 </div>
 
-<div v-click="[5, 6]">
+<div v-click="5">
 
 Kyushu et Okinawa: Castera, Takoraisu, Goya
   <div class="images-container">
@@ -424,10 +438,10 @@ Kyushu et Okinawa: Castera, Takoraisu, Goya
 <arrow v-click="[2, 3]" x1="730" y1="425" x2="680" y2="360" color="#F00" width="2" arrowSize="1" />
 <arrow v-click="[3, 4]" x1="925" y1="250" x2="815" y2="225" color="#F00" width="2" arrowSize="1" />
 <arrow v-click="[4, 5]" x1="565" y1="275" x2="610" y2="325" color="#F00" width="2" arrowSize="1" />
-<arrow v-click="[5, 6]" x1="600" y1="500" x2="540" y2="415" color="#F00" width="2" arrowSize="1" />
+<arrow v-click="5" x1="600" y1="500" x2="540" y2="415" color="#F00" width="2" arrowSize="1" />
 
 <!--
-Le nord et le sud du Japon ont des spécialités :
+Le nord et le sud du Japon ont des spécialités:
 - Différentes recettes de ramen selon la région.
 - Okonomiyaki, takoyaki et kushikatsu à Osaka.
 - Monjayaki à Tokyo.
@@ -436,11 +450,11 @@ Le nord et le sud du Japon ont des spécialités :
 - Yakisoba.
 - Udon.
 - Gyutan (langue de boeuf, une spécialité de Sendai).
-Les desserts :
+Les desserts:
 - Dorayaki.
 - Mochi.
 - Meronpan.
-Les fruits :
+Les fruits:
 - Ils sont précieux.
 - Ils sont un peu plus chers au Japon par rapport à la France.
 - On les achète à la pièce, pas au kilogramme.
@@ -462,7 +476,7 @@ image: /images/buzzSushi2.jpeg
 transition: fade-out
 ---
 
-# Vers le sushi et au-delà !
+# Vers le sushi et au-delà!
 
 Si vous n'aimez pas le poisson cru, vous ne serez pas obligés d'aller au McDonald's.
 
@@ -510,7 +524,7 @@ Nous souhaitons vous faire connaître aussi:
 layout: image-right
 image: /images/4seasons2.jpg
 transition: fade-out
-background-size: 100%
+backgroundSize: 110%
 ---
 
 # Les 4 saisons
@@ -586,7 +600,7 @@ En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura
 
 En été on a la plus part des matsuri qui sont organisé dans tout le Japon, la plus part sont de festivals liés à la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
 
-En automne au Japon c'est la saison des récoltes et beaucoup des matsuri celebrent ca, comme __Hachiman Matsuri__ à Takayama.
+En automne au Japon c'est la saison des récoltes et beaucoup des matsuri celebrent ça, comme __Hachiman Matsuri__ à Takayama.
 
 ---
 layout: image-right
@@ -600,9 +614,9 @@ Les festivals Japonais
 
 En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
 
-En été on a la plus part des matsuri qui sont organise dans tout le Japon, la plus part sont de festivals lie a la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
+En été on a la plus part des matsuri qui sont organisé dans tout le Japon, la plus part sont de festivals liés à la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
 
-En automne au Japon c'est la saison des recoltes et beaucoup des matsuri celebrent ca, comme __Hachiman Matsuri__ à Takayama.
+En automne au Japon c'est la saison des recoltes et beaucoup des matsuri celebrent ça, comme __Hachiman Matsuri__ à Takayama.
 
 En hiver on a le Nouvel An avec le visite du temple ou du sanctuaire selon la religion et célébration en famille et le __Yuki Matsuri__ à Sapporo avec ses statues de glace.
 
@@ -613,19 +627,23 @@ Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, él
 ---
 layout: image-right
 image: /photos/hihashiyama-kai.jpg
-background-size: 100%
+backgroundSize: 100%
 transition: fade
 ---
 
 # Et en plus
 
-Les couleurs et les symboles des quatre saisons dans la vie
-japonaise
-che ne pensi?
+Les couleurs et les symboles des quatre saisons
 
 ## Dans les arts
 
 Dans la peinture, sculpture, architecture, etc.
+
+<!-- 
+Tableaux de Higashiyama Kaii
+
+Titoli?
+ -->
 
 ---
 layout: image-right
@@ -635,9 +653,7 @@ transition: fade
 
 # Et en plus
 
-Les couleurs et les symboles des quatre saisons dans la tradition
-
-Va aggiunto qualcosa o va migliorata la frase?
+Les couleurs et les symboles des quatre saisons
 
 ## Dans les arts
 
@@ -645,7 +661,7 @@ Dans la peinture, sculpture, architecture, etc.
 
 ## Dans les vêtements
 
-Dans les Kimono, Yukata, Jinbei, Obi
+Dans les Kimono, Yukata, Jinbei, Obi, etc.
 
 <!-- 
 - Kimono
@@ -665,9 +681,7 @@ transition: fade
 
 # Et en plus
 
-Les couleurs et les symboles des quatre saisons dans la tradition
-
-Va aggiunto qualcosa o va migliorata la frase?
+Les couleurs et les symboles des quatre saisons
 
 ## Dans les arts
 
@@ -675,11 +689,12 @@ Dans la peinture, sculpture, architecture, etc.
 
 ## Dans les vêtements
 
-Dans les Kimono, Yukata, Jinbei, Obi
+Dans les Kimono, Yukata, Jinbei, Obi, etc.
 
 ## Dans le vocabulaire
 
-四季 (shiki) ou 春夏秋冬 (shunkashuuto)
+- 四季 (shiki)
+- 春夏秋冬 (shunkashuuto)
 
 <!--
 N/A
@@ -693,17 +708,14 @@ transition: fade
 
 # Et en plus
 
-Les couleurs et les symboles des quatre saisons dans la cuisine
+Les couleurs et les symboles des quatre saisons
 
 ## Dans la nourriture
 
-La nourriture à thème sakura en printemps
-
-Pour l' été on retrouve le ramen froid: hiyashi chuka
-
-En automne le dorayaki a la crème de châtaigne
-
-Le gâteau aux fraises a Noël
+- La nourriture à thème sakura en printemps
+- Le hiyashi chuka (ramen froid) en été
+- Le dorayaki à la crème de châtaigne en automne
+- Le gâteau aux fraises a Noël
 
 <br/>
 
@@ -721,22 +733,69 @@ layout: quote
 transition: fade-out
 ---
 
-# Au Japon les 4 saisons représentent l' équilibre qui existe entre les hommes et la nature.
-Elles marquent le passage du temps, car chaque année chaque symbole revient.
+# Au Japon les 4 saisons représentent l'équilibre qui existe entre les hommes et la nature
 
+Elles marquent le passage du temps, car chaque année tout revient
+
+<!--
+N/A
+-->
+
+---
+layout: image
+image: /images/manga1.jpeg
+transition: fade-out
+backgroundSize: cover
+---
 
 ---
 layout: image-right
-image: /images/manga1.jpeg
+image: /images/manga2.jpeg
 transition: fade-out
+backgroundSize: cover
 ---
 
-# Arts et Medias
+# Les Mangas
+
+Quelques curiosités
+
+<v-clicks>
+
+Souvent, à partir de mangas à succès, des animes, doramas, films peuvent être créés.
+- Dragon Ball, One Piece, Lupin III, Detective Conan, Naruto, etc.
+
+Mais l'inverse est vrai aussi:
+- Pokémon (jeux pour Game Boy), Gundam (anime), Disney, Star Wars etc.
+
+Un manga peut avoir n'importe quel thème.
+
+Les personnages de manga intègrent la vie quotidienne au Japon.
+</v-clicks>
+
+<!-- 
+
+Per la penultima riga: Un manga peut avoir n'importe quel thème.
+
+Amour, Action, Sports, Religion, Histoire du Japon, Famille, Voyages
+
+Per l'ultima riga:
+
+- Collaborations avec les marques, célébration de certains événements, promotion du tourisme, trains, nourriture, etc.
+
+...
+
+Au-delà des mangas plus connus comme les __shōjo__ et les __shōnen__, les mangas peuvent avoir n'importe quel theme et n'importe quel target.
+
+Les Animes et les Dorama (série télé japonaise) souvent sont des adaptations des Mangas plus populaires.
+
+En plus les Mangas peuvent originer des livres qui ont eu success.
+
+Mais aussi des productions independantes comme souvent fait par le Studio Ghibli.
 
 Les plus connus:
 
-Manga
-Anime
+Mangas
+Animes
 Dorama
 
 Hayao Miyazaki et le Studio GHIBLI 
@@ -745,106 +804,95 @@ Porco Rosso
 Kiki
 Princesse Mononoke
 
-
-<v-clicks>
-Les œuvres de Miyazaki sont caractérisées par la récurrence de thèmes tels que la relation de l'humanité avec la nature et la technologie, la salubrité des modes de vie naturels et traditionnels, l'importance de l'art et de l'artisanat, et la difficulté de maintenir une éthique pacifiste dans un monde violent. Les protagonistes de ses films sont souvent des filles ou des jeunes femmes fortes, et plusieurs de ses films présentent des protagonistes moralement ambigus dotés de qualités rédemptrices. Les œuvres de Miyazaki sont très appréciées et récompensées ; le réalisateur est nommé personne de mérite culturel pour ses contributions culturelles exceptionnelles en novembre 2012 et reçoit l'Oscar d'honneur pour son impact sur l'animation et le cinéma en novembre 2014. Miyazaki est cité comme une source d'inspiration pour de nombreux animateurs, réalisateurs et écrivains.
-  
-Au-delà des manga plus connus comme les __shōjo__ et les __shōnen__, les mangas peuvent avoir n'importe quel theme et n'importe quel target.
-
-Les Anime et les Dorama (série télé japonaise) souvent sont des adaptations des Manga plus populaires.
-
-En plus les Manga peuvent originer des livres qui ont eu success.
-
-Mais aussi des productions independantes comme souvent fait par le Studio Ghibli.
-
-</v-clicks>
-
-<!-- 
 Ils existent différents thèmes tels que la religion, le rakugo, l'amour et le sport.
 
 Les mangas (et autres formes culturelles telles que les animes, les doramas, la JPop, etc.) sont plus connus en Occident.
 
 Il y a des mangas pour tous les âges et avec différents thèmes.
 
-Il existe également des magazines où chaque numéro contient des pages avec une histoire faisant partie d'un manga.
+Il existe également des magazines où chaque numéro contient des pages avec une histoire faisant partie d'un mangas.
 Les mangas se lisent généralement de droite à gauche.
 
-https://www.japan.travel/fr/guide/japanese-anime-and-comics/
+https://www.japan.travel/fr/guide/japanese-animes-and-comics/
 
 En raison du rythme de publication élevé et pour réduire les coûts d'impression, la plupart des mangas sont dessinés en noir et blanc, à l'exception de la couverture.
 
-Le manga, bien ancré dans la culture japonaise moderne, trouve ses origines dans la peinture narrative apparue à l'époque de Nara (710-794), avec les premiers rouleaux narratifs peints japonais appelés emakimono. Ces œuvres associaient des peintures à des textes calligraphiés pour raconter une histoire qui se dévoilait au fur et à mesure du déroulement du rouleau.
+Le mangas, bien ancré dans la culture japonaise moderne, trouve ses origines dans la peinture narrative apparue à l'époque de Nara (710-794), avec les premiers rouleaux narratifs peints japonais appelés emakimono. Ces œuvres associaient des peintures à des textes calligraphiés pour raconter une histoire qui se dévoilait au fur et à mesure du déroulement du rouleau.
 
-Pendant la période Edo, les estampes étaient d'abord destinées à l'illustration de livres, mais elles ont rapidement donné naissance à des "livres à lire" en opposition aux "livres à regarder", tels que les kusazōshi comme le kibyōshi. Ensuite, les écrits complémentaires ont progressivement disparu et l'estampe "indépendante" en une seule illustration est devenue la forme la plus courante de l'ukiyo-e. C'est d'ailleurs Katsushika Hokusai (1760-1849), le fondateur de l'estampe de paysage, qui a donné son nom au manga (littéralement "dessins grotesques"), en référence à ses célèbres caricatures publiées de 1814 à 1834 à Nagoya, appelées les Hokusai Manga.
+Pendant la période Edo, les estampes étaient d'abord destinées à l'illustration de livres, mais elles ont rapidement donné naissance à des "livres à lire" en opposition aux "livres à regarder", tels que les kusazōshi comme le kibyōshi. Ensuite, les écrits complémentaires ont progressivement disparu et l'estampe "indépendante" en une seule illustration est devenue la forme la plus courante de l'ukiyo-e. C'est d'ailleurs Katsushika Hokusai (1760-1849), le fondateur de l'estampe de paysage, qui a donné son nom au mangas (littéralement "dessins grotesques"), en référence à ses célèbres caricatures publiées de 1814 à 1834 à Nagoya, appelées les Hokusai Mangas.
 
-Enfin, dans le manga de type shōjo notamment, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, sachant que ce mouvement a été en partie provoqué par le japonisme en Europe suite à la découverte des estampes par les Occidentaux.
+Enfin, dans le mangas de type shōjo notamment, l'Art nouveau occupe une place prépondérante parmi les influences des mangakas, sachant que ce mouvement a été en partie provoqué par le japonisme en Europe suite à la découverte des estampes par les Occidentaux.
 
-histoire des mangas
-pour reproduire les anime et dorama
+Les œuvres de Miyazaki sont caractérisées par la récurrence de thèmes tels que la relation de l'humanité avec la nature et la technologie, la salubrité des modes de vie naturels et traditionnels, l'importance de l'art et de l'artisanat, et la difficulté de maintenir une éthique pacifiste dans un monde violent. Les protagonistes de ses films sont souvent des filles ou des jeunes femmes fortes, et plusieurs de ses films présentent des protagonistes moralement ambigus dotés de qualités rédemptrices. Les œuvres de Miyazaki sont très appréciées et récompensées ; le réalisateur est nommé personne de mérite culturel pour ses contributions culturelles exceptionnelles en novembre 2012 et reçoit l'Oscar d'honneur pour son impact sur l'animation et le cinéma en novembre 2014. Miyazaki est cité comme une source d'inspiration pour de nombreux animateurs, réalisateurs et écrivains.
 
-Miyazaki
-Doraemon
-One Piece -->
+-->
 
 ---
 layout: image-right
 image: /photos/mascottes.jpeg
 transition: fade-out
-background-size: 120%
+backgroundSize: 105%
 ---
 
-# Arts et Medias
+# Pas que les Mangas
 
-Mascottes 
-
-<v-click>
-
-Une mascotte peut représenter:
-</v-click>
+Les mascottes aussi font partie de la vie quotidienne des Japonais.
 
 <v-clicks>
 
-- une préfecture
-- une entreprise
-- presque tout au Japon
+Une mascotte (緩キャラ/yurukyara) peut représenter presque tout au Japon:
 </v-clicks>
 
-<v-click>
+<v-clicks>
 
-Elles sont très populaires et utlisées partout au Japon.
-</v-click>
+- Préfectures ou villes
+  - [Musubimaru](https://x.com/musubimaru)
+  - [Sentokun](https://x.com/SentokunTeam)
+  - Shiromaruhime
+  - [Momocchi](https://x.com/Momochi_Okayama)
+- Initiatives sociales
+  - [Mannertee](https://yurukyara.fandom.com/wiki/Mannertee)
+  - [Koronon](https://x.com/koronon2020)
+- Entreprises, chaînes de restaurants, supermarchés, etc.
+</v-clicks>
 
 <!-- 
+Certaines mascottes sont si populaires que les liens qu'on a mis sont presque tous de comptes twitter/X
+
 Au Japon, les mascottes, ou yuru-kyara, jouent un rôle important: 
 elles servent à représenter leur préfecture ou leur entreprise. La mascotte la plus populaire du Japon, Kumamon, revient en France cette année à Japan Expo !
 
 -->
-niente jpop amore
-
 ---
 layout: image-right
 image: /photos/rakugo-ryuraku.jpg
 transition: fade-out
-background-size: fit
+backgroundSize: fit
 ---
 
-# Arts et Medias
+# Des personnages et des histoires
 
-Le théâtre
+Le théâtre, le Rakugo
 
 <v-clicks>
 
-Au délà du théâtre traditionnel comme le Kabuki et le Nō, nous avons aussi le:
+Le Rakugo est un forme de spectacle moins connu que le théâtre traditionnel comme le Kabuki et le Nō.
 
-Rakugo
-est une forme de spectacle littéraire japonais humoristique 
-tirerait ses origines des historiettes comiques racontées par les moines bouddhistes
-le Rakugoka s'assied sur la scène , il est habillé en Kimono, en genoux, utilise uniquement le sensu éventail de papier, le tenugui un essuie-main en cotton pour racconter une histoire, il décrit une histoire humoristique qui peut être longue et compliquée ou bien simple et courte.
+Le Rakugoka:
+- est habillé en kimono et se met à genoux sur un coussin sur scène
+- décrit une histoire humoristique
+- s'aide uniquement avec un sensu (éventail de papier) et un tenugui (essuie-main en coton)
 
+Il y a aussi des mangas sur le Rakugo comme [Akane Banashi](https://fr.wikipedia.org/wiki/Akane-banashi)
 </v-clicks>
 
 <!--
-Le Kabuki est une forme de théâtre traditionnel japonais qui a vu le jour à l’époque Edo, au début du dix-septième siècle, où il était particulièrement prisé des citadins. Joué à l’origine par des hommes et des femmes, il a été par la suite interprété par des troupes exclusivement masculines, tradition qui a perduré jusqu’à nos jours. Les acteurs spécialisés dans les rôles féminins sont appelés onnagata. Il existe deux autres grands types de rôles : l’aragoto (style violent) et le wagoto (style doux).
+
+Prima di passare di slides diciamo: On parle specifiquement du Rakugo parce que
+
+Cosi possiamo dire che possono fare esperienza di rakugo in francia
+
+Le Kabuki est une forme de théâtre traditionnel japonais qui a vu le jour à l’époque Edo, au début du dix-septième siècle, où il était particulièrement prisé des citadins. Joué à l’origine par des hommes et des femmes, il a été par la suite interprété par des troupes exclusivement masculines, tradition qui a perduré jusqu’à nos jours. Les acteurs spécialisés dans les rôles féminins sont appelés onnagata. Il existe deux autres grands types de rôles: l’aragoto (style violent) et le wagoto (style doux).
 Les pièces de Kabuki illustrent des événements historiques et le conflit moral lié aux relations affectives. Les acteurs s’expriment d’une voix monotone et sont accompagnés d’instruments traditionnels. La scène est équipée de divers dispositifs tels que des plateaux tournants et des trappes par lesquelles les acteurs peuvent apparaître et disparaître. Une autre spécificité du Kabuki est la passerelle (hanamichi) qui s’avance au milieu du public.
 
 Spectacle complet, les majestueuses pièces du nô sʼapparentent à un long poème chanté. Expression esthétique et allusive dʼune des formes du théâtre classique japonais, le nô, fortement influencé par le zen, associe la danse au chant, le mime à la poésie, la musique à la littérature. Drame au pouvoir incantatoire et à la magie souveraine, le nô, semble avoir été créé pour apaiser le cœur des hommes. Venant de la chambre au miroir où ils se préparent, les acteurs, exclusivement des hommes, entrent en scène toujours par la gauche du plateau. Ils traversent, comme dans un rituel, un pont, cheminement symbolique dʼun passage dʼun monde à lʼautre, de lʼau-delà vers le temporel. Accompagnés dʼun chœur et de musiciens, les protagonistes, entre danses et symboles, chants et dialogues, invitent le public à assister à une représentation inchangée depuis ses origines, il y a plus de six cents ans. Un rêve éveillé qui défie le temps.
@@ -852,8 +900,27 @@ les acteurs jouent essentiellement pour les shoguns et les samouraïs. Le théâ
 -->
 
 ---
+layout: quote
+transition: fade-out
+---
+
+# Vous pouvez découvrir le Rakugo en France aussi!
+
+<v-clicks>
+
+Et pas que a Nice
+
+<div class="m-10" style="flex: 1; float: center;">
+  <Youtube id="4KW4TdKvpSQ?start=90" width="600" height="300"/>
+</div>
+</v-clicks>
+
+<!--
+N/A
+-->
+
+---
 layout: center
-image: /images/kanji8.jpeg
 transition: fade-out
 ---
 
@@ -862,6 +929,7 @@ transition: fade-out
 <div/>
 
 <v-clicks>
+
 Mais on a que 50 minutes à disposition. 😁
 
 Aujourd'hui, nous avons fait un petit tour de différents aspects du Japon à travers notre expérience.
@@ -891,6 +959,10 @@ Lieux et événements dans la région PACA
 - Made in Japan à Monaco
   - https://monacoemu.com/made-in-japan-in-monaco-fr/
 - Restaurants Kamogawa et Ikko Ramen à Nice
+
+<!--
+N/A
+-->
 
 ---
 layout: jp-end
@@ -924,26 +996,6 @@ Dans le travail, il est important de bien faire son travail et même de faire de
 
 Les transports en commun sont un exemple de ponctualité. Mon expérience dans le dortoir: heure de fermeture du portail, réaction de l'agent de sécurité ancien et jeune.
 
-Les règles sont partout, même dans les aspects moins évidents. Par exemple : où marcher dans les rues, où aller sur l'escalier roulant, rentrer dans les transports en commun, à l'école, comment récupérer le diplôme, la position des mains et les inclinations. On ne peut pas manger à l'extérieur et il n'y a pas de poubelles pour ne pas salir les lieux.
+Les règles sont partout, même dans les aspects moins évidents. Par exemple: où marcher dans les rues, où aller sur l'escalier roulant, rentrer dans les transports en commun, à l'école, comment récupérer le diplôme, la position des mains et les inclinations. On ne peut pas manger à l'extérieur et il n'y a pas de poubelles pour ne pas salir les lieux.
 
 Les enfants prennent le métro et le bus tous seuls car en général c'est un lieu sécurisé au Japon. À l'école, ils apprennent à être autonomes, à faire le ménage et à maintenir la classe propre.
-
----
-hide: true
-transition: fade-out
----
-
-In the context of a talk for a conference, you might want to use phrases that are more specific to presentations and professional networking. Here are some French phrases tailored for such a setting:
-
-    “Bienvenue à tous.” - Welcome, everyone.
-    “Merci d’être venus.” - Thank you for coming.
-    “Nous allons commencer.” - We are going to start
-    “Je vous présente…” - I present to you…
-    “Nous avons l’honneur d’accueillir…” - We have the honor of welcoming…
-    “Je suis ravi(e) de discuter de…” - I am delighted to discuss…
-    “Passons à la séance de questions-réponses.” - Let’s move on to the Q&A session.
-    “N’hésitez pas à poser des questions.” - Feel free to ask questions.
-    “Je vous remercie de votre attention.” - Thank you for your attention.
-    “Au plaisir de vous revoir.” - Looking forward to seeing you again.
-
-These phrases can help set a professional tone and facilitate smooth interactions during a conference talk. Remember to adjust the formality based on your audience and the setting of the event.
