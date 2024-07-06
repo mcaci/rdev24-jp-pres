@@ -812,6 +812,7 @@ Une mascotte peut représenter:
 <v-click>
 
 Elles sont très populaires et utlisées partout au Japon.
+</qv-click>
 
 <!-- 
 Au Japon, les mascottes, ou yuru-kyara, jouent un rôle important: 
