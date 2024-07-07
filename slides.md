@@ -286,7 +286,7 @@ transition: fade-out
 
 <v-clicks>
 
-Nous pensons que la langue japonaise represente un peu la vie d'une personne.
+Nous pensons que la langue japonaise représente un peu la vie d'une personne.
 
 Le hiragana commence par "a", "i" et termine par "(w)o", "n".
 
@@ -309,7 +309,7 @@ image: /photos/kaiten_sushi.jpg
 transition: fade-out
 ---
 
-# A table!
+# À table!
 
 <!-- 
 Quels plats et boissons japonais connaissez-vous ?
@@ -337,13 +337,13 @@ backgroundSize: 110%
 
 # Japonais et Occidental
 
-Washoku/Wagashi ou Youshoku/Yougashi
+Washoku/Wagashi ou Yōshoku/Yōgashi
 
 <v-click>
 
 和食 Washoku/ 和菓子 Wagashi: la nourriture et les gâteaux japonais traditionnels.
 - sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
-- the (matcha, sencha, ...)
+- thé (matcha, sencha, ...)
 - dorayaki, taiyaki, mochi, dango
 
 </v-click>
@@ -361,14 +361,14 @@ backgroundSize: 120%
 
 # Japonais et Occidental
 
-Washoku/Wagashi ou Youshoku/Yougashi
+Washoku/Wagashi ou Yōshoku/Yōgashi
 
 和食 Washoku/ 和菓子 Wagashi: la nourriture et les gâteaux japonais traditionnels.
 - sushi, okonomiyaki, takoyaki, katsudon, yakisoba, onigiri
-- the (matcha, sencha, ...)
+- thé (matcha, sencha, ...)
 - dorayaki, taiyaki, mochi, dango
 
-洋食 Youshoku/ 洋菓子 Yougashi: la nourriture et les gâteaux d'inspiration occidentale.
+洋食 Yōshoku/ 洋菓子 Yōgashi: la nourriture et les gâteaux d'inspiration occidentale.
 - omuraisu, korokke, naporitan
 - kareraisu
 - ramune
@@ -443,8 +443,8 @@ Kyushu et Okinawa: Castera, Takoraisu, Goya
 <!--
 Le nord et le sud du Japon ont des spécialités:
 - Différentes recettes de ramen selon la région.
-- Okonomiyaki, takoyaki et kushikatsu à Osaka.
-- Monjayaki à Tokyo.
+- Okonomiyaki, takoyaki et kushikatsu à Ōsaka.
+- Monjayaki à Tōkyō.
 - Takoraisu à Okinawa.
 - Gyoza.
 - Yakisoba.
@@ -570,7 +570,7 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les différentes étapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour connaître les différentes étapes de floraison du cerisier.
 
 ---
 layout: image-right
@@ -582,9 +582,10 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les différentes étapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour connaître les différentes étapes de floraison du cerisier.
 
-En été on a la plus part des matsuri qui sont organisé dans tout le Japon, la plus part sont de festivals liés à la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
+En été on a la plupart des matsuri qui sont organisés dans tout le Japon, la plupart sont des festivals liés à la religion Shintō , comme le __Sanno Matsuri__ à Tōkyō .
+
 
 ---
 layout: image-right
@@ -596,11 +597,13 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour savoir les différentes étapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour connaître les différentes étapes de floraison du cerisier.
 
-En été on a la plus part des matsuri qui sont organisé dans tout le Japon, la plus part sont de festivals liés à la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
+En été on a la plupart des matsuri qui sont organisés dans tout le Japon, la plupart sont des festivals liés à la religion Shintō , comme le __Sanno Matsuri__ à Tōkyō .
 
-En automne au Japon c'est la saison des récoltes et beaucoup des matsuri celebrent ça, comme __Hachiman Matsuri__ à Takayama.
+En automne au Japon c'est la saison des récoltes et beaucoup des matsuri célèbrent ça, comme __Hachiman Matsuri__ à Takayama.
+
+
 
 ---
 layout: image-right
@@ -612,16 +615,18 @@ transition: fade
 
 Les festivals Japonais
 
-En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre meteo pour savoir les differentes etapes de floraison du cerisier.
+En printemps on a le __Hina Matsuri__, dédié aux jeunes filles, et le __Sakura Matsuri__ avec sa propre météo pour connaître les différentes étapes de floraison du cerisier.
 
-En été on a la plus part des matsuri qui sont organisé dans tout le Japon, la plus part sont de festivals liés à la religion Shinto, comme pour exemple le __Sanno Matsuri__ à Tokyo.
+En été on a la plupart des matsuri qui sont organisés dans tout le Japon, la plupart sont des festivals liés à la religion Shintō , comme le __Sanno Matsuri__ à Tōkyō .
 
-En automne au Japon c'est la saison des recoltes et beaucoup des matsuri celebrent ça, comme __Hachiman Matsuri__ à Takayama.
+En automne au Japon c'est la saison des récoltes et beaucoup des matsuri célèbrent ça, comme __Hachiman Matsuri__ à Takayama.
 
-En hiver on a le Nouvel An avec le visite du temple ou du sanctuaire selon la religion et célébration en famille et le __Yuki Matsuri__ à Sapporo avec ses statues de glace.
+En hiver on a le Nouvel An avec le visite du temple ou du sanctuaire selon la religion et la célébration en famille et le __Yuki Matsuri__ à Sapporo avec ses statues de glace.
 
 <!--
-Les Japonais ont un fort respect de la nature, car selon le shinto, le kami, élément surnaturel, est présent dans chaque élément de la nature.
+Les Japonais ont un fort respect de la nature, car selon le shintō , le kami, élément surnaturel, est présent dans chaque élément de la nature.
+
+
 -->
 
 ---
@@ -637,7 +642,7 @@ Les couleurs et les symboles des quatre saisons
 
 ## Dans les arts
 
-Dans la peinture, sculpture, architecture, etc.
+Dans la peinture, sculpture, architecture etc.
 
 <!-- 
 Tableaux de Higashiyama Kaii
@@ -694,7 +699,7 @@ Dans les Kimono, Yukata, Jinbei, Obi, etc.
 ## Dans le vocabulaire
 
 - 四季 (shiki)
-- 春夏秋冬 (shunkashuuto)
+- 春夏秋冬 (shunkashūto)
 
 <!--
 N/A
@@ -715,7 +720,7 @@ Les couleurs et les symboles des quatre saisons
 - La nourriture à thème sakura en printemps
 - Le hiyashi chuka (ramen froid) en été
 - Le dorayaki à la crème de châtaigne en automne
-- Le gâteau aux fraises a Noël
+- Le gâteau aux fraises à Noël
 
 <br/>
 
@@ -929,8 +934,6 @@ transition: fade-out
 <div/>
 
 <v-clicks>
-
-Mais on a que 50 minutes à disposition. 😁
 
 Aujourd'hui, nous avons fait un petit tour de différents aspects du Japon à travers notre expérience.
 
