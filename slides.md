@@ -642,7 +642,7 @@ Dans la peinture, sculpture, architecture, etc.
 <!-- 
 Tableaux de Higashiyama Kaii
 
-Titoli?
+feuilles d’automne scintillantes, Jardin de pierres sous la neige, Fleurs nocturnes brillantes, fin d'été
  -->
 
 ---
