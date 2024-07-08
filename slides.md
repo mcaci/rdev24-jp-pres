@@ -114,7 +114,8 @@ Quelques mots sur nous
 <img src="/photos/michele.jpeg" alt="image of michele" class="rounded shadow" height=90% width=90%/>
 
 <!--
-N/A
+Mary: J’ai fait des études sur les langues orientales et un particulier j’ai étudié la langue japonaise pour plus de 5 ans entre l’ Italie et le Japon, Tokyo, où j’ai habité pour un an comme Nikkensei (j’étais choisi par le Gouvernement Japonais pour faire des études sur le Japon et écrire un rapport sur théâtre moderne en Italie et au Japon)
+Après avoir connu Riviera Dev j’ai commencé à m’ interesser au monde de la programmation, un particulier au langage Go, dans mon temps libre j'essaye de lire des livres sur les différents langages de programmation et de participer aux différents événements organisés par des développeurs.
 -->
 
 ---
@@ -224,7 +225,13 @@ Après ça dépend de vous:
   - Regardez et/ou écoutez des doramas, des chansons et des podcasts
 </v-clicks>
 
-<!-- Hiragana
+<!-- 
+Mary: 
+Kanji: écrire tous les jours
+regarder dorama
+au début faire des phrases simples
+
+Hiragana
 
 - 46 syllabaires
 - utilisé pour (entre autres):
@@ -409,7 +416,7 @@ Tōkyō / Kantō
 <div v-click="[3, 4]">
 
 Sendai / Tohoku
-- Gyutan, Fraises
+- Gyūtan, Fraises
   <div class="images-container">
     <img src="/photos/gyutan2.jpg" alt="image of gyutan" class="absolute rounded shadow" style="top: 25%; left: 10%; height: 33%; width: 33%;"/>
     <img src="/photos/ichigo.jpg" alt="image of strawberry" class="absolute rounded shadow" style="top: 25%; left: 45%; height: 33%; width: 33%;"/>
@@ -418,7 +425,7 @@ Sendai / Tohoku
 
 <div v-click="[4, 5]">
 
-Hiroshima / Chugoku
+Hiroshima / Chūgoku
 - Okonomiyaki Hiroshima-sytle
   <div class="images-container">
     <img src="/photos/soba_okonomiyaki.jpg" alt="image of soba okonomiyaki" class="absolute rounded shadow" style="bottom: 25%; left: 10%; height: 33%; width: 33%;"/>
@@ -503,8 +510,7 @@ Quelques mots clés
 - Rigueur, précision, ponctualité, respect
 - Coexistence de l'antiquité et de la modernité
   - Temples et gratte-ciels dans le même quartier
-  - Vêtements occidentaux et vêtements traditionnels comme le kimono
-    - Dame avec kimono dans le métro
+  - Vêtements occidentaux et vêtements traditionnels comme le kimono (Dame avec kimono dans le métro)
   - Grands jardins dans une grande ville où il y a uniquement les sons de la nature
 - Les mangas et animes
 - L'art: theatre, peinture, ecriture (livres)
@@ -514,10 +520,6 @@ Quelques mots clés
 - Les robots et la technologie
 - Les maisons traditionelles et les ryoukan
 
-Nous souhaitons vous faire connaître aussi:
-- rakugo
-- jujitsu 
-- shinto
 -->
 
 ---
@@ -877,11 +879,11 @@ backgroundSize: fit
 
 # Des personnages et des histoires
 
-Le théâtre, le Rakugo
+Le théâtre Rakugo
 
 <v-clicks>
 
-Le Rakugo est un forme de spectacle moins connu que le théâtre traditionnel comme le Kabuki et le Nō.
+Le Rakugo est une forme de spectacle moins connue que le théâtre traditionnel comme le Kabuki et le Nō.
 
 Le Rakugoka:
 - est habillé en kimono et se met à genoux sur un coussin sur scène
